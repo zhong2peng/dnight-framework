@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dnight-demo" />
+        <module name="dnight-gis" />
+        <module name="dnight-hihocoder" />
+        <module name="dnight-leetcode" />
+        <module name="dnight-solr" />
+        <module name="dnight-springcloud" />
+        <module name="ElasticSearch" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dnight-demo" target="1.8" />
+      <module name="dnight-frameword" target="1.8" />
+      <module name="dnight-framework" target="1.8" />
+      <module name="dnight-gis" target="1.8" />
+      <module name="dnight-hihocoder" target="1.8" />
+      <module name="dnight-leetcode" target="1.8" />
+      <module name="dnight-solr" target="1.8" />
+      <module name="dnight-springcloud" target="1.8" />
+      <module name="ElasticSearch" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
