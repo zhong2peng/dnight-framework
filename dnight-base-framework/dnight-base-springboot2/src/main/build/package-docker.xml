@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assembly xmlns="http://maven.apache.org/ASSEMBLY/2.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/ASSEMBLY/2.0.0 http://maven.apache.org/xsd/assembly-2.0.0.xsd">
+    <id>package</id>
+    <formats>
+        <format>tar.gz</format>
+    </formats>
+    <includeBaseDirectory>true</includeBaseDirectory>
+    <fileSets>
+
+        <!-- app_control.bash等全局性共享脚本 -->
+        <fileSet>
+            <directory>src/main/bin</directory>
+            <outputDirectory>/bin</outputDirectory>
+            <fileMode>0744</fileMode>
+            <directoryMode>0744</directoryMode>
+        </fileSet>
+        <fileSet>
+            <directory>src/main/resources</directory>
+            <outputDirectory>/conf</outputDirectory>
+            <fileMode>0744</fileMode>
+            <directoryMode>0744</directoryMode>
+            <includes>
+                <include>logback-spring.xml</include>
+            </includes>
+        </fileSet>
+        <!--  环境相关的 -->
+        <fileSet>
+            <directory>src/main/profiles/docker</directory>
+            <outputDirectory>/</outputDirectory>
+            <fileMode>0744</fileMode>
+            <directoryMode>0744</directoryMode>
+        </fileSet>
+
+        <fileSet>
+            <directory>${project.build.directory}</directory>
+            <outputDirectory>/</outputDirectory>
+            <includes>
+                <include>*.jar</include>
+            </includes>
+            <excludes>
+                <exclude>*-exec.jar</exclude>
+            </excludes>
+        </fileSet>
+    </fileSets>
+</assembly>
