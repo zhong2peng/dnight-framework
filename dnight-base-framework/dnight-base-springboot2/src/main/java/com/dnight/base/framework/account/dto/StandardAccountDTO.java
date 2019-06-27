@@ -121,5 +121,12 @@ public class StandardAccountDTO implements Serializable {
 	@ApiModelProperty(value = "账户过期时间")
 	private Date expireTime;
 
+	private Date createTime;
+
+	private Long createBy;
+
+	private Date updateTime;
+
+	private Long updateBy;
 
 }

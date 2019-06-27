@@ -17,205 +17,206 @@
         <module>dnight-netty</module>
         <module>dnight-base-framework</module>
         <module>dnight-test</module>
+        <module>dnight-structure</module>
     </modules>
     <name>dnight-frameword</name>
     <description>亲自操手写一些框架内容</description>
     <packaging>pom</packaging>
 
 
-    <!--&lt;!&ndash; 公共信息配置 &ndash;&gt;-->
-    <!--<properties>-->
-        <!--&lt;!&ndash; 項目配置 &ndash;&gt;-->
-        <!--<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>-->
-        <!--<project.build.resourceEncoding>UTF-8</project.build.resourceEncoding>-->
-        <!--<maven.compile.encoding>UTF-8</maven.compile.encoding>-->
-        <!--<maven.compiler.source>1.8</maven.compiler.source>-->
-        <!--<maven.compiler.target>1.8</maven.compiler.target>-->
+    <!-- 公共信息配置 -->
+    <properties>
+        <!-- 項目配置 -->
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.build.resourceEncoding>UTF-8</project.build.resourceEncoding>
+        <maven.compile.encoding>UTF-8</maven.compile.encoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
 
 
-        <!--&lt;!&ndash; Log libs &ndash;&gt;-->
-        <!--<slf4j.version>1.7.25</slf4j.version>-->
-        <!--<logback.version>1.2.3</logback.version>-->
+        <!-- Log libs -->
+        <slf4j.version>1.7.25</slf4j.version>
+        <logback.version>1.2.3</logback.version>
 
-        <!--&lt;!&ndash;Common libs &ndash;&gt;-->
-        <!--<servlet.version>2.5</servlet.version>-->
-        <!--<javax.servlet.version>3.1.0</javax.servlet.version>-->
-        <!--<javax.el-api.version>3.0.0</javax.el-api.version>-->
+        <!--Common libs -->
+        <servlet.version>2.5</servlet.version>
+        <javax.servlet.version>3.1.0</javax.servlet.version>
+        <javax.el-api.version>3.0.0</javax.el-api.version>
 
-        <!--<commons-lang3.version>3.6</commons-lang3.version>-->
-        <!--<commons-configuration.version>1.8</commons-configuration.version>-->
-        <!--<guava.version>22.0</guava.version>-->
-        <!--<fastjson.version>1.2.29</fastjson.version>-->
-        <!--<icu4j.version>58.1</icu4j.version>-->
+        <commons-lang3.version>3.6</commons-lang3.version>
+        <commons-configuration.version>1.8</commons-configuration.version>
+        <guava.version>22.0</guava.version>
+        <fastjson.version>1.2.29</fastjson.version>
+        <icu4j.version>58.1</icu4j.version>
 
-        <!--&lt;!&ndash; spring boot support &ndash;&gt;-->
-        <!--<spring-boot.version>2.1.0.RELEASE</spring-boot.version>-->
+        <!-- spring boot support -->
+        <spring-boot.version>2.1.0.RELEASE</spring-boot.version>
 
-        <!--&lt;!&ndash; Test libs &ndash;&gt;-->
-        <!--<junit.version>4.12</junit.version>-->
-        <!--<mockito-all.version>1.10.19</mockito-all.version>-->
-        <!--<easymock.version>3.0</easymock.version>-->
-        <!--<jmockit.version>1.7</jmockit.version>-->
-        <!--<jmockit-coverage.version>0.999.26</jmockit-coverage.version>-->
-    <!--</properties>-->
+        <!-- Test libs -->
+        <junit.version>4.12</junit.version>
+        <mockito-all.version>1.10.19</mockito-all.version>
+        <easymock.version>3.0</easymock.version>
+        <jmockit.version>1.7</jmockit.version>
+        <jmockit-coverage.version>0.999.26</jmockit-coverage.version>
+    </properties>
 
-    <!--<dependencyManagement>-->
-        <!--<dependencies>-->
-            <!--&lt;!&ndash; Log libs &ndash;&gt;-->
-            <!--<dependency>-->
-                <!--<groupId>org.slf4j</groupId>-->
-                <!--<artifactId>slf4j-api</artifactId>-->
-                <!--<version>${slf4j.version}</version>-->
-            <!--</dependency>-->
-            <!--<dependency>-->
-                <!--<groupId>org.slf4j</groupId>-->
-                <!--<artifactId>slf4j-ext</artifactId>-->
-                <!--<version>${slf4j.version}</version>-->
-            <!--</dependency>-->
-            <!--<dependency>-->
-                <!--<groupId>org.slf4j</groupId>-->
-                <!--<artifactId>jul-to-slf4j</artifactId>-->
-                <!--<version>${slf4j.version}</version>-->
-            <!--</dependency>-->
-            <!--<dependency>-->
-                <!--<groupId>org.slf4j</groupId>-->
-                <!--<artifactId>jcl-over-slf4j</artifactId>-->
-                <!--<version>${slf4j.version}</version>-->
-            <!--</dependency>-->
-            <!--<dependency>-->
-                <!--<groupId>org.slf4j</groupId>-->
-                <!--<artifactId>log4j-over-slf4j</artifactId>-->
-                <!--<version>${slf4j.version}</version>-->
-            <!--</dependency>-->
-            <!--<dependency>-->
-                <!--<groupId>ch.qos.logback</groupId>-->
-                <!--<artifactId>logback-classic</artifactId>-->
-                <!--<version>${logback.version}</version>-->
-            <!--</dependency>-->
+    <dependencyManagement>
+        <dependencies>
+            <!-- Log libs -->
+            <dependency>
+                <groupId>org.slf4j</groupId>
+                <artifactId>slf4j-api</artifactId>
+                <version>${slf4j.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.slf4j</groupId>
+                <artifactId>slf4j-ext</artifactId>
+                <version>${slf4j.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.slf4j</groupId>
+                <artifactId>jul-to-slf4j</artifactId>
+                <version>${slf4j.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.slf4j</groupId>
+                <artifactId>jcl-over-slf4j</artifactId>
+                <version>${slf4j.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.slf4j</groupId>
+                <artifactId>log4j-over-slf4j</artifactId>
+                <version>${slf4j.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.qos.logback</groupId>
+                <artifactId>logback-classic</artifactId>
+                <version>${logback.version}</version>
+            </dependency>
 
-            <!--&lt;!&ndash; common libs &ndash;&gt;-->
-            <!--<dependency>-->
-                <!--<groupId>javax.servlet</groupId>-->
-                <!--<artifactId>servlet-api</artifactId>-->
-                <!--<version>${servlet.version}</version>-->
-                <!--<scope>provided</scope>-->
-            <!--</dependency>-->
-            <!--<dependency>-->
-                <!--<groupId>javax.servlet</groupId>-->
-                <!--<artifactId>javax.servlet-api</artifactId>-->
-                <!--<version>${javax.servlet.version}</version>-->
-                <!--<scope>provided</scope>-->
-            <!--</dependency>-->
-            <!--<dependency>-->
-                <!--<groupId>javax.el</groupId>-->
-                <!--<artifactId>javax.el-api</artifactId>-->
-                <!--<version>${javax.el-api.version}</version>-->
-                <!--<scope>provided</scope>-->
-            <!--</dependency>-->
-            <!--<dependency>-->
-                <!--<groupId>org.apache.commons</groupId>-->
-                <!--<artifactId>commons-lang3</artifactId>-->
-                <!--<version>${commons-lang3.version}</version>-->
-            <!--</dependency>-->
-            <!--<dependency>-->
-                <!--<groupId>com.google.guava</groupId>-->
-                <!--<artifactId>guava</artifactId>-->
-                <!--<version>${guava.version}</version>-->
-            <!--</dependency>-->
-            <!--<dependency>-->
-                <!--<groupId>com.alibaba</groupId>-->
-                <!--<artifactId>fastjson</artifactId>-->
-                <!--<version>${fastjson.version}</version>-->
-            <!--</dependency>-->
-            <!--<dependency>-->
-                <!--<groupId>com.ibm.icu</groupId>-->
-                <!--<artifactId>icu4j</artifactId>-->
-                <!--<version>${icu4j.version}</version>-->
-            <!--</dependency>-->
+            <!-- common libs -->
+            <dependency>
+                <groupId>javax.servlet</groupId>
+                <artifactId>servlet-api</artifactId>
+                <version>${servlet.version}</version>
+                <scope>provided</scope>
+            </dependency>
+            <dependency>
+                <groupId>javax.servlet</groupId>
+                <artifactId>javax.servlet-api</artifactId>
+                <version>${javax.servlet.version}</version>
+                <scope>provided</scope>
+            </dependency>
+            <dependency>
+                <groupId>javax.el</groupId>
+                <artifactId>javax.el-api</artifactId>
+                <version>${javax.el-api.version}</version>
+                <scope>provided</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.commons</groupId>
+                <artifactId>commons-lang3</artifactId>
+                <version>${commons-lang3.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.google.guava</groupId>
+                <artifactId>guava</artifactId>
+                <version>${guava.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.alibaba</groupId>
+                <artifactId>fastjson</artifactId>
+                <version>${fastjson.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.ibm.icu</groupId>
+                <artifactId>icu4j</artifactId>
+                <version>${icu4j.version}</version>
+            </dependency>
 
-            <!--&lt;!&ndash; Test libs &ndash;&gt;-->
-            <!--<dependency>-->
-                <!--<groupId>junit</groupId>-->
-                <!--<artifactId>junit</artifactId>-->
-                <!--<version>${junit.version}</version>-->
-                <!--<scope>test</scope>-->
-            <!--</dependency>-->
-            <!--<dependency>-->
-                <!--<groupId>org.mockito</groupId>-->
-                <!--<artifactId>mockito-all</artifactId>-->
-                <!--<version>${mockito-all.version}</version>-->
-            <!--</dependency>-->
-            <!--<dependency>-->
-                <!--<groupId>com.googlecode.jmockit</groupId>-->
-                <!--<artifactId>jmockit</artifactId>-->
-                <!--<version>1.7</version>-->
-                <!--<scope>test</scope>-->
-            <!--</dependency>-->
-            <!--<dependency>-->
-                <!--<groupId>com.googlecode.jmockit</groupId>-->
-                <!--<artifactId>jmockit-coverage</artifactId>-->
-                <!--<version>${jmockit-coverage.version}</version>-->
-            <!--</dependency>-->
-            <!--<dependency>-->
-                <!--<groupId>org.easymock</groupId>-->
-                <!--<artifactId>easymock</artifactId>-->
-                <!--<version>${easymock.version}</version>-->
-                <!--<scope>test</scope>-->
-            <!--</dependency>-->
-            <!--<dependency>-->
-                <!--<groupId>org.easymock</groupId>-->
-                <!--<artifactId>easymockclassextension</artifactId>-->
-                <!--<version>${easymock.version}</version>-->
-                <!--<scope>test</scope>-->
-            <!--</dependency>-->
+            <!-- Test libs -->
+            <dependency>
+                <groupId>junit</groupId>
+                <artifactId>junit</artifactId>
+                <version>${junit.version}</version>
+                <scope>test</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.mockito</groupId>
+                <artifactId>mockito-all</artifactId>
+                <version>${mockito-all.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.googlecode.jmockit</groupId>
+                <artifactId>jmockit</artifactId>
+                <version>1.7</version>
+                <scope>test</scope>
+            </dependency>
+            <dependency>
+                <groupId>com.googlecode.jmockit</groupId>
+                <artifactId>jmockit-coverage</artifactId>
+                <version>${jmockit-coverage.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.easymock</groupId>
+                <artifactId>easymock</artifactId>
+                <version>${easymock.version}</version>
+                <scope>test</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.easymock</groupId>
+                <artifactId>easymockclassextension</artifactId>
+                <version>${easymock.version}</version>
+                <scope>test</scope>
+            </dependency>
 
-            <!--&lt;!&ndash; spring boot support &ndash;&gt;-->
-            <!--<dependency>-->
-                <!--<groupId>org.springframework.boot</groupId>-->
-                <!--<artifactId>spring-boot-dependencies</artifactId>-->
-                <!--<version>${spring-boot.version}</version>-->
-                <!--<type>pom</type>-->
-                <!--<scope>import</scope>-->
-            <!--</dependency>-->
+            <!-- spring boot support -->
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-dependencies</artifactId>
+                <version>${spring-boot.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
 
-            <!--&lt;!&ndash; Test &ndash;&gt;-->
-            <!--<dependency>-->
-                <!--<groupId>org.springframework.boot</groupId>-->
-                <!--<artifactId>spring-boot-starter-test</artifactId>-->
-                <!--<scope>test</scope>-->
-            <!--</dependency>-->
-        <!--</dependencies>-->
-    <!--</dependencyManagement>-->
+            <!-- Test -->
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-test</artifactId>
+                <scope>test</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
 
-    <!--<repositories>-->
-        <!--<repository>-->
-            <!--<id>nexus</id>-->
-            <!--<name>nexus</name>-->
-            <!--<url>http://nexus.ipo.com/nexus/content/groups/public/</url>-->
-            <!--<releases>-->
-                <!--<enabled>true</enabled>-->
-            <!--</releases>-->
-            <!--<snapshots>-->
-                <!--<enabled>true</enabled>-->
-            <!--</snapshots>-->
-        <!--</repository>-->
-        <!--<repository>-->
-            <!--<id>3rd.nexus</id>-->
-            <!--<name>thirdparty central mirror</name>-->
-            <!--<url>http://nexus.ipo.com/nexus/content/repositories/thirdparty/</url>-->
-        <!--</repository>-->
-    <!--</repositories>-->
+    <repositories>
+        <repository>
+            <id>nexus</id>
+            <name>nexus</name>
+            <url>http://nexus.ipo.com/nexus/content/groups/public/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+        <repository>
+            <id>3rd.nexus</id>
+            <name>thirdparty central mirror</name>
+            <url>http://nexus.ipo.com/nexus/content/repositories/thirdparty/</url>
+        </repository>
+    </repositories>
 
-    <!--<distributionManagement>-->
-        <!--<repository>-->
-            <!--<id>releases</id>-->
-            <!--<url>http://nexus.ipo.com/nexus/content/repositories/releases</url>-->
-        <!--</repository>-->
-        <!--<snapshotRepository>-->
-            <!--<id>snapshots</id>-->
-            <!--<url>http://nexus.ipo.com/nexus/content/repositories/snapshots</url>-->
-        <!--</snapshotRepository>-->
-    <!--</distributionManagement>-->
+    <distributionManagement>
+        <repository>
+            <id>releases</id>
+            <url>http://nexus.ipo.com/nexus/content/repositories/releases</url>
+        </repository>
+        <snapshotRepository>
+            <id>snapshots</id>
+            <url>http://nexus.ipo.com/nexus/content/repositories/snapshots</url>
+        </snapshotRepository>
+    </distributionManagement>
 
     <!--<build>-->
         <!--<plugins>-->

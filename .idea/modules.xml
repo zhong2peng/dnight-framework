@@ -2,27 +2,24 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-framework.iml" filepath="$PROJECT_DIR$/dnight-base-framework/dnight-base-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/dnight-base-springboot2.iml" filepath="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/dnight-base-springboot2.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-demo/dnight-demo.iml" filepath="$PROJECT_DIR$/dnight-demo/dnight-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dnight-framework.iml" filepath="$PROJECT_DIR$/dnight-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dnight-framework.iml" filepath="$PROJECT_DIR$/.idea/dnight-framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-gis/dnight-gis.iml" filepath="$PROJECT_DIR$/dnight-gis/dnight-gis.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-hihocoder/dnight-hihocoder.iml" filepath="$PROJECT_DIR$/dnight-hihocoder/dnight-hihocoder.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/dnight-leetcode.iml" filepath="$PROJECT_DIR$/dnight-leetcode/dnight-leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-netty/dnight-netty.iml" filepath="$PROJECT_DIR$/dnight-netty/dnight-netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-solr/dnight-solr.iml" filepath="$PROJECT_DIR$/dnight-solr/dnight-solr.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-springcloud/dnight-springcloud.iml" filepath="$PROJECT_DIR$/dnight-springcloud/dnight-springcloud.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【001】【TwoSum】/【001】【TwoSum】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【001】【TwoSum】/【001】【TwoSum】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【002】【AddTwoNumbers】/【002】【AddTwoNumbers】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【002】【AddTwoNumbers】/【002】【AddTwoNumbers】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【003】【LongSubstringWithoutRepeatingCharacters】/【003】【LongSubstringWithoutRepeatingCharacters】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【003】【LongSubstringWithoutRepeatingCharacters】/【003】【LongSubstringWithoutRepeatingCharacters】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【004】【MedianOfTwoSortedArrays】/【004】【MedianOfTwoSortedArrays】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【004】【MedianOfTwoSortedArrays】/【004】【MedianOfTwoSortedArrays】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【005】【LongestPalindromicSubstringTotal】/【005】【LongestPalindromicSubstringTotal】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【005】【LongestPalindromicSubstringTotal】/【005】【LongestPalindromicSubstringTotal】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【006】【ZigZagConversion】/【006】【ZigZagConversion】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【006】【ZigZagConversion】/【006】【ZigZagConversion】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【007】【ReverseInterger】/【007】【ReverseInterger】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【007】【ReverseInterger】/【007】【ReverseInterger】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【008】【StringToInterger（atoi）】/【008】【StringToInterger（atoi）】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【008】【StringToInterger（atoi）】/【008】【StringToInterger（atoi）】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【009】【PalindromeNumber】/【009】【PalindromeNumber】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【009】【PalindromeNumber】/【009】【PalindromeNumber】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【010】【RegularExpressionMatching】/【010】【RegularExpressionMatching】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【010】【RegularExpressionMatching】/【010】【RegularExpressionMatching】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【011】【ContainerWithMostWater】/【011】【ContainerWithMostWater】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【011】【ContainerWithMostWater】/【011】【ContainerWithMostWater】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【012】【IntegerToRoman】/【012】【IntegerToRoman】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【012】【IntegerToRoman】/【012】【IntegerToRoman】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【023】【MergeKSortedLists】/【023】【MergeKSortedLists】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【023】【MergeKSortedLists】/【023】【MergeKSortedLists】.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【024】【SwapNodesInPairs】/【024】【SwapNodesInPairs】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【024】【SwapNodesInPairs】/【024】【SwapNodesInPairs】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-structure/dnight-structure.iml" filepath="$PROJECT_DIR$/dnight-structure/dnight-structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-test/dnight-test.iml" filepath="$PROJECT_DIR$/dnight-test/dnight-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【025】【Reverse Nodes In K-Group】/【025】【Reverse Nodes In K-Group】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【025】【Reverse Nodes In K-Group】/【025】【Reverse Nodes In K-Group】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【026】【Remove Duplicates From Sorted Array】/【026】【Remove Duplicates From Sorted Array】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【026】【Remove Duplicates From Sorted Array】/【026】【Remove Duplicates From Sorted Array】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【027】【Remove Element】/【027】【Remove Element】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【027】【Remove Element】/【027】【Remove Element】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【028】【Implement-strStr】/【028】【Implement-strStr】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【028】【Implement-strStr】/【028】【Implement-strStr】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【029】【Divide Two Integers】/【029】【Divide Two Integers】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【029】【Divide Two Integers】/【029】【Divide Two Integers】.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【030】【Substring With Concatenation of All Words】/【030】【Substring With Concatenation of All Words】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【030】【Substring With Concatenation of All Words】/【030】【Substring With Concatenation of All Words】.iml" />
     </modules>
   </component>
 </project>
