@@ -2,175 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70f7e6f9-c32d-4117-b889-53441f6c6378" name="Default" comment="提交">
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0000][common]/[0000][common].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0000][common]/src/FileRename.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0001][TwoSum]/[0001][TwoSum].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0001][TwoSum]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0001][TwoSum]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0002][AddTwoNumbers]/[0002][AddTwoNumbers].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0002][AddTwoNumbers]/src/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0002][AddTwoNumbers]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0003][LongSubstringWithoutRepeatingCharacters]/[0003][LongSubstringWithoutRepeatingCharacters].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0003][LongSubstringWithoutRepeatingCharacters]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0004][MedianOfTwoSortedArrays]/[0004][MedianOfTwoSortedArrays].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0004][MedianOfTwoSortedArrays]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0005][LongestPalindromicSubstringTotal]/[0005][LongestPalindromicSubstringTotal].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0005][LongestPalindromicSubstringTotal]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0005][LongestPalindromicSubstringTotal]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0006][ZigZagConversion]/[0006][ZigZagConversion].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0006][ZigZagConversion]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0007][ReverseInterger]/[0007][ReverseInterger].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0007][ReverseInterger]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0008][StringToInterger(atoi)]/[0008][StringToInterger(atoi)].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0008][StringToInterger(atoi)]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0009][PalindromeNumber]/[0009][PalindromeNumber].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0009][PalindromeNumber]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0010][RegularExpressionMatching]/[0010][RegularExpressionMatching].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0010][RegularExpressionMatching]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0010][RegularExpressionMatching]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0011][ContainerWithMostWater]/[0011][ContainerWithMostWater].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0011][ContainerWithMostWater]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0012][IntegerToRoman]/[0012][IntegerToRoman].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0012][IntegerToRoman]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0013][RomarToInteger]/[0013][RomarToInteger].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0013][RomarToInteger]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0013][RomarToInteger]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0014][LongestCommonPrefix]/[0014][LongestCommonPrefix].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0014][LongestCommonPrefix]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0015][3Sum]/[0015][3Sum].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0015][3Sum]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0015][3Sum]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0016][3SumClosest]/[0016][3SumClosest].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0016][3SumClosest]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0016][3SumClosest]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0017][LetterCombinationsOfAPhonNumber]/[0017][LetterCombinationsOfAPhonNumber].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0017][LetterCombinationsOfAPhonNumber]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0017][LetterCombinationsOfAPhonNumber]/src/phone-number.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0018][4Sum]/[0018][4Sum].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0018][4Sum]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0019][RemoveNthNodeFromEndOfList]/[0019][RemoveNthNodeFromEndOfList].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0019][RemoveNthNodeFromEndOfList]/src/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0019][RemoveNthNodeFromEndOfList]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0020][ValidParentheses]/[0020][ValidParentheses].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0020][ValidParentheses]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0021][MergeTwoSortedLists]/[0021][MergeTwoSortedLists].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0021][MergeTwoSortedLists]/src/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0021][MergeTwoSortedLists]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0022][GenerateParentheses]/[0022][GenerateParentheses].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0022][GenerateParentheses]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0022][GenerateParentheses]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0023][MergeKSortedLists]/[0023][MergeKSortedLists].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0023][MergeKSortedLists]/src/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0023][MergeKSortedLists]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0024][SwapNodesInPairs]/[0024][SwapNodesInPairs].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0024][SwapNodesInPairs]/src/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0024][SwapNodesInPairs]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0025][Reverse Nodes In K-Group]/[0025][Reverse Nodes In K-Group].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0025][Reverse Nodes In K-Group]/src/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0025][Reverse Nodes In K-Group]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0025][Reverse Nodes In K-Group]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0026][Remove Duplicates From Sorted Array]/[0026][Remove Duplicates From Sorted Array].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0026][Remove Duplicates From Sorted Array]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0026][Remove Duplicates From Sorted Array]/src/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0026][Remove Duplicates From Sorted Array]/src/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0027][Remove Element]/[0027][Remove Element].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0027][Remove Element]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0027][Remove Element]/src/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0027][Remove Element]/src/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0028][Implement-strStr]/[0028][Implement-strStr].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0028][Implement-strStr]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0028][Implement-strStr]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0029][Divide Two Integers]/[0029][Divide Two Integers].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0029][Divide Two Integers]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0029][Divide Two Integers]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0030][Substring With Concatenation of All Words]/[0030][Substring With Concatenation of All Words].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0030][Substring With Concatenation of All Words]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0030][Substring With Concatenation of All Words]/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/dnight-leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-leetcode/dnight-leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【001】【TwoSum】/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【001】【TwoSum】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【001】【TwoSum】/【001】【TwoSum】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【002】【AddTwoNumbers】/src/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【002】【AddTwoNumbers】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【002】【AddTwoNumbers】/【002】【AddTwoNumbers】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【003】【LongSubstringWithoutRepeatingCharacters】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【003】【LongSubstringWithoutRepeatingCharacters】/【003】【LongSubstringWithoutRepeatingCharacters】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【004】【MedianOfTwoSortedArrays】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【004】【MedianOfTwoSortedArrays】/【004】【MedianOfTwoSortedArrays】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【005】【LongestPalindromicSubstringTotal】/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【005】【LongestPalindromicSubstringTotal】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【005】【LongestPalindromicSubstringTotal】/【005】【LongestPalindromicSubstringTotal】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【006】【ZigZagConversion】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【006】【ZigZagConversion】/【006】【ZigZagConversion】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【007】【ReverseInterger】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【007】【ReverseInterger】/【007】【ReverseInterger】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【008】【StringToInterger（atoi）】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【008】【StringToInterger（atoi）】/【008】【StringToInterger（atoi）】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【009】【PalindromeNumber】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【009】【PalindromeNumber】/【009】【PalindromeNumber】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【010】【RegularExpressionMatching】/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【010】【RegularExpressionMatching】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【010】【RegularExpressionMatching】/【010】【RegularExpressionMatching】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【011】【ContainerWithMostWater】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【011】【ContainerWithMostWater】/【011】【ContainerWithMostWater】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【012】【IntegerToRoman】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【012】【IntegerToRoman】/【012】【IntegerToRoman】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【013】【RomarToInteger】/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【013】【RomarToInteger】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【013】【RomarToInteger】/【013】【RomarToInteger】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【014】【LongestCommonPrefix】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【014】【LongestCommonPrefix】/【014】【LongestCommonPrefix】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【015】【3Sum】/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【015】【3Sum】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【015】【3Sum】/【015】【3Sum】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【016】【3SumClosest】/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【016】【3SumClosest】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【016】【3SumClosest】/【016】【3SumClosest】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【017】【LetterCombinationsOfAPhonNumber】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【017】【LetterCombinationsOfAPhonNumber】/src/phone-number.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【017】【LetterCombinationsOfAPhonNumber】/【017】【LetterCombinationsOfAPhonNumber】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【018】【4Sum】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【018】【4Sum】/【018】【4Sum】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【019】【RemoveNthNodeFromEndOfList】/src/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【019】【RemoveNthNodeFromEndOfList】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【019】【RemoveNthNodeFromEndOfList】/【019】【RemoveNthNodeFromEndOfList】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【020】【ValidParentheses】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【020】【ValidParentheses】/【020】【ValidParentheses】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【021】【MergeTwoSortedLists】/src/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【021】【MergeTwoSortedLists】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【021】【MergeTwoSortedLists】/【021】【MergeTwoSortedLists】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【022】【GenerateParentheses】/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【022】【GenerateParentheses】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【022】【GenerateParentheses】/【022】【GenerateParentheses】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【023】【MergeKSortedLists】/src/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【023】【MergeKSortedLists】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【023】【MergeKSortedLists】/【023】【MergeKSortedLists】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【024】【SwapNodesInPairs】/src/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【024】【SwapNodesInPairs】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【024】【SwapNodesInPairs】/【024】【SwapNodesInPairs】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【025】【Reverse Nodes In K-Group】/src/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【025】【Reverse Nodes In K-Group】/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【025】【Reverse Nodes In K-Group】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【025】【Reverse Nodes In K-Group】/【025】【Reverse Nodes In K-Group】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【026】【Remove Duplicates From Sorted Array】/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【026】【Remove Duplicates From Sorted Array】/src/Solution1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【026】【Remove Duplicates From Sorted Array】/src/Solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【026】【Remove Duplicates From Sorted Array】/【026】【Remove Duplicates From Sorted Array】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【027】【Remove Element】/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【027】【Remove Element】/src/Solution1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【027】【Remove Element】/src/Solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【027】【Remove Element】/【027】【Remove Element】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【028】【Implement-strStr】/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【028】【Implement-strStr】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【028】【Implement-strStr】/【028】【Implement-strStr】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【029】【Divide Two Integers】/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【029】【Divide Two Integers】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【029】【Divide Two Integers】/【029】【Divide Two Integers】.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【030】【Substring With Concatenation of All Words】/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【030】【Substring With Concatenation of All Words】/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-leetcode/【030】【Substring With Concatenation of All Words】/【030】【Substring With Concatenation of All Words】.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnight-netty/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-netty/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -186,6 +22,8 @@
     <ignored path="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/target/" />
     <ignored path="$PROJECT_DIR$/dnight-test/target/" />
     <ignored path="$PROJECT_DIR$/dnight-structure/target/" />
+    <ignored path="$PROJECT_DIR$/dnight-netty/[001][chapter001]/target/" />
+    <ignored path="$PROJECT_DIR$/dnight-netty/[002][chapter002]/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,25 +69,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/StandardWebApplication.java">
+        <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0038][Count And Say]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="858">
+              <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0000][common]/src/FileRename.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0030][Substring With Concatenation of All Words]/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0038][Count And Say]/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -287,7 +121,11 @@
       <find>ConditionObject</find>
       <find>lombo</find>
       <find>lombok</find>
+      <find>&quot;</find>
     </findStrings>
+    <replaceStrings>
+      <replace>'</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/dnight-demo/src/main/java/com/dnight/framework</dir>
     </dirStrings>
@@ -298,31 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/account/domain/StandardAccountEntity.java" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/account/domain/TStandardAccount.java" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/account/dao/TStandardAccountRepository.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate Daos.groovy" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/generator/StandardAccountRepository.java" />
-        <option value="$PROJECT_DIR$/dnight-test/src/test/java/com/dnight/framework/AppTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/generator/TStandardAccountDao.java" />
-        <option value="$PROJECT_DIR$/dnight-demo/src/main/java/com/dnight/framework/beans/PropertyValues.java" />
-        <option value="$PROJECT_DIR$/dnight-demo/src/main/java/com/dnight/framework/beans/AbstractBeanDefinitionReader.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate Services.groovy" />
-        <option value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate Controllers.groovy" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/common/constant/WebConstants.java" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/resources/logback-spring.xml" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/StandardWebApplication.java" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/common/logback/EARollingFileAppender.java" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/exception.html" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/common/logback/ExceptionAnalysisController.java" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/common/constant/BaseDomain.java" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/account/dao/StandardAccountRepository.java" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/account/domain/StandardAccount.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate POJOs.groovy" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/common/configuration/DataSourceBusinessConfig.java" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/common/configuration/DataSourceGisConfig.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate DTOs.groovy" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/account/service/StandardAccountService.java" />
         <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/account/service/impl/StandardAccountServiceImpl.java" />
         <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/account/dto/StandardAccountDTO.java" />
         <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/resources/application.properties" />
@@ -349,6 +162,31 @@
         <option value="$PROJECT_DIR$/dnight-leetcode/【030】【Substring With Concatenation of All Words】/src/Main.java" />
         <option value="$PROJECT_DIR$/dnight-leetcode/【030】【Substring With Concatenation of All Words】/src/Solution.java" />
         <option value="$PROJECT_DIR$/dnight-leetcode/【000】【common】/src/FileRename.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0031][Next Permutation]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0031][Next Permutation]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0032][Longest Valid Parentheses]/src/Solution1.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0032][Longest Valid Parentheses]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0032][Longest Valid Parentheses]/src/Solution2.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0033][Search In Rotated Sorted Array]/src/Solution1.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0033][Search In Rotated Sorted Array]/src/Solution2.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0033][Search In Rotated Sorted Array]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0034][Search For A Range]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0034][Search For A Range]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/pom.xml" />
+        <option value="$PROJECT_DIR$/dnight-netty/[001][chapter001]/src/main/java/com/dnight/netty/TimeClient.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[001][chapter001]/src/main/java/com/dnight/netty/TimeServerHandler.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[001][chapter001]/src/main/java/com/dnight/netty/TimeServer.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[002][chapter002]/src/main/java/com/dnight/netty/TimeServerHandlerExecutePool.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[002][chapter002]/src/main/java/com/dnight/netty/TimeClient.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[002][chapter002]/src/main/java/com/dnight/netty/TimeServer.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[002][chapter002]/src/main/java/com/dnight/netty/TimeServerHandler.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0035][Search Insert Position]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0036][Valid Sudoku]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0036][Valid Sudoku]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0037][Sudoku Solver]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0037][Sudoku Solver]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0038][Count And Say]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0038][Count And Say]/src/Main.java" />
       </list>
     </option>
   </component>
@@ -381,9 +219,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="845" />
+    <option name="x" value="466" />
+    <option name="y" value="27" />
+    <option name="width" value="1385" />
+    <option name="height" value="895" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -401,6 +240,24 @@
             <path>
               <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0038][Count And Say]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0038][Count And Say]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -420,7 +277,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561603494257" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561713643848" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -475,7 +332,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -484,33 +341,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileRename" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileRename" />
-      <module name="【000】【common】" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="[0037][Sudoku Solver]" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="【028】【Implement-strStr】" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="【029】【Divide Two Integers】" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="【030】【Substring With Concatenation of All Words】" />
+      <module name="[0038][Count And Say]" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -518,8 +359,36 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="dnight-leetcode" />
+      <module name="[0036][Valid Sudoku]" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dnight.netty.TimeClient" />
+      <module name="[002][chapter002]" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dnight.netty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dnight.netty.TimeServer" />
+      <module name="[002][chapter002]" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dnight.netty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -577,19 +446,19 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.StandardWebApplication" />
-      <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Main (4)" />
-      <item itemvalue="Application.Main (5)" />
-      <item itemvalue="Application.FileRename" />
+      <item itemvalue="Application.TimeServer (1)" />
+      <item itemvalue="Application.TimeClient (1)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.FileRename" />
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.TimeClient (1)" />
+        <item itemvalue="Application.TimeServer (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -636,7 +505,7 @@
       <workItem from="1559611426088" duration="21609000" />
       <workItem from="1559802759792" duration="506000" />
       <workItem from="1559805434010" duration="1551000" />
-      <workItem from="1560136317268" duration="28221000" />
+      <workItem from="1560136317268" duration="51485000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1559705700712</created>
@@ -652,7 +521,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561602582687</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="提交">
+      <created>1561603608611</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561603608611</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -676,7 +552,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128956000" />
+    <option name="totallyTimeSpent" value="152220000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -688,9 +564,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="845" extended-state="0" />
+    <frame x="466" y="27" width="1385" height="895" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49667996" visible="true" weight="0.24678111" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49667996" weight="0.24571854" />
       <window_info id="Structure" order="1" sideWeight="0.499336" weight="0.24964234" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -699,9 +576,10 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Persistence" order="7" sideWeight="0.50332004" side_tool="true" weight="0.34191704" />
       <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.32876712" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.32934928" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5046481" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5641345" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997344" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -711,7 +589,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.32934928" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32934928" />
       <window_info anchor="bottom" id="Tail" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32802126" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32756326" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="14" weight="0.32934928" />
       <window_info anchor="bottom" id="CheckStyle" order="15" />
@@ -830,303 +708,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="https://github.com/Wang-Jun-Chao/spring-all.git">
-      <provider selected="true" editor-type-id="httpFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/account/service/impl/StandardAccountServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="38" column="66" selection-start-line="38" selection-start-column="66" selection-end-line="38" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2208">
-          <caret line="92" column="12" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/account/dto/StandardAccountDTO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/account/domain/StandardAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/common/constant/BaseDomain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="33" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/account/controller/StandardAccountController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/account/dao/StandardAccountRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Documents/mvn_data/org/springframework/spring-aop/4.0.9.RELEASE/spring-aop-4.0.9.RELEASE-sources.jar!/org/springframework/aop/framework/ProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="151" column="40" selection-start-line="151" selection-start-column="40" selection-end-line="151" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Documents/mvn_data/org/springframework/spring-aop/5.1.2.RELEASE/spring-aop-5.1.2.RELEASE-sources.jar!/org/springframework/aop/framework/DefaultAopProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-demo/src/main/java/com/dnight/framework/aop/AopProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-demo/src/main/java/com/dnight/framework/aop/ProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/【001】【TwoSum】/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/【001】【TwoSum】/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/LockSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="163" column="62" selection-start-line="163" selection-start-column="62" selection-end-line="163" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/framework/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/framework/VolatileTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/profiles/docker/bin/env.bash">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1315">
-          <caret line="2027" column="30" selection-start-line="2027" selection-start-column="30" selection-end-line="2027" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="778">
-          <caret line="186" column="5" selection-start-line="186" selection-start-column="5" selection-end-line="186" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/CyclicBarrier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7814">
-          <caret line="138" column="13" selection-start-line="138" selection-start-column="13" selection-end-line="138" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="239" column="43" selection-start-line="239" selection-start-column="43" selection-end-line="239" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="127" column="25" selection-start-line="122" selection-start-column="12" selection-end-line="127" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-structure/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-structure/src/test/java/com/dnight/structure/SkipListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#161#169#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11678">
-          <caret line="222" column="19" selection-start-line="222" selection-start-column="19" selection-end-line="222" selection-end-column="19" />
-          <folding>
-            <element signature="e#7116#7117#0" expanded="true" />
-            <element signature="e#7150#7151#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/【024】【SwapNodesInPairs】/src/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/【024】【SwapNodesInPairs】/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/【025】【Reverse Nodes In K-Group】/src/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/【025】【Reverse Nodes In K-Group】/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="90" column="28" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/【025】【Reverse Nodes In K-Group】/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/【026】【Remove Duplicates From Sorted Array】/src/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/【026】【Remove Duplicates From Sorted Array】/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
-          <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/【027】【Remove Element】/src/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/【027】【Remove Element】/src/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/【027】【Remove Element】/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/【026】【Remove Duplicates From Sorted Array】/src/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/【028】【Implement-strStr】/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/【028】【Implement-strStr】/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="80" selection-start-line="79" selection-end-line="80" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dnight-leetcode/【029】【Divide Two Integers】/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -1206,11 +787,327 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0031][Next Permutation]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0031][Next Permutation]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0000][common]/src/FileRename.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0030][Substring With Concatenation of All Words]/src/Main.java">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0032][Longest Valid Parentheses]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0032][Longest Valid Parentheses]/src/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="479" column="6" selection-start-line="479" selection-start-column="6" selection-end-line="479" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0032][Longest Valid Parentheses]/src/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="1898" column="22" selection-start-line="1898" selection-start-column="22" selection-end-line="1898" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0033][Search In Rotated Sorted Array]/src/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0033][Search In Rotated Sorted Array]/src/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0033][Search In Rotated Sorted Array]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0034][Search For A Range]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="93" selection-start-line="10" selection-start-column="93" selection-end-line="10" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0034][Search For A Range]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="87" column="17" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3312">
+          <caret line="138" column="27" selection-start-line="138" selection-start-column="27" selection-end-line="138" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[001][chapter001]/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-gis/src/main/java/com/dnight/demo/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-demo/src/main/java/com/dnight/framework/BeanReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-demo/src/main/java/com/dnight/framework/context/ApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-demo/src/main/java/com/dnight/framework/context/AbstractApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-demo/src/main/java/com/dnight/framework/context/ClassPathXmlApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-demo/src/main/java/com/dnight/framework/aop/AbstractAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-demo/src/test/java/com/dnight/test/HelloWorldService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-demo/src/test/java/com/dnight/test/BeanFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="25" column="101" selection-start-line="25" selection-start-column="101" selection-end-line="25" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[001][chapter001]/src/main/java/com/dnight/netty/TimeClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[001][chapter001]/src/main/java/com/dnight/netty/TimeServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="16" column="15" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[001][chapter001]/src/main/java/com/dnight/netty/TimeServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[002][chapter002]/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" selection-start-line="3" selection-start-column="108" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/net/ServerSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="126" column="11" selection-start-line="126" selection-start-column="11" selection-end-line="126" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[002][chapter002]/src/main/java/com/dnight/netty/TimeServerHandlerExecutePool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[002][chapter002]/src/main/java/com/dnight/netty/TimeServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="46" column="31" lean-forward="true" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[002][chapter002]/src/main/java/com/dnight/netty/TimeServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[002][chapter002]/src/main/java/com/dnight/netty/TimeClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0036][Valid Sudoku]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1787#1788#0" expanded="true" />
+            <element signature="e#1820#1821#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0035][Search Insert Position]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0036][Valid Sudoku]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="29" column="10" selection-start-line="19" selection-start-column="8" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0037][Sudoku Solver]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0037][Sudoku Solver]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0038][Count And Say]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0038][Count And Say]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
