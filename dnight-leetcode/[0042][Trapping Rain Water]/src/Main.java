@@ -11,5 +11,8 @@ public class Main {
         System.out.println(solution.trap2(height));
         System.out.println(solution.trap3(height));
         System.out.println(solution.trap4(height));
+
+        int current = 0;
+        System.out.println(current++);
     }
 }

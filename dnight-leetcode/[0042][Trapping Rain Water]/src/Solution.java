@@ -23,6 +23,8 @@ public class Solution {
      * 1. 从左往右扫描一遍，对于每个柱子，求取左边最大值；
      * 2. 从右往左扫描一遍，对于每个柱子，求最大右值；
      * 3. 再扫描一遍，把每个柱子的面积并累加。
+     *
+     * ❌
      * </pre>
      *
      * @param height
@@ -40,12 +42,13 @@ public class Solution {
             for (int j = i + 2; j < size; j++) {
                 maxRight = Math.max(maxRight, height[j]);
             }
-            ans += Math.min(maxLeft, maxRight) - height[i];
+            ans += (Math.min(maxLeft, maxRight) - height[i]);
         }
         return ans;
 
     }
 
+    //❌
     public int trap2(int[] height) {
         if (height == null || height.length == 0) {
             return 0;
@@ -66,10 +69,26 @@ public class Solution {
         return ans;
     }
 
+    /**
+     * 用一个栈辅助，小于栈顶的元素压入，大于等于栈顶就把栈里所有小于或
+     * 等于当前值的元素全部出栈处理掉，计算面积，最后把当前元素入栈
+     * <p>
+     * <p>
+     * <p>
+     * <p>
+     * =
+     * =   == =
+     * = == ======
+     * 010210132121
+     *
+     * @param height
+     * @return
+     */
     public int trap3(int[] height) {
         int ans = 0, current = 0;
         Deque<Integer> st = new LinkedList<>();
         while (current < height.length) {
+            //当前元素比栈顶元素大
             while (!st.isEmpty() && height[current] > height[st.getFirst()]) {
                 int top = st.pop();
                 if (st.isEmpty()) {
@@ -77,13 +96,22 @@ public class Solution {
                 }
                 int distance = current - st.peek() - 1;
                 int boundedHeight = Math.min(height[current], height[st.peek()]) - height[top];
+                // top以下的水位已经计算过了，只需加top以上的水位
                 ans += distance * boundedHeight;
             }
+            //当前元素不大于栈顶元素
             st.push(current++);
         }
         return ans;
     }
 
+    /**
+     * 1. 扫描一遍，找到最高的柱子，这个柱子将数组分为两半；
+     * 2. 处理左边一半；
+     * 3. 处理右边一半。
+     * @param height
+     * @return
+     */
     public int trap4(int[] height) {
         int left = 0;
         int right = height.length - 1;
