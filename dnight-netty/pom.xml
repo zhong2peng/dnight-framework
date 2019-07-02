@@ -14,6 +14,7 @@
     <modules>
         <module>[001][chapter001]</module>
         <module>[002][chapter002]</module>
+        <module>[003][chapter003]</module>
     </modules>
 
     <dependencyManagement>

@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0037][Sudoku Solver]/[0037][Sudoku Solver].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0037][Sudoku Solver]/[0037][Sudoku Solver].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0038][Count And Say]/[0038][Count And Say].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0038][Count And Say]/[0038][Count And Say].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0039][Combination Sum]/[0039][Combination Sum].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0039][Combination Sum]/[0039][Combination Sum].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-netty/[003][chapter003]/[003][chapter003].iml" filepath="$PROJECT_DIR$/dnight-netty/[003][chapter003]/[003][chapter003].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0040][Combination Sum II]/[0040][Combination Sum II].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0040][Combination Sum II]/[0040][Combination Sum II].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0041][First Missing Positive]/[0041][First Missing Positive].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0041][First Missing Positive]/[0041][First Missing Positive].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0042][Trapping Rain Water]/[0042][Trapping Rain Water].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0042][Trapping Rain Water]/[0042][Trapping Rain Water].iml" />
@@ -24,6 +25,16 @@
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0048][Rotate Image]/[0048][Rotate Image].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0048][Rotate Image]/[0048][Rotate Image].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0049][Group Anagrams]/[0049][Group Anagrams].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0049][Group Anagrams]/[0049][Group Anagrams].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0050][Pow(x,n)]/[0050][Pow(x,n)].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0050][Pow(x,n)]/[0050][Pow(x,n)].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0051][N-Queens]/[0051][N-Queens].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0051][N-Queens]/[0051][N-Queens].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0052][N-Queues II]/[0052][N-Queues II].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0052][N-Queues II]/[0052][N-Queues II].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0053][Maximum Subarray]/[0053][Maximum Subarray].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0053][Maximum Subarray]/[0053][Maximum Subarray].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0054][Spiral Matrix]/[0054][Spiral Matrix].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0054][Spiral Matrix]/[0054][Spiral Matrix].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0055][Jump Game]/[0055][Jump Game].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0055][Jump Game]/[0055][Jump Game].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0056][Merge Intervals]/[0056][Merge Intervals].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0056][Merge Intervals]/[0056][Merge Intervals].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0057][Insert Interval]/[0057][Insert Interval].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0057][Insert Interval]/[0057][Insert Interval].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0058][Length Of Last Word]/[0058][Length Of Last Word].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0058][Length Of Last Word]/[0058][Length Of Last Word].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0059][Spiral Matrix II]/[0059][Spiral Matrix II].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0059][Spiral Matrix II]/[0059][Spiral Matrix II].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0060][Permutation Sequence]/[0060][Permutation Sequence].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0060][Permutation Sequence]/[0060][Permutation Sequence].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-framework.iml" filepath="$PROJECT_DIR$/dnight-base-framework/dnight-base-framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/dnight-base-springboot2.iml" filepath="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/dnight-base-springboot2.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-demo/dnight-demo.iml" filepath="$PROJECT_DIR$/dnight-demo/dnight-demo.iml" />

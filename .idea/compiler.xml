@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="[001][chapter001]" />
         <module name="[002][chapter002]" />
+        <module name="[003][chapter003]" />
         <module name="dnight-base-springboot2" />
         <module name="dnight-demo" />
         <module name="dnight-gis" />
@@ -22,6 +23,7 @@
     <bytecodeTargetLevel>
       <module name="[001][chapter001]" target="1.8" />
       <module name="[002][chapter002]" target="1.8" />
+      <module name="[003][chapter003]" target="1.8" />
       <module name="dnight-base-framework" target="1.8" />
       <module name="dnight-base-springboot2" target="1.8" />
       <module name="dnight-demo" target="1.8" />
