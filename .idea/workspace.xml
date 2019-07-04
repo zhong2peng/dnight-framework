@@ -4,13 +4,11 @@
     <list default="true" id="70f7e6f9-c32d-4117-b889-53441f6c6378" name="Default" comment="提交">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-netty/[003][chapter003]/src/main/java/MultiplexerTimeServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-netty/[003][chapter003]/src/main/java/MultiplexerTimeServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-netty/[003][chapter003]/src/main/java/TimeClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-netty/[003][chapter003]/src/main/java/TimeClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-netty/[003][chapter003]/src/main/java/TimeClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-netty/[003][chapter003]/src/main/java/TimeClientHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-netty/[003][chapter003]/src/main/java/TimeServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-netty/[003][chapter003]/src/main/java/TimeServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/test/java/MessagePackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/test/java/MessagePackTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dnight-netty/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-netty/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,6 +36,13 @@
     <ignored path="$PROJECT_DIR$/dnight-netty/[009][chapter009]/target/" />
     <ignored path="$PROJECT_DIR$/dnight-netty/[010][chapter010]/target/" />
     <ignored path="$PROJECT_DIR$/dnight-netty/[011][chapter011]/target/" />
+    <ignored path="$PROJECT_DIR$/dnight-netty/[0012][chapter012]/target/" />
+    <ignored path="$PROJECT_DIR$/dnight-netty/[013][chapter013]/target/" />
+    <ignored path="$PROJECT_DIR$/dnight-netty/[012][chapter012]/target/" />
+    <ignored path="$PROJECT_DIR$/dnight-netty/[014][chapter014]/target/" />
+    <ignored path="$PROJECT_DIR$/dnight-netty/[015][chapter015]/target/" />
+    <ignored path="$PROJECT_DIR$/dnight-netty/[016][chapter016]/target/" />
+    <ignored path="$PROJECT_DIR$/dnight-netty/[017][chapter017]/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,10 +88,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/test/java/MessageInfo.java">
+        <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/codec/HttpXmlRequestEncoder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" selection-start-line="14" selection-end-line="16" selection-end-column="27" />
+            <state relative-caret-position="448">
+              <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,10 +100,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/test/java/MessageInfo2.java">
+        <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/codec/HttpXmlResponse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="384">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,10 +112,75 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/test/java/MessageInfo3.java">
+        <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/codec/HttpXmlResponseDecoder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="514">
+              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/codec/HttpXmlResponseEncoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="696">
+              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/server/HttpXmlServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="47" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/server/HttpXmlServerHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1776">
+              <caret line="74" column="77" selection-start-line="74" selection-start-column="77" selection-end-line="74" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/client/HttpXmlClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="40" column="33" lean-forward="true" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1306#1307#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/client/HttpXmlClientHandle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="394">
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,10 +189,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/test/java/MessagePackTest.java">
+        <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/TestOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="619">
-              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+            <state relative-caret-position="672">
+              <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,7 +216,6 @@
     </option>
   </component>
   <component name="FindBugs-IDEA-Workspace">
-    <toolWindowEditorPreview>false</toolWindowEditorPreview>
     <toolWindowGroupBy>BugRank</toolWindowGroupBy>
   </component>
   <component name="FindInProjectRecents">
@@ -181,57 +250,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dnight-netty/[004][chapter004]/src/main/java/ReadCompletionHandler.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[004][chapter004]/src/main/java/TimeClient.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[004][chapter004]/src/main/java/TimeServer.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[004][chapter004]/src/main/java/AcceptCompletionHandler.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[005][chapter005]/pom.xml" />
-        <option value="$PROJECT_DIR$/dnight-netty/[005][chapter005]/src/main/java/TimeClient.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[005][chapter005]/src/main/java/TimeClientHandler.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[005][chapter005]/src/main/java/TimeServer.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[005][chapter005]/src/main/java/TimeServerHandler.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[006][chapter006]/pom.xml" />
-        <option value="$PROJECT_DIR$/dnight-netty/[006][chapter006]/src/main/java/TimeClient.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[006][chapter006]/src/main/java/TimeClientHandler.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[006][chapter006]/src/main/java/TimeServer.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[006][chapter006]/src/main/java/TimeServerHandler.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[007][chapter007]/pom.xml" />
-        <option value="$PROJECT_DIR$/dnight-netty/[007][chapter007]/src/main/java/TimeClient.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[007][chapter007]/src/main/java/TimeServer.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[007][chapter007]/src/main/java/Test.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[007][chapter007]/src/main/java/TimeClientHandler.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[007][chapter007]/src/main/java/TimeServerHandler.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[008][chapter008]/pom.xml" />
-        <option value="$PROJECT_DIR$/dnight-netty/[008][chapter008]/src/main/java/EchoClient.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[008][chapter008]/src/main/java/EchoServer.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[008][chapter008]/src/main/java/EchoServerHandler.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[008][chapter008]/src/main/java/EchoClientHandler.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[009][chapter009]/pom.xml" />
-        <option value="$PROJECT_DIR$/dnight-netty/[009][chapter009]/src/main/java/EchoServer.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[009][chapter009]/src/main/java/EchoServerHandler.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[010][chapter010]/pom.xml" />
-        <option value="$PROJECT_DIR$/dnight-netty/[010][chapter010]/src/main/java/UserInfo.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[010][chapter010]/src/main/java/PerformTestUserInfo.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[010][chapter010]/src/main/java/TestUserInfo.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[011][chapter011]/pom.xml" />
-        <option value="$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/UserInfo.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/MsgPackDecoder.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/MsgPackEncoder.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/EchoClient.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/EchoClientHandler.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/EchoServer.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/EchoServerHandler.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/time/MsgPackDecode.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/time/MsgPackEncode.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/time/Student.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/time/TimeClient.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/time/TimeClientHandler.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/time/TimeServer.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/time/TimeServerHandler.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/test/java/MessageInfo.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/test/java/MessageInfo2.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/test/java/MessageInfo3.java" />
-        <option value="$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/test/java/MessagePackTest.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[0012][chapter012]/src/main/java/MsgPackDecoder.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[0012][chapter012]/src/main/java/MsgPackEncoder.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[0012][chapter012]/src/main/java/EchoClient.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[0012][chapter012]/src/main/java/EchoClientHandler.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[0012][chapter012]/src/main/java/EchoServer.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[0012][chapter012]/src/main/java/EchoServerHandler.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[013][chapter013]/pom.xml" />
+        <option value="$PROJECT_DIR$/dnight-netty/[013][chapter013]/src/main/java/pojo/SubscribeReq.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[013][chapter013]/src/main/java/pojo/SubscribeResp.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[013][chapter013]/src/main/java/proto/SubscribeReqProto.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[013][chapter013]/src/main/java/proto/SubscripeResp.proto" />
+        <option value="$PROJECT_DIR$/dnight-netty/[013][chapter013]/src/main/java/proto/SubscripeReq.proto" />
+        <option value="$PROJECT_DIR$/dnight-netty/[013][chapter013]/src/main/java/proto/readme.txt" />
+        <option value="$PROJECT_DIR$/dnight-netty/[013][chapter013]/src/test/java/TestSubscribeReqProto.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[014][chapter014]/pom.xml" />
+        <option value="$PROJECT_DIR$/dnight-netty/[014][chapter014]/src/main/java/proto/SubscripeReq.proto" />
+        <option value="$PROJECT_DIR$/dnight-netty/[014][chapter014]/src/main/java/proto/SubscripeResp.proto" />
+        <option value="$PROJECT_DIR$/dnight-netty/[014][chapter014]/src/main/java/bookorder/SubReqClient.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[014][chapter014]/src/main/java/bookorder/SubReqClientHandler.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[014][chapter014]/src/main/java/bookorder/SubReqServerHandler.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[014][chapter014]/src/main/java/bookorder/SubReqServer.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[015][chapter015]/pom.xml" />
+        <option value="$PROJECT_DIR$/dnight-netty/[015][chapter015]/src/main/java/SubscribeReq.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[015][chapter015]/src/main/java/SubscribeResp.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[015][chapter015]/src/main/java/MarshallingCodeCFactory.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[015][chapter015]/src/main/java/SubReqClient.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[015][chapter015]/src/main/java/SubReqClientHandler.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[015][chapter015]/src/main/java/SubReqServer.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[015][chapter015]/src/main/java/SubReqServerHandler.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[016][chapter016]/pom.xml" />
+        <option value="$PROJECT_DIR$/dnight-netty/[016][chapter016]/src/main/java/HttpFileServer.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[016][chapter016]/src/main/java/HttpFileServerHandler.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[017][chapter017]/pom.xml" />
+        <option value="$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/pojo/Address.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/pojo/Customer.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/pojo/Order.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/pojo/Shipping.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/pojo/OrderFactory.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/codec/AbstractHttpXmlDecoder.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/codec/AbstractHttpXmlEncoder.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/codec/HttpXmlRequest.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/codec/HttpXmlRequestDecoder.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/codec/HttpXmlRequestEncoder.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/codec/HttpXmlResponse.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/codec/HttpXmlResponseDecoder.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/codec/HttpXmlResponseEncoder.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/server/HttpXmlServer.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/server/HttpXmlServerHandler.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/client/HttpXmlClient.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/client/HttpXmlClientHandle.java" />
+        <option value="$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/TestOrder.java" />
       </list>
     </option>
   </component>
@@ -264,10 +333,30 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="403" />
-    <option name="y" value="49" />
+    <option name="x" value="212" />
+    <option name="y" value="50" />
     <option name="width" value="1550" />
-    <option name="height" value="902" />
+    <option name="height" value="907" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SerializableHasSerialVersionUIDField</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -277,6 +366,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -287,31 +377,38 @@
             <path>
               <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
               <item name="dnight-netty" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
               <item name="dnight-netty" type="462c0819:PsiDirectoryNode" />
-              <item name="[011][chapter011]" type="462c0819:PsiDirectoryNode" />
+              <item name="[015][chapter015]" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
               <item name="dnight-netty" type="462c0819:PsiDirectoryNode" />
-              <item name="[011][chapter011]" type="462c0819:PsiDirectoryNode" />
+              <item name="[016][chapter016]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-netty" type="462c0819:PsiDirectoryNode" />
+              <item name="[017][chapter017]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-netty" type="462c0819:PsiDirectoryNode" />
+              <item name="[017][chapter017]" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
               <item name="dnight-netty" type="462c0819:PsiDirectoryNode" />
-              <item name="[011][chapter011]" type="462c0819:PsiDirectoryNode" />
+              <item name="[017][chapter017]" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -319,25 +416,56 @@
               <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
               <item name="dnight-netty" type="462c0819:PsiDirectoryNode" />
-              <item name="[011][chapter011]" type="462c0819:PsiDirectoryNode" />
+              <item name="[017][chapter017]" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
               <item name="dnight-netty" type="462c0819:PsiDirectoryNode" />
-              <item name="[011][chapter011]" type="462c0819:PsiDirectoryNode" />
+              <item name="[017][chapter017]" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-netty" type="462c0819:PsiDirectoryNode" />
+              <item name="[017][chapter017]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="codec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-netty" type="462c0819:PsiDirectoryNode" />
+              <item name="[017][chapter017]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-netty" type="462c0819:PsiDirectoryNode" />
+              <item name="[017][chapter017]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -352,17 +480,17 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562147928007" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562234704443" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.37471265" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="ImportMappingsDialog.RecentPackages">
@@ -375,24 +503,24 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/common/logback" />
-      <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/dnight-leetcode/[0042][Trapping Rain Water]/src" />
-      <recent name="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema" />
-      <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/resources" />
-      <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework" />
-      <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.dnight.base.framework.common.configuration" />
       <recent name="com.dnight.base.framework.common.interceptor" />
       <recent name="com.dnight.base.framework.common.constant" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dnight-netty/[014][chapter014]/src/main/java/proto" />
+      <recent name="$PROJECT_DIR$/dnight-netty/[013][chapter013]/src/main/java/proto" />
+      <recent name="$PROJECT_DIR$/dnight-leetcode/[0042][Trapping Rain Water]/src" />
+      <recent name="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema" />
+      <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/resources" />
+    </key>
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/Wang-Jun-Chao/spring-all.git" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/common/logback" />
+      <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -407,7 +535,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MessagePackTest.testMessagePack_decodeAndEncode">
+  <component name="RunManager" selected="Application.HttpXmlClient">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -416,33 +544,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EchoClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EchoClient" />
-      <module name="[011][chapter011]" />
+    <configuration name="HttpFileServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HttpFileServer" />
+      <module name="[016][chapter016]" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EchoServer (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EchoServer" />
-      <module name="[011][chapter011]" />
+    <configuration name="HttpXmlClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.HttpXmlClient" />
+      <module name="[017][chapter017]" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpXmlServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.HttpXmlServer" />
+      <module name="[017][chapter017]" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubReqClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubReqClient" />
+      <module name="[015][chapter015]" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerformTestUserInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PerformTestUserInfo" />
-      <module name="[010][chapter010]" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestUserInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestUserInfo" />
-      <module name="[010][chapter010]" />
+    <configuration name="TestOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestOrder" />
+      <module name="[017][chapter017]" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -450,18 +598,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MessagePackTest.testMessagePack_decodeAndEncode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[011][chapter011]" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MessagePackTest" />
-      <option name="METHOD_NAME" value="testMessagePack_decodeAndEncode" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -513,19 +649,19 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.StandardWebApplication" />
-      <item itemvalue="Application.PerformTestUserInfo" />
-      <item itemvalue="Application.TestUserInfo" />
-      <item itemvalue="Application.EchoServer (2)" />
-      <item itemvalue="Application.EchoClient (1)" />
-      <item itemvalue="JUnit.MessagePackTest.testMessagePack_decodeAndEncode" />
+      <item itemvalue="Application.SubReqClient (1)" />
+      <item itemvalue="Application.HttpFileServer" />
+      <item itemvalue="Application.TestOrder" />
+      <item itemvalue="Application.HttpXmlServer" />
+      <item itemvalue="Application.HttpXmlClient" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MessagePackTest.testMessagePack_decodeAndEncode" />
-        <item itemvalue="Application.EchoClient (1)" />
-        <item itemvalue="Application.EchoServer (2)" />
-        <item itemvalue="Application.TestUserInfo" />
-        <item itemvalue="Application.PerformTestUserInfo" />
+        <item itemvalue="Application.HttpXmlClient" />
+        <item itemvalue="Application.HttpXmlServer" />
+        <item itemvalue="Application.TestOrder" />
+        <item itemvalue="Application.HttpFileServer" />
+        <item itemvalue="Application.SubReqClient (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -573,7 +709,8 @@
       <workItem from="1559802759792" duration="506000" />
       <workItem from="1559805434010" duration="1551000" />
       <workItem from="1560136317268" duration="103260000" />
-      <workItem from="1562124495007" duration="16428000" />
+      <workItem from="1562124495007" duration="21448000" />
+      <workItem from="1562207564170" duration="19314000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1559705700712</created>
@@ -624,31 +761,50 @@
       <option name="project" value="LOCAL" />
       <updated>1562061388627</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="提交">
+      <created>1562148013020</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1562148013020</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BeanFactoryTest_testLazy - 2019.03.28 at 00h 15m 07s.xml">
-      <configuration name="BeanFactoryTest.testLazy" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SimpleAOPTest_getProxy - 2019.03.19 at 22h 07m 31s.xml">
-      <configuration name="SimpleAOPTest.getProxy" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SimpleIOCTest_getBean - 2019.03.19 at 21h 51m 38s.xml">
-      <configuration name="SimpleIOCTest.getBean" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SimpleIOCTest_getBean - 2019.03.19 at 21h 52m 07s.xml">
-      <configuration name="SimpleIOCTest.getBean" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SimpleIOCTest_getBean - 2019.03.19 at 21h 54m 07s.xml">
-      <configuration name="SimpleIOCTest.getBean" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SkipListTest_test - 2019.06.24 at 17h 42m 26s.xml">
       <configuration name="SkipListTest.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MessagePackTest_testMessagePack_decodeAndEncode - 2019.07.03 at 17h 56m 53s.xml">
+      <configuration name="MessagePackTest.testMessagePack_decodeAndEncode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessagePackTest_testMessagePack_decodeAndEncode - 2019.07.03 at 17h 58m 51s.xml">
+      <configuration name="MessagePackTest.testMessagePack_decodeAndEncode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessagePackTest_testMessagePack_multiDataType - 2019.07.04 at 09h 58m 55s.xml">
+      <configuration name="MessagePackTest.testMessagePack_multiDataType" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessagePackTest_testMessagePack_multiInstance - 2019.07.04 at 09h 59m 25s.xml">
+      <configuration name="MessagePackTest.testMessagePack_multiInstance" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessagePackTest_testMessagePack_multiInstance - 2019.07.04 at 10h 00m 04s.xml">
+      <configuration name="MessagePackTest.testMessagePack_multiInstance" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessagePackTest_testMessagePack_ListAndMap - 2019.07.04 at 10h 11m 56s.xml">
+      <configuration name="MessagePackTest.testMessagePack_ListAndMap" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessagePackTest_testMessagePack_withoutMessageAnnotation - 2019.07.04 at 10h 16m 38s.xml">
+      <configuration name="MessagePackTest.testMessagePack_withoutMessageAnnotation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessagePackTest_testMessagePack_dynamic - 2019.07.04 at 10h 22m 46s.xml">
+      <configuration name="MessagePackTest.testMessagePack_dynamic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSubscribeReqProto_test - 2019.07.04 at 14h 08m 45s.xml">
+      <configuration name="TestSubscribeReqProto.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="220423000" />
+    <option name="totallyTimeSpent" value="244757000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -660,7 +816,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="708" y="209" width="1550" height="902" extended-state="0" />
+    <frame x="590" y="60" width="1550" height="907" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49667996" weight="0.25596818" />
@@ -674,17 +830,17 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.32839507" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.50864196" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.50797546" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3962963" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32934928" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.6693227" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.32839507" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32875144" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.66871166" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.32760736" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32839507" />
       <window_info anchor="bottom" id="Tail" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32646048" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32638037" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="14" weight="0.32934928" />
       <window_info anchor="bottom" id="CheckStyle" order="15" />
@@ -696,7 +852,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Database" order="5" weight="0.32893652" />
-      <window_info anchor="right" id="Maven Projects" order="6" weight="0.45548198" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.45490715" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297568" />
@@ -864,507 +1020,510 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[004][chapter004]/src/main/java/TimeServer.java">
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[012][chapter012]/src/main/java/EchoClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="80" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="80" />
+        <state relative-caret-position="370">
+          <caret line="51" column="25" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1473#2206#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[004][chapter004]/src/main/java/TimeClient.java">
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[012][chapter012]/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[005][chapter005]/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="622">
+          <caret line="50" column="21" selection-start-line="45" selection-start-column="8" selection-end-line="50" selection-end-column="21" />
         </state>
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[005][chapter005]/src/main/java/TimeClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1232#1521#0" expanded="true" />
-            <element signature="e#1520#1521#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[005][chapter005]/src/main/java/TimeClientHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[005][chapter005]/src/main/java/TimeServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[005][chapter005]/src/main/java/TimeServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="32" column="63" selection-start-line="32" selection-start-column="63" selection-end-line="32" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[006][chapter006]/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[006][chapter006]/src/main/java/TimeServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[006][chapter006]/src/main/java/TimeClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#867#1154#0" expanded="true" />
-            <element signature="e#1153#1154#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[007][chapter007]/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[006][chapter006]/src/main/java/TimeClientHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[006][chapter006]/src/main/java/TimeServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[007][chapter007]/src/main/java/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="47" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[007][chapter007]/src/main/java/TimeClientHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[007][chapter007]/src/main/java/TimeServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="31" column="58" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[007][chapter007]/src/main/java/TimeServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[007][chapter007]/src/main/java/TimeClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#968#1411#0" expanded="true" />
-            <element signature="e#1410#1411#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[008][chapter008]/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[008][chapter008]/src/main/java/EchoServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[008][chapter008]/src/main/java/EchoClientHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[008][chapter008]/src/main/java/EchoServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="809">
-          <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1333#1880#0" expanded="true" />
-            <element signature="e#1879#1880#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[009][chapter009]/src/main/java/EchoServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[009][chapter009]/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[009][chapter009]/src/main/java/EchoServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1233#1676#0" expanded="true" />
-            <element signature="e#1675#1676#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[008][chapter008]/src/main/java/EchoClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1038#1584#0" expanded="true" />
-            <element signature="e#1583#1584#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="127" column="25" selection-start-line="122" selection-start-column="12" selection-end-line="127" selection-end-column="25" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[010][chapter010]/src/main/java/PerformTestUserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[010][chapter010]/src/main/java/UserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[010][chapter010]/src/main/java/TestUserInfo.java">
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[013][chapter013]/src/main/java/pojo/SubscribeReq.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[010][chapter010]/pom.xml">
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[013][chapter013]/src/main/java/pojo/SubscribeResp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
+        <state relative-caret-position="168">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[013][chapter013]/src/main/java/proto/SubscripeResp.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[013][chapter013]/src/main/java/proto/SubscribeReqProto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1110#1111#0" expanded="true" />
+            <element signature="e#1145#1146#0" expanded="true" />
+            <element signature="e#1240#1241#0" expanded="true" />
+            <element signature="e#1275#1276#0" expanded="true" />
+            <element signature="e#1347#1348#0" expanded="true" />
+            <element signature="e#1382#1383#0" expanded="true" />
+            <element signature="e#1446#1447#0" expanded="true" />
+            <element signature="e#1481#1482#0" expanded="true" />
+            <element signature="e#1535#1536#0" expanded="true" />
+            <element signature="e#1567#1568#0" expanded="true" />
+            <element signature="e#1624#1625#0" expanded="true" />
+            <element signature="e#1659#1660#0" expanded="true" />
+            <element signature="e#1725#1726#0" expanded="true" />
+            <element signature="e#1760#1761#0" expanded="true" />
+            <element signature="e#1820#1821#0" expanded="true" />
+            <element signature="e#1855#1856#0" expanded="true" />
+            <element signature="e#1924#1925#0" expanded="true" />
+            <element signature="e#1959#1960#0" expanded="true" />
+            <element signature="e#2025#2026#0" expanded="true" />
+            <element signature="e#2060#2061#0" expanded="true" />
+            <element signature="e#2118#2119#0" expanded="true" />
+            <element signature="e#2150#2151#0" expanded="true" />
+            <element signature="e#2215#2216#0" expanded="true" />
+            <element signature="e#2250#2251#0" expanded="true" />
+            <element signature="e#2324#2325#0" expanded="true" />
+            <element signature="e#2359#2360#0" expanded="true" />
+            <element signature="e#2431#2432#0" expanded="true" />
+            <element signature="e#2466#2467#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[013][chapter013]/src/main/java/proto/SubscripeReq.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[013][chapter013]/src/main/java/proto/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[013][chapter013]/src/main/java/proto/SubscribeReqProto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="725" column="20" selection-start-line="725" selection-start-column="20" selection-end-line="725" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[013][chapter013]/src/main/java/proto/SubscribeRespProto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[013][chapter013]/src/test/java/TestSubscribeReqProto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="32" column="66" selection-start-line="32" selection-start-column="66" selection-end-line="32" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[014][chapter014]/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[014][chapter014]/src/main/java/proto/SubscripeReq.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[014][chapter014]/src/main/java/proto/SubscripeResp.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[014][chapter014]/src/main/java/proto/SubscribeReqProto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[014][chapter014]/src/main/java/proto/SubscribeRespProto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[014][chapter014]/src/main/java/bookorder/SubReqClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[014][chapter014]/src/main/java/bookorder/SubReqServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[014][chapter014]/src/main/java/bookorder/SubReqServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1442#2428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[014][chapter014]/src/main/java/bookorder/SubReqClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="37" column="76" selection-start-line="37" selection-start-column="76" selection-end-line="37" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1039#1489#0" expanded="true" />
+            <element signature="e#1488#1489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[013][chapter013]/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
           <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="23" selection-end-column="21" />
         </state>
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/pom.xml">
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[015][chapter015]/src/main/java/SubscribeReq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[015][chapter015]/src/main/java/SubscribeResp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[015][chapter015]/src/main/java/MarshallingCodeCFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[015][chapter015]/src/main/java/SubReqClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[015][chapter015]/src/main/java/SubReqServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[015][chapter015]/src/main/java/SubReqServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1383#1384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[015][chapter015]/src/main/java/SubReqClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#864#1151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[016][chapter016]/src/main/java/HttpFileServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#892#1160#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[016][chapter016]/src/main/java/HttpFileServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[016][chapter016]/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
         </state>
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/UserInfo.java">
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[015][chapter015]/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        <state relative-caret-position="519">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/pojo/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/pojo/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/MsgPackDecoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/MsgPackEncoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/EchoClientHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/EchoServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/EchoServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1158#1627#0" expanded="true" />
-            <element signature="e#1626#1627#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/EchoClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="37" column="60" lean-forward="true" selection-start-line="37" selection-start-column="60" selection-end-line="37" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1362#1843#0" expanded="true" />
-            <element signature="e#1842#1843#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/time/MsgPackDecode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/time/MsgPackEncode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/time/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/time/TimeClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#965#1225#0" expanded="true" />
-            <element signature="e#1224#1225#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/time/TimeClientHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/time/TimeServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/main/java/time/TimeServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1100#1360#0" expanded="true" />
-            <element signature="e#1359#1360#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/test/java/MessageInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" selection-start-line="14" selection-end-line="16" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/test/java/MessageInfo2.java">
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/pojo/Order.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="19" />
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/pojo/Shipping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/pojo/OrderFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/codec/AbstractHttpXmlEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/test/java/MessageInfo3.java">
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/codec/AbstractHttpXmlDecoder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="504">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/codec/HttpXmlRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/src/test/java/MessagePackTest.java">
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/codec/HttpXmlRequestDecoder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="619">
-          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        <state relative-caret-position="131">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/codec/HttpXmlRequestEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/codec/HttpXmlResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/codec/HttpXmlResponseDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/codec/HttpXmlResponseEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/server/HttpXmlServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1776">
+          <caret line="74" column="77" selection-start-line="74" selection-start-column="77" selection-end-line="74" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/server/HttpXmlServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="47" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/client/HttpXmlClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="40" column="33" lean-forward="true" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1306#1307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/client/HttpXmlClientHandle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/src/main/java/TestOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
