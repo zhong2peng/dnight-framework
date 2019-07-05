@@ -23,6 +23,9 @@
         <module name="[015][chapter015]" />
         <module name="[016][chapter016]" />
         <module name="[017][chapter017]" />
+        <module name="[018][chapter018]" />
+        <module name="[019][chapter019]" />
+        <module name="[020][chapter020]" />
         <module name="dnight-base-springboot2" />
         <module name="dnight-demo" />
         <module name="dnight-gis" />
@@ -52,6 +55,9 @@
       <module name="[015][chapter015]" target="1.8" />
       <module name="[016][chapter016]" target="1.8" />
       <module name="[017][chapter017]" target="1.8" />
+      <module name="[018][chapter018]" target="1.8" />
+      <module name="[019][chapter019]" target="1.8" />
+      <module name="[020][chapter020]" target="1.8" />
       <module name="dnight-base-framework" target="1.8" />
       <module name="dnight-base-springboot2" target="1.8" />
       <module name="dnight-demo" target="1.8" />
