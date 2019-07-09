@@ -32,6 +32,8 @@
         <module>[018][chapter018]</module>
         <module>[019][chapter019]</module>
         <module>[020][chapter020]</module>
+        <module>[021][echo]</module>
+        <module>[022][discard]</module>
     </modules>
 
     <dependencyManagement>

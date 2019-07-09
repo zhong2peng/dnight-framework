@@ -18,6 +18,7 @@
         <module>dnight-base-framework</module>
         <module>dnight-test</module>
         <module>dnight-structure</module>
+        <module>dnight-java8</module>
     </modules>
     <name>dnight-frameword</name>
     <description>亲自操手写一些框架内容</description>

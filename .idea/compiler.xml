@@ -26,10 +26,13 @@
         <module name="[018][chapter018]" />
         <module name="[019][chapter019]" />
         <module name="[020][chapter020]" />
+        <module name="[021][echo]" />
+        <module name="[022][discard]" />
         <module name="dnight-base-springboot2" />
         <module name="dnight-demo" />
         <module name="dnight-gis" />
         <module name="dnight-hihocoder" />
+        <module name="dnight-java8" />
         <module name="dnight-leetcode" />
         <module name="dnight-solr" />
         <module name="dnight-springcloud" />
@@ -58,12 +61,15 @@
       <module name="[018][chapter018]" target="1.8" />
       <module name="[019][chapter019]" target="1.8" />
       <module name="[020][chapter020]" target="1.8" />
+      <module name="[021][echo]" target="1.8" />
+      <module name="[022][discard]" target="1.8" />
       <module name="dnight-base-framework" target="1.8" />
       <module name="dnight-base-springboot2" target="1.8" />
       <module name="dnight-demo" target="1.8" />
       <module name="dnight-framework" target="1.8" />
       <module name="dnight-gis" target="1.8" />
       <module name="dnight-hihocoder" target="1.8" />
+      <module name="dnight-java8" target="1.8" />
       <module name="dnight-leetcode" target="1.8" />
       <module name="dnight-netty" target="1.8" />
       <module name="dnight-solr" target="1.8" />
