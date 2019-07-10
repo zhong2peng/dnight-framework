@@ -32,12 +32,13 @@
         <module name="dnight-demo" />
         <module name="dnight-gis" />
         <module name="dnight-hihocoder" />
-        <module name="dnight-java8" />
         <module name="dnight-leetcode" />
         <module name="dnight-solr" />
+        <module name="dnight-spring-learn" />
         <module name="dnight-springcloud" />
         <module name="dnight-structure" />
         <module name="dnight-test" />
+        <module name="java8-tutorial" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -73,9 +74,11 @@
       <module name="dnight-leetcode" target="1.8" />
       <module name="dnight-netty" target="1.8" />
       <module name="dnight-solr" target="1.8" />
+      <module name="dnight-spring-learn" target="1.8" />
       <module name="dnight-springcloud" target="1.8" />
       <module name="dnight-structure" target="1.8" />
       <module name="dnight-test" target="1.8" />
+      <module name="java8-tutorial" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

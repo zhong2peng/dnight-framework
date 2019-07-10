@@ -65,9 +65,11 @@
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/dnight-leetcode.iml" filepath="$PROJECT_DIR$/dnight-leetcode/dnight-leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/dnight-netty.iml" filepath="$PROJECT_DIR$/dnight-netty/dnight-netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-solr/dnight-solr.iml" filepath="$PROJECT_DIR$/dnight-solr/dnight-solr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-base-framework/dnight-spring-learn/dnight-spring-learn.iml" filepath="$PROJECT_DIR$/dnight-base-framework/dnight-spring-learn/dnight-spring-learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-springcloud/dnight-springcloud.iml" filepath="$PROJECT_DIR$/dnight-springcloud/dnight-springcloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-structure/dnight-structure.iml" filepath="$PROJECT_DIR$/dnight-structure/dnight-structure.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-test/dnight-test.iml" filepath="$PROJECT_DIR$/dnight-test/dnight-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/java8-tutorial.iml" filepath="$PROJECT_DIR$/dnight-java8/java8-tutorial/java8-tutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【000】【common】/【000】【common】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【000】【common】/【000】【common】.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【025】【Reverse Nodes In K-Group】/【025】【Reverse Nodes In K-Group】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【025】【Reverse Nodes In K-Group】/【025】【Reverse Nodes In K-Group】.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【026】【Remove Duplicates From Sorted Array】/【026】【Remove Duplicates From Sorted Array】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【026】【Remove Duplicates From Sorted Array】/【026】【Remove Duplicates From Sorted Array】.iml" />
