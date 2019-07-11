@@ -55,6 +55,11 @@ public class RandomService {
         return this.sha256.hashBytes(bytes).toString();
     }
 
+    /**
+     * 生成token
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         RandomService randomService = new RandomService();
         List<String> list = new ArrayList<>(200000);

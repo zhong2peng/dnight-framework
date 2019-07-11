@@ -30,7 +30,6 @@
         <module name="[022][discard]" />
         <module name="dnight-base-springboot2" />
         <module name="dnight-demo" />
-        <module name="dnight-gis" />
         <module name="dnight-hihocoder" />
         <module name="dnight-leetcode" />
         <module name="dnight-solr" />

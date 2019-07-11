@@ -59,7 +59,6 @@
       <module fileurl="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/dnight-base-springboot2.iml" filepath="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/dnight-base-springboot2.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-demo/dnight-demo.iml" filepath="$PROJECT_DIR$/dnight-demo/dnight-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dnight-framework.iml" filepath="$PROJECT_DIR$/.idea/dnight-framework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dnight-gis/dnight-gis.iml" filepath="$PROJECT_DIR$/dnight-gis/dnight-gis.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-hihocoder/dnight-hihocoder.iml" filepath="$PROJECT_DIR$/dnight-hihocoder/dnight-hihocoder.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-java8/dnight-java8.iml" filepath="$PROJECT_DIR$/dnight-java8/dnight-java8.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/dnight-leetcode.iml" filepath="$PROJECT_DIR$/dnight-leetcode/dnight-leetcode.iml" />
