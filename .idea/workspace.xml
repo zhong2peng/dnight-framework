@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70f7e6f9-c32d-4117-b889-53441f6c6378" name="Default" comment="提交">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-gis/dnight-gis.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-gis/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-gis/src/main/java/com/dnight/demo/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-gis/target/classes/com/dnight/demo/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/time/LocalDate1.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/time/LocalDate1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/time/LocalDateTime1.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/time/LocalDateTime1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/time/LocalTime1.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/time/LocalTime1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-structure/src/main/java/com/dnight/structure/RandomService.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-structure/src/main/java/com/dnight/structure/RandomService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -100,80 +89,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/misc/CheckedFunctions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="55" column="17" lean-forward="true" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/misc/Concurrency1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/misc/Files1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2448">
-              <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/misc/Maps1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="49" column="48" lean-forward="true" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/misc/Math1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="837">
-              <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/misc/Strings1.java">
+        <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0079][Word Search]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="96">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/res/nashorn3.js">
+        <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0079][Word Search]/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="96">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -216,6 +145,7 @@
       <find>&quot;</find>
       <find>lombo</find>
       <find>&lt;/module&gt;</find>
+      <find>=&gt; false</find>
     </findStrings>
     <replaceStrings>
       <replace>'</replace>
@@ -230,57 +160,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dnight-java8/pom.xml" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/lambda/Interface1.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/lambda/Lambda5.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/pom.xml" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/lambda/Person.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/lambda/Lambda2.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/lambda/Lambda4.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/lambda/Lambda1.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/lambda/Lambda3.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/functional/BiFunction1.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/functional/BinarayOperator1.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/functional/Comparator1.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/functional/Comparator2.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/util/Score.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/functional/Function1.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/functional/Predicate1.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/functional/Predicate2.java" />
-        <option value="$PROJECT_DIR$/dnight-structure/src/main/java/com/dnight/structure/RandomService.java" />
-        <option value="$PROJECT_DIR$/dnight-structure/src/main/java/com/dnight/file/BigFileParser.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/time/LocalDate1.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/time/LocalDateTime1.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/time/LocalTime1.java" />
-        <option value="$PROJECT_DIR$/doc/readme.md" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/util/Utils.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/methodInterface/BiConsumer1.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Collect1.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Distinct1.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Optional1.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Optional2.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Reduce1.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream1.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream2.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream3.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream4.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream5.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream6.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream7.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream8.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream9.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream10.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream11.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream12.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream13.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/SummaryStatistics1.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/misc/Annotations1.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/misc/CheckedFunctions.java" />
         <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/misc/Concurrency1.java" />
         <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/misc/Files1.java" />
         <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/misc/Maps1.java" />
         <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/misc/Math1.java" />
         <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/misc/Strings1.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0062][Unique Paths]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0062][Unique Paths]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0063][Unqiue Paths II]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0063][Unqiue Paths II]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0064][Minimum Path Sum]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0064][Minimum Path Sum]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0065][Valid Number]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0065][Valid Number]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0066][Plus One]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0066][Plus One]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0067][Add Binary]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0067][Add Binary]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0068][Text Justification]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0068][Text Justification]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0069][Sqrt(x)]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0069][Sqrt(x)]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0070][Climbing Stairs]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0070][Climbing Stairs]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0071][Simplify Path]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0071][Simplify Path]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0072][Edit Distance]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0072][Edit Distance]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0073][Set Matrix Zeroes]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0073][Set Matrix Zeroes]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/framework/Stream1.java" />
+        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/ConcurrentUtils.java" />
+        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Atomic1.java" />
+        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/CompletableFuture1.java" />
+        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/ConcurrentHashMap1.java" />
+        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Excutors1.java" />
+        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Executors2.java" />
+        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Executors3.java" />
+        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Lock1.java" />
+        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Lock2.java" />
+        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Lock3.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0074][Search a 2D Matrix]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0074][Search a 2D Matrix]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0075][Sort Colors]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0076][Minimum Window Substring]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0076][Minimum Window Substring]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0077][Combinations]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0077][Combinations]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0078][Subsets]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0078][Subsets]/src/Solution1.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0078][Subsets]/src/Solution2.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0078][Subsets]/src/Main.java" />
       </list>
     </option>
   </component>
@@ -329,10 +259,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="396" />
-    <option name="y" value="108" />
-    <option name="width" value="1920" />
-    <option name="height" value="1025" />
+    <option name="x" value="277" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="848" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -362,7 +292,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -370,34 +300,11 @@
               <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-java8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-java8" type="462c0819:PsiDirectoryNode" />
-              <item name="java8-tutorial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-java8" type="462c0819:PsiDirectoryNode" />
-              <item name="java8-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="doc" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -412,7 +319,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562839030703" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563184963987" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -467,7 +374,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Strings1">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -476,13 +383,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Concurrency1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="misc.Concurrency1" />
+    <configuration name="Lock2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent.Lock2" />
       <module name="java8-tutorial" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="misc.*" />
+          <option name="PATTERN" value="concurrent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -490,58 +397,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Files1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="misc.Files1" />
-      <module name="java8-tutorial" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="[0076][Minimum Window Substring]" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="misc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maps1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="misc.Maps1" />
-      <module name="java8-tutorial" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="[0077][Combinations]" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="misc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Math1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="misc.Math1" />
-      <module name="java8-tutorial" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="[0078][Subsets]" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="misc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strings1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="misc.Strings1" />
-      <module name="java8-tutorial" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="[0074][Search a 2D Matrix]" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="misc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -599,19 +482,19 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.StandardWebApplication" />
-      <item itemvalue="Application.Concurrency1" />
-      <item itemvalue="Application.Files1" />
-      <item itemvalue="Application.Maps1" />
-      <item itemvalue="Application.Math1" />
-      <item itemvalue="Application.Strings1" />
+      <item itemvalue="Application.Lock2" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Strings1" />
-        <item itemvalue="Application.Math1" />
-        <item itemvalue="Application.Maps1" />
-        <item itemvalue="Application.Files1" />
-        <item itemvalue="Application.Concurrency1" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Lock2" />
       </list>
     </recent_temporary>
   </component>
@@ -660,7 +543,8 @@
       <workItem from="1559805434010" duration="1551000" />
       <workItem from="1560136317268" duration="103260000" />
       <workItem from="1562124495007" duration="21448000" />
-      <workItem from="1562207564170" duration="91971000" />
+      <workItem from="1562207564170" duration="104872000" />
+      <workItem from="1562916850423" duration="24009000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1559705700712</created>
@@ -746,7 +630,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562752893657</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="提交">
+      <created>1562839104164</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1562839104164</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -782,7 +673,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="317414000" />
+    <option name="totallyTimeSpent" value="354324000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -794,10 +685,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="396" y="108" width="1920" height="1025" extended-state="0" />
-    <editor active="true" />
+    <frame x="277" y="23" width="1440" height="848" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49667996" visible="true" weight="0.28434506" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49667996" visible="true" weight="0.30472103" />
       <window_info id="Structure" order="1" sideWeight="0.49839228" weight="0.24845201" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -808,8 +698,8 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.32839507" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4640943" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39522547" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5026455" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39417988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
@@ -818,7 +708,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.32760736" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32794118" />
       <window_info anchor="bottom" id="Tail" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3218391" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32142857" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="14" weight="0.32934928" />
       <window_info anchor="bottom" id="CheckStyle" order="15" />
@@ -1022,308 +912,129 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/lambda/Interface1.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0064][Minimum Path Sum]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        <state relative-caret-position="405">
+          <caret line="74" column="40" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/util/Score.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0065][Valid Number]/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="171">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/functional/Function1.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0065][Valid Number]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="38" column="82" selection-start-line="38" selection-start-column="82" selection-end-line="38" selection-end-column="82" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-1687">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/functional/Predicate1.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0066][Plus One]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="646">
+          <caret line="39" column="28" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/functional/Comparator2.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0064][Minimum Path Sum]/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#708#709#0" expanded="true" />
-            <element signature="e#748#749#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="216">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-gis/src/main/java/com/dnight/demo/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-structure/src/main/java/com/dnight/structure/Engine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="27" column="73" selection-start-line="27" selection-start-column="73" selection-end-line="27" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-structure/src/main/java/com/dnight/file/BigFileParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-structure/src/main/java/com/dnight/structure/RandomService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/time/LocalDate1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/time/LocalDateTime1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/time/LocalTime1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="216">
-            <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/util/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/methodInterface/BiConsumer1.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0066][Plus One]/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/functional/Predicate2.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0067][Add Binary]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="592">
+          <caret line="77" column="23" selection-start-line="77" selection-start-column="23" selection-end-line="77" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Collect1.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0067][Add Binary]/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="144">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Distinct1.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0068][Text Justification]/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="14" column="63" lean-forward="true" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="144">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Optional1.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0068][Text Justification]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="375">
+          <caret line="69" column="39" selection-start-line="69" selection-start-column="39" selection-end-line="69" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Optional2.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0069][Sqrt(x)]/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="201">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/IntStream.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0070][Climbing Stairs]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-350">
-          <caret line="369" column="8" selection-start-line="369" selection-start-column="8" selection-end-line="369" selection-end-column="8" />
+        <state relative-caret-position="1128">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0070][Climbing Stairs]/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="646" column="16" selection-start-line="646" selection-start-column="16" selection-end-line="646" selection-end-column="16" />
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Reduce1.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0069][Sqrt(x)]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="297">
+          <caret line="68" column="7" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream1.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0071][Simplify Path]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="21" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="455">
+          <caret line="42" column="50" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream2.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0071][Simplify Path]/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="168">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream3.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0072][Edit Distance]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1080">
+          <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream4.java">
+    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="37" column="48" lean-forward="true" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="51" column="1" lean-forward="true" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="36" column="61" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        <state relative-caret-position="381">
+          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1332,173 +1043,279 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
+        <state relative-caret-position="264">
           <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/StringJoiner.java">
+    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret line="207" column="24" selection-start-line="207" selection-start-column="24" selection-end-line="207" selection-end-column="24" />
+        <state relative-caret-position="-97">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           <folding>
-            <element signature="e#3306#3307#0" expanded="true" />
-            <element signature="e#3345#3346#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0072][Edit Distance]/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="1314" column="23" selection-start-line="1314" selection-start-column="23" selection-end-line="1314" selection-end-column="23" />
+        <state relative-caret-position="264">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2590">
-          <caret line="191" column="36" lean-forward="true" selection-start-line="191" selection-start-column="36" selection-end-line="191" selection-end-column="36" />
+        <state relative-caret-position="3453">
+          <caret line="191" column="36" selection-start-line="191" selection-start-column="36" selection-end-line="191" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream11.java">
+    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        <state relative-caret-position="-275">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinPool.java">
+    <entry file="file://$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/framework/Stream1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="2587" column="31" selection-start-line="2587" selection-start-column="31" selection-end-line="2587" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="359">
+          <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/Stream13.java">
+    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/ConcurrentUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="23" column="51" lean-forward="true" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+        <state relative-caret-position="123">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/stream/SummaryStatistics1.java">
+    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/ConcurrentHashMap1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="10" />
+        <state relative-caret-position="182">
+          <caret line="37" column="48" lean-forward="true" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Executors1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Executors2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Executors3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/misc/Annotations1.java">
+    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Lock1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/res/nashorn1.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/res/nashorn7.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-392" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/misc/CheckedFunctions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="55" column="17" lean-forward="true" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        <state relative-caret-position="240">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/res/nashorn3.js">
+    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Lock2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/misc/Concurrency1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="501">
+          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/misc/Files1.java">
+    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/CompletableFuture1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2448">
-          <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+        <state relative-caret-position="333">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Atomic1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/misc/Maps1.java">
+    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Lock3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="49" column="48" lean-forward="true" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
+        <state relative-caret-position="727">
+          <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/misc/Math1.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0073][Set Matrix Zeroes]/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        <state relative-caret-position="477">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/regex/Pattern.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0073][Set Matrix Zeroes]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="5790" column="26" selection-start-line="5790" selection-start-column="26" selection-end-line="5790" selection-end-column="26" />
-          <folding>
-            <element signature="e#48487#48488#0" expanded="true" />
-            <element signature="e#48531#48532#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-83">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/misc/Strings1.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0074][Search a 2D Matrix]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        <state relative-caret-position="981">
+          <caret line="95" column="21" selection-start-line="58" selection-start-column="8" selection-end-line="95" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0074][Search a 2D Matrix]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0075][Sort Colors]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0075][Sort Colors]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1208">
+          <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0076][Minimum Window Substring]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0076][Minimum Window Substring]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="258" column="5" selection-start-line="258" selection-start-column="5" selection-end-line="258" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0077][Combinations]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="80" column="42" selection-start-line="80" selection-start-column="42" selection-end-line="80" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0077][Combinations]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0078][Subsets]/src/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="69" column="26" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0078][Subsets]/src/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0078][Subsets]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0078][Subsets]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0079][Word Search]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0079][Word Search]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
         </state>
       </provider>
     </entry>
