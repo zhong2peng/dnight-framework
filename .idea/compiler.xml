@@ -25,6 +25,7 @@
         <module name="[017][chapter017]" />
         <module name="[018][chapter018]" />
         <module name="[019][chapter019]" />
+        <module name="[01][spring-auth]" />
         <module name="[020][chapter020]" />
         <module name="[021][echo]" />
         <module name="[022][discard]" />
@@ -34,7 +35,6 @@
         <module name="dnight-leetcode" />
         <module name="dnight-solr" />
         <module name="dnight-spring-learn" />
-        <module name="dnight-springcloud" />
         <module name="dnight-structure" />
         <module name="dnight-test" />
         <module name="java8-tutorial" />
@@ -60,6 +60,7 @@
       <module name="[017][chapter017]" target="1.8" />
       <module name="[018][chapter018]" target="1.8" />
       <module name="[019][chapter019]" target="1.8" />
+      <module name="[01][spring-auth]" target="1.8" />
       <module name="[020][chapter020]" target="1.8" />
       <module name="[021][echo]" target="1.8" />
       <module name="[022][discard]" target="1.8" />

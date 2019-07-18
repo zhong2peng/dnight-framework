@@ -58,6 +58,10 @@
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0078][Subsets]/[0078][Subsets].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0078][Subsets]/[0078][Subsets].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0079][Word Search]/[0079][Word Search].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0079][Word Search]/[0079][Word Search].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/[007][chapter007]/[007][chapter007].iml" filepath="$PROJECT_DIR$/dnight-netty/[007][chapter007]/[007][chapter007].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0080][Remove Duplicates from Sorted Array II]/[0080][Remove Duplicates from Sorted Array II].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0080][Remove Duplicates from Sorted Array II]/[0080][Remove Duplicates from Sorted Array II].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0081][Search in Rotated Sorted ArrayII]/[0081][Search in Rotated Sorted ArrayII].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0081][Search in Rotated Sorted ArrayII]/[0081][Search in Rotated Sorted ArrayII].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0082][Remove duplicates from sorted list ii]/[0082][Remove duplicates from sorted list ii].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0082][Remove duplicates from sorted list ii]/[0082][Remove duplicates from sorted list ii].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0083][Remove duplicates from sorted list]/[0083][Remove duplicates from sorted list].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0083][Remove duplicates from sorted list]/[0083][Remove duplicates from sorted list].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/[008][chapter008]/[008][chapter008].iml" filepath="$PROJECT_DIR$/dnight-netty/[008][chapter008]/[008][chapter008].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/[009][chapter009]/[009][chapter009].iml" filepath="$PROJECT_DIR$/dnight-netty/[009][chapter009]/[009][chapter009].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/[010][chapter010]/[010][chapter010].iml" filepath="$PROJECT_DIR$/dnight-netty/[010][chapter010]/[010][chapter010].iml" />
@@ -70,6 +74,7 @@
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/[017][chapter017]/[017][chapter017].iml" filepath="$PROJECT_DIR$/dnight-netty/[017][chapter017]/[017][chapter017].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/[018][chapter018]/[018][chapter018].iml" filepath="$PROJECT_DIR$/dnight-netty/[018][chapter018]/[018][chapter018].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/[019][chapter019]/[019][chapter019].iml" filepath="$PROJECT_DIR$/dnight-netty/[019][chapter019]/[019][chapter019].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-springcloud/[01][spring-auth]/[01][spring-auth].iml" filepath="$PROJECT_DIR$/dnight-springcloud/[01][spring-auth]/[01][spring-auth].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/[020][chapter020]/[020][chapter020].iml" filepath="$PROJECT_DIR$/dnight-netty/[020][chapter020]/[020][chapter020].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/[021][echo]/[021][echo].iml" filepath="$PROJECT_DIR$/dnight-netty/[021][echo]/[021][echo].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/[022][discard]/[022][discard].iml" filepath="$PROJECT_DIR$/dnight-netty/[022][discard]/[022][discard].iml" />

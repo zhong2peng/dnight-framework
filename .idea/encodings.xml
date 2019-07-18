@@ -6,7 +6,6 @@
     <file url="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dnight-base-framework/dnight-spring-learn" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dnight-demo" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/dnight-gis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dnight-hihocoder" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dnight-java8" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dnight-java8/java8-tutorial" charset="UTF-8" />
@@ -36,6 +35,7 @@
     <file url="file://$PROJECT_DIR$/dnight-netty/[022][discard]" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dnight-solr" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dnight-springcloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dnight-springcloud/[01][spring-auth]" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dnight-structure" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dnight-test" charset="UTF-8" />
   </component>
