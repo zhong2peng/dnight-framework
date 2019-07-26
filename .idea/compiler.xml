@@ -37,7 +37,10 @@
         <module name="dnight-spring-learn" />
         <module name="dnight-structure" />
         <module name="dnight-test" />
+        <module name="hadoop-hdfs-learn" />
         <module name="java8-tutorial" />
+        <module name="spring-boot-es" />
+        <module name="spring-boot-es1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -66,7 +69,9 @@
       <module name="[022][discard]" target="1.8" />
       <module name="dnight-base-framework" target="1.8" />
       <module name="dnight-base-springboot2" target="1.8" />
+      <module name="dnight-bigdata" target="1.8" />
       <module name="dnight-demo" target="1.8" />
+      <module name="dnight-elasticsearch" target="1.8" />
       <module name="dnight-framework" target="1.8" />
       <module name="dnight-gis" target="1.8" />
       <module name="dnight-hihocoder" target="1.8" />
@@ -78,7 +83,47 @@
       <module name="dnight-springcloud" target="1.8" />
       <module name="dnight-structure" target="1.8" />
       <module name="dnight-test" target="1.8" />
+      <module name="hadoop-hdfs-learn" target="1.8" />
       <module name="java8-tutorial" target="1.8" />
+      <module name="spring-boot-es" target="1.8" />
+      <module name="spring-boot-es1" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="[001][chapter001]" options="-parameters" />
+      <module name="[002][chapter002]" options="-parameters" />
+      <module name="[003][chapter003]" options="-parameters" />
+      <module name="[004][chapter004]" options="-parameters" />
+      <module name="[005][chapter005]" options="-parameters" />
+      <module name="[006][chapter006]" options="-parameters" />
+      <module name="[007][chapter007]" options="-parameters" />
+      <module name="[008][chapter008]" options="-parameters" />
+      <module name="[009][chapter009]" options="-parameters" />
+      <module name="[010][chapter010]" options="-parameters" />
+      <module name="[011][chapter011]" options="-parameters" />
+      <module name="[012][chapter012]" options="-parameters" />
+      <module name="[013][chapter013]" options="-parameters" />
+      <module name="[014][chapter014]" options="-parameters" />
+      <module name="[015][chapter015]" options="-parameters" />
+      <module name="[016][chapter016]" options="-parameters" />
+      <module name="[017][chapter017]" options="-parameters" />
+      <module name="[018][chapter018]" options="-parameters" />
+      <module name="[019][chapter019]" options="-parameters" />
+      <module name="[01][spring-auth]" options="-parameters" />
+      <module name="[020][chapter020]" options="-parameters" />
+      <module name="[021][echo]" options="-parameters" />
+      <module name="[022][discard]" options="-parameters" />
+      <module name="dnight-base-springboot2" options="-parameters" />
+      <module name="dnight-demo" options="-parameters" />
+      <module name="dnight-hihocoder" options="-parameters" />
+      <module name="dnight-leetcode" options="-parameters" />
+      <module name="dnight-solr" options="-parameters" />
+      <module name="dnight-spring-learn" options="-parameters" />
+      <module name="dnight-structure" options="-parameters" />
+      <module name="dnight-test" options="-parameters" />
+      <module name="hadoop-hdfs-learn" options="-parameters" />
+      <module name="java8-tutorial" options="-parameters" />
+    </option>
   </component>
 </project>

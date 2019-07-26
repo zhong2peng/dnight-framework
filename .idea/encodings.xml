@@ -5,7 +5,12 @@
     <file url="file://$PROJECT_DIR$/dnight-base-framework" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dnight-base-framework/dnight-spring-learn" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dnight-bigdata" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dnight-bigdata/hadoop-hdfs-learn" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dnight-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dnight-elasticsearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dnight-hihocoder" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dnight-java8" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dnight-java8/java8-tutorial" charset="UTF-8" />

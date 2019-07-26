@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/dnight-netty/[005][chapter005]/pom.xml" />
         <option value="$PROJECT_DIR$/dnight-netty/[012][chapter012]/pom.xml" />
+        <option value="$PROJECT_DIR$/dnight-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -62,6 +62,9 @@
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0081][Search in Rotated Sorted ArrayII]/[0081][Search in Rotated Sorted ArrayII].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0081][Search in Rotated Sorted ArrayII]/[0081][Search in Rotated Sorted ArrayII].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0082][Remove duplicates from sorted list ii]/[0082][Remove duplicates from sorted list ii].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0082][Remove duplicates from sorted list ii]/[0082][Remove duplicates from sorted list ii].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0083][Remove duplicates from sorted list]/[0083][Remove duplicates from sorted list].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0083][Remove duplicates from sorted list]/[0083][Remove duplicates from sorted list].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0084][Largest Rectangle in Histogram]/[0084][Largest Rectangle in Histogram].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0084][Largest Rectangle in Histogram]/[0084][Largest Rectangle in Histogram].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0085][Maximal Rectangle]/[0085][Maximal Rectangle].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0085][Maximal Rectangle]/[0085][Maximal Rectangle].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0086][Partition List]/[0086][Partition List].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0086][Partition List]/[0086][Partition List].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/[008][chapter008]/[008][chapter008].iml" filepath="$PROJECT_DIR$/dnight-netty/[008][chapter008]/[008][chapter008].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/[009][chapter009]/[009][chapter009].iml" filepath="$PROJECT_DIR$/dnight-netty/[009][chapter009]/[009][chapter009].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/[010][chapter010]/[010][chapter010].iml" filepath="$PROJECT_DIR$/dnight-netty/[010][chapter010]/[010][chapter010].iml" />
@@ -80,7 +83,9 @@
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/[022][discard]/[022][discard].iml" filepath="$PROJECT_DIR$/dnight-netty/[022][discard]/[022][discard].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-framework.iml" filepath="$PROJECT_DIR$/dnight-base-framework/dnight-base-framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/dnight-base-springboot2.iml" filepath="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/dnight-base-springboot2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-bigdata/dnight-bigdata.iml" filepath="$PROJECT_DIR$/dnight-bigdata/dnight-bigdata.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-demo/dnight-demo.iml" filepath="$PROJECT_DIR$/dnight-demo/dnight-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-elasticsearch/dnight-elasticsearch.iml" filepath="$PROJECT_DIR$/dnight-elasticsearch/dnight-elasticsearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dnight-framework.iml" filepath="$PROJECT_DIR$/.idea/dnight-framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-hihocoder/dnight-hihocoder.iml" filepath="$PROJECT_DIR$/dnight-hihocoder/dnight-hihocoder.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-java8/dnight-java8.iml" filepath="$PROJECT_DIR$/dnight-java8/dnight-java8.iml" />
@@ -91,7 +96,10 @@
       <module fileurl="file://$PROJECT_DIR$/dnight-springcloud/dnight-springcloud.iml" filepath="$PROJECT_DIR$/dnight-springcloud/dnight-springcloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-structure/dnight-structure.iml" filepath="$PROJECT_DIR$/dnight-structure/dnight-structure.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-test/dnight-test.iml" filepath="$PROJECT_DIR$/dnight-test/dnight-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-bigdata/hadoop-hdfs-learn/hadoop-hdfs-learn.iml" filepath="$PROJECT_DIR$/dnight-bigdata/hadoop-hdfs-learn/hadoop-hdfs-learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/java8-tutorial.iml" filepath="$PROJECT_DIR$/dnight-java8/java8-tutorial/java8-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/spring-boot-es.iml" filepath="$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/spring-boot-es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es1/spring-boot-es1.iml" filepath="$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es1/spring-boot-es1.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【000】【common】/【000】【common】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【000】【common】/【000】【common】.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【025】【Reverse Nodes In K-Group】/【025】【Reverse Nodes In K-Group】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【025】【Reverse Nodes In K-Group】/【025】【Reverse Nodes In K-Group】.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/【026】【Remove Duplicates From Sorted Array】/【026】【Remove Duplicates From Sorted Array】.iml" filepath="$PROJECT_DIR$/dnight-leetcode/【026】【Remove Duplicates From Sorted Array】/【026】【Remove Duplicates From Sorted Array】.iml" />
