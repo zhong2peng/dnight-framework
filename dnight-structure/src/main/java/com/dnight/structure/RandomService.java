@@ -62,8 +62,8 @@ public class RandomService {
      */
     public static void main(String[] args) {
         RandomService randomService = new RandomService();
-        List<String> list = new ArrayList<>(200000);
-        List<String> repetition = new ArrayList<>();
+        List<String> list = new ArrayList<String>(200000);
+        List<String> repetition = new ArrayList<String>();
         for (int i = 0; i < 200000; i++) {
             String t = randomService.getToken();
             if (list.contains(t)) {

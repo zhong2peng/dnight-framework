@@ -6,53 +6,45 @@ package com.dnight.sort;
  */
 public class BubbleSort {
 
-    private int[] array;
-
-    public BubbleSort(int[] array) {
-        this.array = array;
-    }
-
-    public void bubbleSortImprovement() {
-        int temp;
-        int low = 0;
-        int high = array.length - 1;
-        int counter = 1;
-
-        while (low < high) {
-            for (int i = low; i < high; i++) {
-                if (array[i] > array[i + 1]) {
-                    temp = array[i];
-                    array[i] = array[i + 1];
-                    array[i + 1] = temp;
-                }
-            }
-            --high;
-            for (int j = high; j > low; --j) {
-                if (array[j] < array[j - 1]) {  //如果前一位大于后一位，交换位置
-                    temp = array[j];
-                    array[j] = array[j - 1];
-                    array[j - 1] = temp;
-                }
-            }
-            ++low;
-            System.out.print("第" + counter + "轮排序结果：");
-            display();
-            counter++;
-        }
-    }
-
-    public void display() {
-        for (int i = 0; i < array.length; i++) {
-            System.out.print(array[i] + "\t");
-        }
-        System.out.println();
-    }
-
     public static void main(String[] args) {
-        int[] a = {1, 5, 4, 11, 2, 20, 18};
-        BubbleSort sort = new BubbleSort(a);
-        System.out.print("未排序时的结果：");
-        sort.display();
-        sort.bubbleSortImprovement();
+        BubbleSort sort = new BubbleSort();
+        int[] arr = {};
+        sort.sort(arr);
+        for (int value : arr) {
+            System.out.print(value + ", ");
+        }
     }
+
+    /**
+     * 鸡尾酒排序，又称定向冒泡排序、搅拌排序等，是对冒泡排序的改进。
+     * 在把最大的数往后面冒泡的同时，把最小的数也往前面冒泡，同时收缩无序区的左右边界，
+     * 有序区在序列左右逐渐累积。
+     *
+     * @param arr
+     */
+    public void sort(int[] arr) {
+        int left = 0;
+        int right = arr.length;
+        while (left < right) {
+            for (int i = left; i < right; i++) {
+                if (arr[i] > arr[i + 1]) {
+                    swap(arr, i, i + 1);
+                }
+            }
+            right--;
+            for (int i = right; i > left; i--) {
+                if (arr[i] < arr[i - 1]) {
+                    swap(arr, i, i - 1);
+                }
+            }
+            left++;
+        }
+    }
+
+    private void swap(int[] arr, int i, int i1) {
+        int tmp = arr[i];
+        arr[i] = arr[i1];
+        arr[i1] = tmp;
+    }
+
 }
