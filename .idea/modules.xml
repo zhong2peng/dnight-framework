@@ -81,6 +81,8 @@
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/[020][chapter020]/[020][chapter020].iml" filepath="$PROJECT_DIR$/dnight-netty/[020][chapter020]/[020][chapter020].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/[021][echo]/[021][echo].iml" filepath="$PROJECT_DIR$/dnight-netty/[021][echo]/[021][echo].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/[022][discard]/[022][discard].iml" filepath="$PROJECT_DIR$/dnight-netty/[022][discard]/[022][discard].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-activiti/activiti-start/activiti-start.iml" filepath="$PROJECT_DIR$/dnight-activiti/activiti-start/activiti-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-activiti/dnight-activiti.iml" filepath="$PROJECT_DIR$/dnight-activiti/dnight-activiti.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-framework.iml" filepath="$PROJECT_DIR$/dnight-base-framework/dnight-base-framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/dnight-base-springboot2.iml" filepath="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/dnight-base-springboot2.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-bigdata/dnight-bigdata.iml" filepath="$PROJECT_DIR$/dnight-bigdata/dnight-bigdata.iml" />

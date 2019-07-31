@@ -1,0 +1,99 @@
+logging:
+  path: ./logs
+management:
+  endpoints:
+    web:
+      base-path: /api
+      path-mapping:
+        health: /heath_check
+server:
+  port: 8003
+  servlet:
+    context-path: /
+spring:
+  application:
+    name: businessland-web
+  datasource:
+    business:
+      connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=3000
+      driverClassName: com.mysql.jdbc.Driver
+      filters: stat,slf4j
+      initialSize: 5
+      maxActive: 10
+      maxPoolPreparedStatementPerConnectionSize: 20
+      maxWait: 60000
+      minEvictableIdleTimeMillis: 300000
+      minIdle: 5
+      password: dev
+      poolPreparedStatements: true
+      testOnBorrow: false
+      testOnReturn: false
+      testWhileIdle: true
+      timeBetweenEvictionRunsMillis: 60000
+      url: jdbc:mysql://127.0.0.1/govzf_standard_pl_db?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&rewriteBatchedStatements=false
+      username: dev
+      validationQuery: SELECT 1
+    gis:
+      connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=3000
+      driverClassName: org.postgresql.Driver
+      filters: stat,slf4j
+      initialSize: 5
+      maxActive: 10
+      maxPoolPreparedStatementPerConnectionSize: 20
+      maxWait: 60000
+      minEvictableIdleTimeMillis: 300000
+      minIdle: 5
+      password: ''
+      poolPreparedStatements: true
+      testOnBorrow: false
+      testOnReturn: false
+      testWhileIdle: true
+      timeBetweenEvictionRunsMillis: 60000
+      url: jdbc:postgresql://127.0.0.1:5432/govzf_standard_pl_gis_db
+      username: postgres
+      validationQuery: SELECT 1
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    serialization:
+      write-dates-as-timestamps: false
+    time-zone: GMT+8
+  jpa:
+    business:
+      database: mysql
+      properties[hibernate][cache][provider_class]: org.hibernate.cache.NoCacheProvider
+      properties[hibernate][cache][use_query_cache]: false
+      properties[hibernate][cache][use_second_level_cache]: false
+      properties[hibernate][cacheable]: false
+      properties[hibernate][dialect]: org.hibernate.dialect.MySQL5Dialect
+      properties[hibernate][enable_lazy_load_no_trans]: true
+      properties[hibernate][format_sql]: true
+      properties[hibernate][generate_statistics]: false
+      properties[hibernate][hbm2ddl][auto]: none
+      properties[hibernate][id][new_generator_mappings]: false
+      properties[hibernate][show_sql]: true
+      properties[hibernate][use_sql_comments]: false
+      show-sql: false
+    gis:
+      database: postgresql
+      database-platform: org.hibernate.dialect.PostgreSQL9Dialect
+      properties[hibernate][cache][provider_class]: org.hibernate.cache.NoCacheProvider
+      properties[hibernate][cache][use_query_cache]: false
+      properties[hibernate][cache][use_second_level_cache]: false
+      properties[hibernate][cacheable]: false
+      properties[hibernate][dialect]: org.hibernate.dialect.PostgreSQLDialect
+      properties[hibernate][enable_lazy_load_no_trans]: true
+      properties[hibernate][format_sql]: true
+      properties[hibernate][generate_statistics]: false
+      properties[hibernate][hbm2ddl][auto]: none
+      properties[hibernate][show_sql]: true
+      properties[hibernate][temp][use_jdbc_metadata_defaults]: false
+      properties[hibernate][use_sql_comments]: false
+      show-sql: false
+    open-in-view: true
+  profiles:
+    active: dev
+  redis:
+    cluster:
+      max-redirects: 3
+      nodes: 127.0.0.1:7000,127.0.0.1:7001,127.0.0.1:7002,127.0.0.1:7003,127.0.0.1:7004,127.0.0.1:7005
+    timeout: 100000ms
