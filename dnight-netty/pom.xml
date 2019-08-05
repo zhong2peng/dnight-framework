@@ -34,6 +34,7 @@
         <module>[020][chapter020]</module>
         <module>[021][echo]</module>
         <module>[022][discard]</module>
+        <module>[023][netty-rpc]</module>
     </modules>
 
     <dependencyManagement>
