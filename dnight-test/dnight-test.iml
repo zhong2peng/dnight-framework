@@ -69,5 +69,7 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.easymock:easymock:3.4" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.objenesis:objenesis:2.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.projectlombok:lombok:1.18.2" level="project" />
+    <orderEntry type="library" name="Maven: org.bouncycastle:bcprov-jdk15on:1.54" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:itextpdf:5.5.1" level="project" />
   </component>
 </module>

@@ -19,6 +19,7 @@
         <module>dnight-structure</module>
         <module>dnight-java8</module>
         <module>dnight-bigdata</module>
+        <module>dnight-activiti</module>
     </modules>
     <name>dnight-frameword</name>
     <description>亲自操手写一些框架内容</description>

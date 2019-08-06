@@ -5,10 +5,18 @@
 
 
 # dnight-framework
+## dnight-activiti
+流程控制框架学习
 ## dnight-base-framework
 spring boot 基本封装
+## dnight-bigdata
+大数据应用
 ## dnight-demo
 spring bean和spring aop的实现
+## dnight-elasticsearch
+es 框架的学习
+## dnight-hihocoder
+hihocoder 刷题
 ## dnight-leetcode
 leetcode 刷题
 ### 10 个数据结构：
@@ -17,5 +25,13 @@ leetcode 刷题
 递归、排序、二分查找、搜索、哈希算法、贪心算法、分治算法、回溯算法、动态规划、字符串匹配算法。
 ## dnight-netty
 neety的学习
+## dnight-solr
+solr模块
+## dnight-springcloud
+eureka
+fegin
+ribbon
+hystrix
+zuul
 ## dnight-structure
 数据结构

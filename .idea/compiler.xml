@@ -25,6 +25,7 @@
         <module name="[017][chapter017]" />
         <module name="[018][chapter018]" />
         <module name="[019][chapter019]" />
+        <module name="[01][leave for application]" />
         <module name="[01][spring-auth]" />
         <module name="[020][chapter020]" />
         <module name="[021][echo]" />
@@ -64,6 +65,7 @@
       <module name="[017][chapter017]" target="1.8" />
       <module name="[018][chapter018]" target="1.8" />
       <module name="[019][chapter019]" target="1.8" />
+      <module name="[01][leave for application]" target="1.8" />
       <module name="[01][spring-auth]" target="1.8" />
       <module name="[020][chapter020]" target="1.8" />
       <module name="[021][echo]" target="1.8" />
@@ -113,6 +115,7 @@
       <module name="[017][chapter017]" options="-parameters" />
       <module name="[018][chapter018]" options="-parameters" />
       <module name="[019][chapter019]" options="-parameters" />
+      <module name="[01][leave for application]" options="-parameters" />
       <module name="[01][spring-auth]" options="-parameters" />
       <module name="[020][chapter020]" options="-parameters" />
       <module name="[021][echo]" options="-parameters" />

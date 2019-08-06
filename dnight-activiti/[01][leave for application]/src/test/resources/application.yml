@@ -1,0 +1,29 @@
+spring:
+  application:
+    name: activiti-learn-leave-application
+  redis:
+    port: 6377
+    database: 1
+    password:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/ac-leave?useUnicode=true&characterEncoding=UTF-8&nullCatalogMeansCurrent=true&autoReconnect=true&useSSL=false&zeroDateTimeBehavior=convertToNull
+    username: dev
+    password: dev
+    type: com.zaxxer.hikari.HikariDataSource
+    hikari:
+      minimum-idle: 5
+      maximum-pool-size: 15
+      auto-commit: false
+      idle-timeout: 30000
+      pool-name: LeaveHikariCP
+      max-lifetime: 1800000
+      connection-timeout: 30000
+      connection-test-query: SELECT 1
+  activiti:
+    database-schema-update: true
+    check-process-definitions: true
+    process-definition-location-prefix: classpath:/processes/
+    history-level: full
+server:
+  port: 8013

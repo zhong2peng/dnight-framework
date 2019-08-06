@@ -1,0 +1,47 @@
+server:
+  port: 8013
+spring:
+  application:
+    name: activiti-learn-leave-application
+  redis:
+    port: 6377
+    database: 1
+    password:
+  datasource:
+    connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=3000
+    driverClassName: com.mysql.cj.jdbc.Driver
+    filters: stat,slf4j
+    initialSize: 5
+    maxActive: 10
+    maxPoolPreparedStatementPerConnectionSize: 20
+    maxWait: 60000
+    minEvictableIdleTimeMillis: 300000
+    minIdle: 5
+    password: dev
+    poolPreparedStatements: true
+    testOnBorrow: false
+    testOnReturn: false
+    testWhileIdle: true
+    timeBetweenEvictionRunsMillis: 60000
+    url: jdbc:mysql://127.0.0.1/ac-leave?useUnicode=true&characterEncoding=utf8&nullCatalogMeansCurrent=true&zeroDateTimeBehavior=convertToNull&rewriteBatchedStatements=false
+    username: dev
+    validationQuery: SELECT 1
+  jpa:
+    database: mysql
+    properties[hibernate][cache][provider_class]: org.hibernate.cache.NoCacheProvider
+    properties[hibernate][cache][use_query_cache]: false
+    properties[hibernate][cache][use_second_level_cache]: false
+    properties[hibernate][cacheable]: false
+    properties[hibernate][dialect]: org.hibernate.dialect.MySQL5Dialect
+    properties[hibernate][enable_lazy_load_no_trans]: true
+    properties[hibernate][format_sql]: true
+    properties[hibernate][generate_statistics]: false
+    properties[hibernate][hbm2ddl][auto]: none
+    properties[hibernate][id][new_generator_mappings]: false
+    properties[hibernate][show_sql]: true
+    properties[hibernate][use_sql_comments]: false
+  activiti:
+    database-schema-update: true
+    check-process-definitions: true
+    process-definition-location-prefix: classpath:/processes/
+    history-level: full
