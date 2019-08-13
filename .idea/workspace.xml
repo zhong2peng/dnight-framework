@@ -2,50 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70f7e6f9-c32d-4117-b889-53441f6c6378" name="Default" comment="提交">
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/[01][leave for application].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/LeaveApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/common/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/controller/book/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/controller/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/controller/test/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/dao/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/service/book/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/service/book/BookServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/service/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/service/test/HelloServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/service/test/IHello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/vo/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/resources/processes/leave.bpmn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test/java/com/dnight/improve/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test/java/com/dnight/improve/ImproveUTApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test/java/com/dnight/improve/business/SimpleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test/java/com/dnight/improve/dao/BookRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test/resources/processes/leaveapp.bpmn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-spring-learn/src/main/java/test/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-spring-learn/src/main/java/test/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0087][Scramble String]/[0087][Scramble String].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0087][Scramble String]/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0087][Scramble String]/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/itext/Extension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/itext/Pkcs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/itext/SignHighPdf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/itext/SignImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sign.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-activiti/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-activiti/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-test/dnight-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-test/dnight-test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-test/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/framework/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/framework/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -139,7 +97,35 @@
     <favorites_list name="dnight-framework" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0100][Same Tree]/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+              <folding>
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0100][Same Tree]/src/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0100][Same Tree]/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -150,8 +136,8 @@
         <option value="Interface" />
         <option value="spring-beans.schema" />
         <option value="package-info" />
-        <option value="Class" />
         <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -203,15 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dnight-activiti/activiti-start/pom.xml" />
-        <option value="$PROJECT_DIR$/dnight-activiti/activiti-start/src/test/java/com/dnight/activiti/ActivitiDemoApplicationTests.java" />
-        <option value="$PROJECT_DIR$/dnight-activiti/activiti-start/src/main/resources/process/simpleProcess.bpmn" />
-        <option value="$PROJECT_DIR$/dnight-netty/[006][chapter006]/src/main/java/TimeClient.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Lock3.java" />
-        <option value="$PROJECT_DIR$/dnight-structure/src/main/java/com/dnight/sort/ShellSort.java" />
-        <option value="$PROJECT_DIR$/dnight-structure/src/main/java/com/dnight/sort/MergeSort.java" />
-        <option value="$PROJECT_DIR$/dnight-structure/src/main/java/com/dnight/sort/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/dnight-structure/src/main/java/com/dnight/sort/HeapSort.java" />
         <option value="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/juc/countdownlatch/VideoConference.java" />
         <option value="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/juc/countdownlatch/Participant.java" />
         <option value="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/juc/countdownlatch/MeetingEvent.java" />
@@ -254,6 +231,15 @@
         <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test/java/com/dnight/improve/BaseTest.java" />
         <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test/java/com/dnight/improve/ImproveUTApplication.java" />
         <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test/java/com/dnight/improve/dao/BookRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0096][Unique Binary Search Trees]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0096][Unique Binary Search Trees]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0097][Interleaving String]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0097][Interleaving String]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0098][Validate Binary Search Tree]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0098][Validate Binary Search Tree]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0099][Recover Binary Search Tree]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0099][Recover Binary Search Tree]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0100][Same Tree]/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -296,10 +282,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="337" />
-    <option name="y" value="123" />
-    <option name="width" value="1445" />
-    <option name="height" value="924" />
+    <option name="x" value="681" />
+    <option name="y" value="23" />
+    <option name="width" value="1667" />
+    <option name="height" value="980" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -338,6 +324,37 @@
               <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0099][Recover Binary Search Tree]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0099][Recover Binary Search Tree]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0100][Same Tree]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="[0100][Same Tree]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -356,7 +373,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565085789193" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565688182582" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="com.dnight.improve.BaseTest" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -389,18 +406,18 @@
       <recent name="com.dnight" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="test" />
       <recent name="com.dnight.activiti" />
       <recent name="com.dnight.base.framework.common.configuration" />
       <recent name="com.dnight.base.framework.common.interceptor" />
-      <recent name="com.dnight.base.framework.common.constant" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dnight-leetcode/[0098][Validate Binary Search Tree]/src" />
       <recent name="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test" />
       <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-spring-learn/src/main/java/import" />
       <recent name="$PROJECT_DIR$/dnight-activiti/activiti-start/src/main/java/com/dnight/core" />
       <recent name="$PROJECT_DIR$/dnight-activiti/activiti-start/src/main/java/com/dnight/simple" />
-      <recent name="$PROJECT_DIR$/dnight-activiti/activiti-start/src/main/java/com/dnight/utils" />
     </key>
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/Wang-Jun-Chao/spring-all.git" />
@@ -423,7 +440,6 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-netty/pom.xml</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -431,13 +447,30 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0088][Merge Sorted Array]/[0088][Merge Sorted Array].iml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0088][Merge Sorted Array]/src/Main.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0088][Merge Sorted Array]/src/Solution.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/juc/atomic/customize/Main.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/juc/atomic/customize/ParkingCounter.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/juc/atomic/customize/Sensor1.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/juc/atomic/customize/Sensor2.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0089][Gray Code]/[0089][Gray Code].iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0089][Gray Code]/src/Main.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0089][Gray Code]/src/Solution.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0090][Subsets II]/[0090][Subsets II].iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0090][Subsets II]/src/Main.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0090][Subsets II]/src/Solution.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0091][Decode Ways]/[0091][Decode Ways].iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0091][Decode Ways]/src/Main.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0091][Decode Ways]/src/Solution.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0092][Reverse Linked List II]/[0092][Reverse Linked List II].iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0092][Reverse Linked List II]/src/ListNode.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0092][Reverse Linked List II]/src/Main.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0092][Reverse Linked List II]/src/Solution.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0093][Restore IP Addresses]/[0093][Restore IP Addresses].iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0093][Restore IP Addresses]/src/Main.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0093][Restore IP Addresses]/src/Solution.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0094][Binary Tree Inorder Traversal]/[0094][Binary Tree Inorder Traversal].iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0094][Binary Tree Inorder Traversal]/src/Main.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0094][Binary Tree Inorder Traversal]/src/Solution.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0094][Binary Tree Inorder Traversal]/src/TreeNode.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0095][Unique Binary Search Trees II]/[0095][Unique Binary Search Trees II].iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0095][Unique Binary Search Trees II]/src/Main.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0095][Unique Binary Search Trees II]/src/Solution.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0095][Unique Binary Search Trees II]/src/TreeNode.java</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -538,7 +571,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BookRepositoryTest.test">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -547,42 +580,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="[0097][Interleaving String]" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[01][leave for application]" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dnight.improve.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.dnight.improve" />
-      <option name="MAIN_CLASS_NAME" value="com.dnight.improve.BaseTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="[0098][Validate Binary Search Tree]" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaseTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[01][leave for application]" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dnight.improve.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.dnight.improve" />
-      <option name="MAIN_CLASS_NAME" value="com.dnight.improve.BaseTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="[0099][Recover Binary Search Tree]" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="[0096][Unique Binary Search Trees]" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -598,24 +629,6 @@
       <option name="PACKAGE_NAME" value="com.dnight.improve.dao" />
       <option name="MAIN_CLASS_NAME" value="com.dnight.improve.dao.BookRepositoryTest" />
       <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="[01][leave for application]" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dnight.improve.business.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.dnight.improve.business" />
-      <option name="MAIN_CLASS_NAME" value="com.dnight.improve.business.SimpleTest" />
-      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -639,19 +652,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" />
       <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeaveApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="[01][leave for application]" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dnight.improve.business.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dnight.improve.LeaveApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -691,19 +691,19 @@
     <list>
       <item itemvalue="Spring Boot.StandardWebApplication" />
       <item itemvalue="Spring Boot.SpringBootEs" />
-      <item itemvalue="Spring Boot.LeaveApplication" />
-      <item itemvalue="JUnit.SimpleTest.test1" />
-      <item itemvalue="JUnit.BaseTest" />
-      <item itemvalue="JUnit.BaseTest.test" />
       <item itemvalue="JUnit.BookRepositoryTest.test" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.BookRepositoryTest.test" />
-        <item itemvalue="JUnit.SimpleTest.test1" />
-        <item itemvalue="JUnit.BaseTest" />
-        <item itemvalue="JUnit.BaseTest.test" />
-        <item itemvalue="Spring Boot.LeaveApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -760,7 +760,7 @@
       <workItem from="1564110873309" duration="81000" />
       <workItem from="1564111123002" duration="3212000" />
       <workItem from="1564121193750" duration="15223000" />
-      <workItem from="1564363938212" duration="57936000" />
+      <workItem from="1564363938212" duration="69253000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1559705700712</created>
@@ -881,7 +881,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564567531557</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="提交">
+      <created>1565085823208</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1565085823208</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -917,7 +924,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="468585000" />
+    <option name="totallyTimeSpent" value="479902000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -929,10 +936,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="337" y="123" width="1445" height="924" extended-state="0" />
+    <frame x="681" y="23" width="1667" height="980" extended-state="0" />
     <layout>
       <window_info id="BPMN Editor" order="0" weight="0.32916927" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49667996" visible="true" weight="0.22309338" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49667996" visible="true" weight="0.15384616" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -943,8 +950,8 @@
       <window_info id="Structure" order="9" sideWeight="0.49839228" weight="0.24797001" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.29046088" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49937966" weight="0.8425481" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.7512019" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49937966" weight="0.3412162" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.7511261" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286052" />
@@ -1177,6 +1184,12 @@
           <properties />
           <option name="timeStamp" value="41" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dnight-leetcode/[0099][Recover Binary Search Tree]/src/Main.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1231,106 +1244,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/Documents/mvn_data/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/filter/ThresholdFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="34" column="20" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Documents/mvn_data/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/RollingFileAppender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="44" column="20" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#8728#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Documents/mvn_data/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/rolling/TimeBasedRollingPolicy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="43" column="30" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="35" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Documents/mvn_data/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar!/ch/qos/logback/core/rolling/RollingFileAppender.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#8023#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/leave/leave.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2429" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Documents/mvn_data/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="468" column="32" selection-start-line="468" selection-start-column="32" selection-end-line="468" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Documents/mvn_data/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurationSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-804">
-          <caret line="273" column="40" selection-start-line="273" selection-start-column="40" selection-end-line="273" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Documents/mvn_data/org/springframework/boot/spring-boot/2.1.6.RELEASE/spring-boot-2.1.6.RELEASE.jar!/org/springframework/boot/logging/logback/defaults.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$USER_HOME$/Documents/mvn_data/org/springframework/boot/spring-boot/2.1.6.RELEASE/spring-boot-2.1.6.RELEASE.jar!/org/springframework/boot/logging/logback/file-appender.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/resources/logback-spring.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/resources/logback-spring.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/activiti-start/src/main/resources/process/simpleProcess.bpmn">
-      <provider selected="true" editor-type-id="bpmn-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/activiti-start/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="54" column="19" selection-start-line="13" selection-start-column="4" selection-end-line="54" selection-end-column="19" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-spring-learn/src/main/resources/application-ioc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/activiti-start/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dnight-activiti/activiti-start/src/main/java/com/dnight/ActiviDemoApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
@@ -1472,34 +1385,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/vo/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#683#684#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
-            <element signature="e#749#750#0" expanded="true" />
-            <element signature="e#781#782#0" expanded="true" />
-            <element signature="e#803#804#0" expanded="true" />
-            <element signature="e#848#849#0" expanded="true" />
-            <element signature="e#879#880#0" expanded="true" />
-            <element signature="e#912#913#0" expanded="true" />
-            <element signature="e#937#938#0" expanded="true" />
-            <element signature="e#986#987#0" expanded="true" />
-            <element signature="e#1023#1024#0" expanded="true" />
-            <element signature="e#1057#1058#0" expanded="true" />
-            <element signature="e#1081#1082#0" expanded="true" />
-            <element signature="e#1130#1131#0" expanded="true" />
-            <element signature="e#1165#1166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/controller/book/BookController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
@@ -1536,23 +1421,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/logs/leave/leave.log">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/dao/BookRepository.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1604,6 +1474,127 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#331#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/vo/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0096][Unique Binary Search Trees]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0096][Unique Binary Search Trees]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0095][Unique Binary Search Trees II]/[0095][Unique Binary Search Trees II].iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0095][Unique Binary Search Trees II]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0097][Interleaving String]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0097][Interleaving String]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="76" column="5" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0098][Validate Binary Search Tree]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="31" column="95" selection-start-line="31" selection-start-column="95" selection-end-line="31" selection-end-column="95" />
+          <folding>
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0098][Validate Binary Search Tree]/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0098][Validate Binary Search Tree]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0099][Recover Binary Search Tree]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0099][Recover Binary Search Tree]/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0099][Recover Binary Search Tree]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0100][Same Tree]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0100][Same Tree]/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0100][Same Tree]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+          <folding>
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
           </folding>
         </state>
       </provider>
