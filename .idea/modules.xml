@@ -72,6 +72,7 @@
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0098][Validate Binary Search Tree]/[0098][Validate Binary Search Tree].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0098][Validate Binary Search Tree]/[0098][Validate Binary Search Tree].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0099][Recover Binary Search Tree]/[0099][Recover Binary Search Tree].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0099][Recover Binary Search Tree]/[0099][Recover Binary Search Tree].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/[009][chapter009]/[009][chapter009].iml" filepath="$PROJECT_DIR$/dnight-netty/[009][chapter009]/[009][chapter009].iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-base-framework/[00][simple]/[00][simple].iml" filepath="$PROJECT_DIR$/dnight-base-framework/[00][simple]/[00][simple].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/[0100][Same Tree]/[0100][Same Tree].iml" filepath="$PROJECT_DIR$/dnight-leetcode/[0100][Same Tree]/[0100][Same Tree].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/[010][chapter010]/[010][chapter010].iml" filepath="$PROJECT_DIR$/dnight-netty/[010][chapter010]/[010][chapter010].iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-netty/[011][chapter011]/[011][chapter011].iml" filepath="$PROJECT_DIR$/dnight-netty/[011][chapter011]/[011][chapter011].iml" />
@@ -96,6 +97,7 @@
       <module fileurl="file://$PROJECT_DIR$/dnight-demo/dnight-demo.iml" filepath="$PROJECT_DIR$/dnight-demo/dnight-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-elasticsearch/dnight-elasticsearch.iml" filepath="$PROJECT_DIR$/dnight-elasticsearch/dnight-elasticsearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dnight-framework.iml" filepath="$PROJECT_DIR$/.idea/dnight-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/dnight-gecco.iml" filepath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/dnight-gecco.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-hihocoder/dnight-hihocoder.iml" filepath="$PROJECT_DIR$/dnight-hihocoder/dnight-hihocoder.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-java8/dnight-java8.iml" filepath="$PROJECT_DIR$/dnight-java8/dnight-java8.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnight-leetcode/dnight-leetcode.iml" filepath="$PROJECT_DIR$/dnight-leetcode/dnight-leetcode.iml" />

@@ -15,6 +15,7 @@
         <module name="[007][chapter007]" />
         <module name="[008][chapter008]" />
         <module name="[009][chapter009]" />
+        <module name="[00][simple]" />
         <module name="[010][chapter010]" />
         <module name="[011][chapter011]" />
         <module name="[012][chapter012]" />
@@ -33,6 +34,7 @@
         <module name="activiti-start" />
         <module name="dnight-base-springboot2" />
         <module name="dnight-demo" />
+        <module name="dnight-gecco" />
         <module name="dnight-hihocoder" />
         <module name="dnight-leetcode" />
         <module name="dnight-solr" />
@@ -55,6 +57,7 @@
       <module name="[007][chapter007]" target="1.8" />
       <module name="[008][chapter008]" target="1.8" />
       <module name="[009][chapter009]" target="1.8" />
+      <module name="[00][simple]" target="1.8" />
       <module name="[010][chapter010]" target="1.8" />
       <module name="[011][chapter011]" target="1.8" />
       <module name="[012][chapter012]" target="1.8" />
@@ -78,6 +81,7 @@
       <module name="dnight-demo" target="1.8" />
       <module name="dnight-elasticsearch" target="1.8" />
       <module name="dnight-framework" target="1.8" />
+      <module name="dnight-gecco" target="1.8" />
       <module name="dnight-gis" target="1.8" />
       <module name="dnight-hihocoder" target="1.8" />
       <module name="dnight-java8" target="1.8" />
@@ -105,6 +109,7 @@
       <module name="[007][chapter007]" options="-parameters" />
       <module name="[008][chapter008]" options="-parameters" />
       <module name="[009][chapter009]" options="-parameters" />
+      <module name="[00][simple]" options="-parameters" />
       <module name="[010][chapter010]" options="-parameters" />
       <module name="[011][chapter011]" options="-parameters" />
       <module name="[012][chapter012]" options="-parameters" />
@@ -124,6 +129,7 @@
       <module name="dnight-activiti" options="-parameters" />
       <module name="dnight-base-springboot2" options="-parameters" />
       <module name="dnight-demo" options="-parameters" />
+      <module name="dnight-gecco" options="-parameters" />
       <module name="dnight-hihocoder" options="-parameters" />
       <module name="dnight-leetcode" options="-parameters" />
       <module name="dnight-solr" options="-parameters" />
