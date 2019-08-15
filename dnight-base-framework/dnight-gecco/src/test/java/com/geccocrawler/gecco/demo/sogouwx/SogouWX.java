@@ -6,10 +6,12 @@ import com.geccocrawler.gecco.annotation.HtmlField;
 import com.geccocrawler.gecco.annotation.RequestParameter;
 import com.geccocrawler.gecco.request.HttpGetRequest;
 import com.geccocrawler.gecco.spider.HtmlBean;
+import lombok.Data;
 
 import java.util.List;
 
 @Gecco(matchUrl = "http://weixin.sogou.com/weixin?type=2&query={keyword}", pipelines = {"consolePipeline"})
+@Data
 public class SogouWX implements HtmlBean {
 
     private static final long serialVersionUID = 7504646787612579665L;
@@ -19,22 +21,6 @@ public class SogouWX implements HtmlBean {
 
     @HtmlField(cssPath = ".results .wx-rb")
     private List<WeiXin> weixins;
-
-    public String getKeyword() {
-        return keyword;
-    }
-
-    public void setKeyword(String keyword) {
-        this.keyword = keyword;
-    }
-
-    public List<WeiXin> getWeixins() {
-        return weixins;
-    }
-
-    public void setWeixins(List<WeiXin> weixins) {
-        this.weixins = weixins;
-    }
 
     public static void main(String[] args) {
         HttpGetRequest start = new HttpGetRequest("http://weixin.sogou.com/weixin?type=2&query=%E6%B7%B1%E5%9C%B3");

@@ -47,7 +47,7 @@ public class GeccoEngine<V> extends Thread implements Callable<V> {
 
     private Date startTime;
 
-    private List<HttpRequest> startRequests = new ArrayList<HttpRequest>();
+    private List<HttpRequest> startRequests = new ArrayList<>();
 
     private Scheduler scheduler;
 

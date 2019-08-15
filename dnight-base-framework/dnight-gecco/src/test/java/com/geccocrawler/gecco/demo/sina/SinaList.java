@@ -7,25 +7,19 @@ import com.geccocrawler.gecco.annotation.PipelineName;
 import com.geccocrawler.gecco.annotation.Text;
 import com.geccocrawler.gecco.pipeline.Pipeline;
 import com.geccocrawler.gecco.spider.HtmlBean;
+import lombok.Data;
 
 import java.util.List;
 
 @PipelineName("SinaList")
 @Gecco(matchUrl = "http://news.sina.com.cn/china/", pipelines = "SinaList")
+@Data
 public class SinaList implements HtmlBean, Pipeline<SinaList> {
 
     private static final long serialVersionUID = 6683895914723213684L;
 
     @HtmlField(cssPath = "#subShowContent1_static .news-item h2 a")
     private List<Item> items;
-
-    public List<Item> getItems() {
-        return items;
-    }
-
-    public void setItems(List<Item> items) {
-        this.items = items;
-    }
 
     public static class Item implements HtmlBean {
 

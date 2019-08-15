@@ -7,8 +7,10 @@ import com.geccocrawler.gecco.annotation.Request;
 import com.geccocrawler.gecco.annotation.Text;
 import com.geccocrawler.gecco.request.HttpRequest;
 import com.geccocrawler.gecco.spider.HtmlBean;
+import lombok.Data;
 
 @Gecco(pipelines = "consolePipeline")
+@Data
 public class CommonCrawler implements HtmlBean {
 
     private static final long serialVersionUID = -8870768223740844229L;
@@ -19,22 +21,6 @@ public class CommonCrawler implements HtmlBean {
     @Text(own = false)
     @HtmlField(cssPath = "body")
     private String body;
-
-    public HttpRequest getRequest() {
-        return request;
-    }
-
-    public void setRequest(HttpRequest request) {
-        this.request = request;
-    }
-
-    public String getBody() {
-        return body;
-    }
-
-    public void setBody(String body) {
-        this.body = body;
-    }
 
     public static void main(String[] args) {
         GeccoEngine.create()
