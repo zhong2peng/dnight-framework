@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70f7e6f9-c32d-4117-b889-53441f6c6378" name="Default" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/[01][leave for application].iml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/[01][leave for application].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-base-framework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log.path_IS_UNDEFINED" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/dnight-gecco.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/dnight-gecco.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/GeccoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/GeccoApplication.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -107,18 +103,100 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/GeccoApplication.java">
+        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/GeccoEngine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+            <state relative-caret-position="630">
+              <caret line="46" column="39" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/CommonCrawler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/MyGithub.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sina/SinaList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/proxy/FileProxys.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dnight-base-framework/[00][simple]/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="41" selection-end-column="21" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="787">
+              <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/HttpClientDownloader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/GeccoApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="5" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -171,6 +249,7 @@
       <find>HashEntry</find>
       <find>chain</find>
       <find>driver-class-name</find>
+      <find>log</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -187,28 +266,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dnight-leetcode/[0087][Scramble String]/src/Main.java" />
-        <option value="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/itext/SignImage.java" />
-        <option value="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/itext/Extension.java" />
-        <option value="$PROJECT_DIR$/dnight-test/pom.xml" />
-        <option value="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/itext/Pkcs.java" />
-        <option value="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/itext/SignHighPdf.java" />
-        <option value="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/spring/ImportTest.java" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-spring-learn/src/main/java/test/Dog.java" />
-        <option value="$PROJECT_DIR$/doc/readme.md" />
-        <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/resources/logback.xml" />
-        <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/resources/logback-spring.xml" />
-        <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test/java/com/dnight/improve/SimpleTest.java" />
-        <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/service/test/IHello.java" />
-        <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/service/test/HelloServiceImpl.java" />
-        <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/common/config/ActivitiConfiguration.java" />
-        <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/resources/processes/leave.bpmn" />
-        <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/controller/test/TestController.java" />
-        <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/LeaveApplication.java" />
-        <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/common/config/BusinessDataSourceConfig.java" />
-        <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/vo/Book.java" />
-        <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/dao/BookRepository.java" />
         <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/service/book/BookService.java" />
         <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/controller/book/BookController.java" />
         <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/service/book/BookServiceImpl.java" />
@@ -228,16 +285,38 @@
         <option value="$PROJECT_DIR$/dnight-leetcode/[0100][Same Tree]/src/Solution.java" />
         <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Lock4.java" />
         <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Lock5.java" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/GeccoApplication.java" />
         <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/pom.xml" />
         <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/pom.xml" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/pom.xml" />
         <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/dnight-base-framework/[00][simple]/pom.xml" />
         <option value="$PROJECT_DIR$/dnight-base-framework/[00][simple]/src/main/java/Application.java" />
         <option value="$PROJECT_DIR$/dnight-base-framework/[00][simple]/src/main/java/SimpleApplication.java" />
         <option value="$PROJECT_DIR$/dnight-base-framework/[00][simple]/src/main/java/com/dnight/SimpleApplication.java" />
         <option value="$PROJECT_DIR$/dnight-base-framework/[00][simple]/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/readme.md" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/jd/Category.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/jd/AllSort.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/jd/AllSortPipeline.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/webmagic/GithubRepoPageProcessor.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/webmagic/sina/SinaBlogProcessor.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/webmagic/baidu/BaiduNews.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/webmagic/simples/scheduler/ZipCodePageProcessor.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/webmagic/simples/MamacnPageProcessor.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/webmagic/simples/ZhihuPageProcessor.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/request/AbstractHttpRequest.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/downloader/proxy/FileProxys.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/downloader/AbstractDownloader.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/utils/UrlMatcher.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/utils/EngineRetUtil.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/utils/DownloadImage.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/spider/SpiderThreadLocal.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/spider/SpiderBeanFactory.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/request/AbstractHttpRequest.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/dynamic/AllSortJsonPipeline.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/GeccoApplication.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/pom.xml" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/proxy/FileProxys.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/GeccoEngine.java" />
       </list>
     </option>
   </component>
@@ -279,11 +358,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="220" />
-    <option name="y" value="67" />
-    <option name="width" value="1667" />
-    <option name="height" value="980" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="407" />
+    <option name="y" value="133" />
+    <option name="width" value="1810" />
+    <option name="height" value="914" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -331,6 +410,44 @@
               <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
               <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="[00][simple]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="[00][simple]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="[00][simple]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="[00][simple]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="[00][simple]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
               <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -365,7 +482,43 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="gecco" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gecco" type="462c0819:PsiDirectoryNode" />
+              <item name="downloader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gecco" type="462c0819:PsiDirectoryNode" />
+              <item name="downloader" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
@@ -383,6 +536,48 @@
               <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="sina" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
@@ -411,14 +606,14 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565777327911" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565856758660" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="com.dnight.improve.BaseTest" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.37471265" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -451,11 +646,11 @@
       <recent name="com.dnight.base.framework.common.interceptor" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/resource" />
-      <recent name="$PROJECT_DIR$/dnight-base-framework/[00][simple]/src/main/resources" />
-      <recent name="$PROJECT_DIR$/dnight-leetcode/[0098][Validate Binary Search Tree]/src" />
-      <recent name="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test" />
-      <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-spring-learn/src/main/java/import" />
+      <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/resources" />
+      <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo" />
+      <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/resources" />
+      <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco" />
+      <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco" />
     </key>
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/Wang-Jun-Chao/spring-all.git" />
@@ -609,7 +804,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SimpleApplication">
+  <component name="RunManager" selected="Application.MyGithub">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -618,13 +813,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lock4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrent.Lock4" />
-      <module name="java8-tutorial" />
+    <configuration name="BaiduNews" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dnight.gecco.webmagic.baidu.BaiduNews" />
+      <module name="dnight-gecco" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrent.*" />
+          <option name="PATTERN" value="com.dnight.gecco.webmagic.baidu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -632,13 +827,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lock5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrent.Lock5" />
-      <module name="java8-tutorial" />
+    <configuration name="CommonCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geccocrawler.gecco.demo.CommonCrawler" />
+      <module name="dnight-gecco" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrent.*" />
+          <option name="PATTERN" value="com.geccocrawler.gecco.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -646,10 +841,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="[0099][Recover Binary Search Tree]" />
+    <configuration name="MyGithub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geccocrawler.gecco.demo.MyGithub" />
+      <module name="dnight-gecco" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geccocrawler.gecco.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SinaBlogProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dnight.gecco.webmagic.sina.SinaBlogProcessor" />
+      <module name="dnight-gecco" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dnight.gecco.webmagic.sina.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZhihuPageProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dnight.gecco.webmagic.simples.ZhihuPageProcessor" />
+      <module name="dnight-gecco" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dnight.gecco.webmagic.simples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -676,32 +905,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" />
       <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GeccoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="dnight-gecco" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dnight.gecco.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dnight.gecco.GeccoApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="[00][simple]" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dnight.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dnight.SimpleApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -741,19 +944,19 @@
     <list>
       <item itemvalue="Spring Boot.StandardWebApplication" />
       <item itemvalue="Spring Boot.SpringBootEs" />
-      <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Lock4" />
-      <item itemvalue="Application.Lock5" />
-      <item itemvalue="Spring Boot.GeccoApplication" />
-      <item itemvalue="Spring Boot.SimpleApplication" />
+      <item itemvalue="Application.SinaBlogProcessor" />
+      <item itemvalue="Application.BaiduNews" />
+      <item itemvalue="Application.ZhihuPageProcessor" />
+      <item itemvalue="Application.MyGithub" />
+      <item itemvalue="Application.CommonCrawler" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.SimpleApplication" />
-        <item itemvalue="Spring Boot.GeccoApplication" />
-        <item itemvalue="Application.Lock5" />
-        <item itemvalue="Application.Lock4" />
-        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.MyGithub" />
+        <item itemvalue="Application.CommonCrawler" />
+        <item itemvalue="Application.ZhihuPageProcessor" />
+        <item itemvalue="Application.BaiduNews" />
+        <item itemvalue="Application.SinaBlogProcessor" />
       </list>
     </recent_temporary>
   </component>
@@ -810,7 +1013,7 @@
       <workItem from="1564110873309" duration="81000" />
       <workItem from="1564111123002" duration="3212000" />
       <workItem from="1564121193750" duration="15223000" />
-      <workItem from="1564363938212" duration="79158000" />
+      <workItem from="1564363938212" duration="91462000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1559705700712</created>
@@ -945,7 +1148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565688434877</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="commit">
+      <created>1565777422646</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1565777422646</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -981,7 +1191,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="489807000" />
+    <option name="totallyTimeSpent" value="502111000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -993,11 +1203,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="220" y="67" width="1667" height="980" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="1025" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="BPMN Editor" order="0" weight="0.32916927" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49667996" visible="true" weight="0.232" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49667996" visible="true" weight="0.33812568" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -1008,35 +1218,35 @@
       <window_info id="Structure" order="9" sideWeight="0.49839228" weight="0.24797001" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.29046088" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49937966" weight="0.3412162" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.7511261" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49937966" weight="0.770073" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.75060827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286052" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32934928" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.66871166" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50062037" side_tool="true" weight="0.58142203" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5009798" side_tool="true" weight="0.31751823" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32683486" />
       <window_info anchor="bottom" id="Tail" order="11" weight="0.32885087" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.31832796" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49902025" weight="0.27974278" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="14" weight="0.32934928" />
       <window_info anchor="bottom" id="CheckStyle" order="15" />
       <window_info anchor="bottom" id="Java Enterprise" order="16" />
       <window_info anchor="bottom" id="Inspection Results" order="17" weight="0.32876712" />
       <window_info anchor="bottom" id="Statistic" order="18" weight="0.32906976" />
-      <window_info anchor="right" id="BPMNPalette" weight="0.32916927" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" weight="0.32854465" />
-      <window_info anchor="right" id="Maven Projects" order="6" weight="0.4523077" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32854465" />
-      <window_info anchor="right" id="Key Promoter X" order="10" weight="0.32893825" />
+      <window_info anchor="right" id="BPMNPalette" order="0" weight="0.32916927" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32854465" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.4515442" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.32854465" />
+      <window_info anchor="right" id="Key Promoter X" order="11" weight="0.328541" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1249,6 +1459,12 @@
           <properties />
           <option name="timeStamp" value="42" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/jd/AllSortPipeline.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1303,381 +1519,335 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/StandardWebApplication.java">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/annotation/Bean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="11" column="63" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="63" />
-          <folding>
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="168">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/java/com/dnight/base/framework/common/configuration/DataSourceBusinessConfig.java">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/annotation/Downloader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1344">
-          <caret line="85" column="22" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="22" />
+        <state relative-caret-position="168">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/common/config/BusinessDataSourceConfig.java">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/annotation/Gecco.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2290">
-          <caret line="97" lean-forward="true" selection-end-line="97" />
-          <folding>
-            <element signature="e#0#4063#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="168">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/common/config/ActivitiConfiguration.java">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/annotation/FieldRenderName.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" selection-end-line="27" />
+        <state relative-caret-position="168">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/80103c5e-b3db-48e1-89f7-0130ca970a4d/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/service/book/BookService.java">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/downloader/proxy/FileProxys.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/controller/book/BookController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+        <state relative-caret-position="-1810">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/service/book/BookServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/downloader/proxy/Proxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        <state relative-caret-position="-487">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/service/test/IHello.java">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/downloader/proxy/Proxys.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/service/test/HelloServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/downloader/proxy/ProxysContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/logs/leave/leave.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/dao/BookRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test/java/com/dnight/improve/business/SimpleTest.java">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/downloader/AbstractDownloader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="33" column="13" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test/java/com/dnight/improve/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="13" lean-forward="true" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test/java/com/dnight/improve/ImproveUTApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="7" lean-forward="true" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test/java/com/dnight/improve/dao/BookRepositoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/vo/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        <state relative-caret-position="-1025">
+          <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0096][Unique Binary Search Trees]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0096][Unique Binary Search Trees]/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0095][Unique Binary Search Trees II]/[0095][Unique Binary Search Trees II].iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0095][Unique Binary Search Trees II]/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0097][Interleaving String]/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0097][Interleaving String]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="76" column="5" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0098][Validate Binary Search Tree]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="31" column="95" selection-start-line="31" selection-start-column="95" selection-end-line="31" selection-end-column="95" />
-          <folding>
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0098][Validate Binary Search Tree]/src/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0098][Validate Binary Search Tree]/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0099][Recover Binary Search Tree]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0099][Recover Binary Search Tree]/src/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0099][Recover Binary Search Tree]/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0100][Same Tree]/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/utils/UrlUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0100][Same Tree]/src/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/utils/UrlMatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/utils/ReflectUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-929">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/GeccoEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/utils/EngineRetUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/utils/DownloadImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-657">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/spider/SpiderThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/spider/SpiderBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#7291#7301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/spider/render/html/HtmlFieldRender.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/java/com/dnight/improve/LeaveApplication.java">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/spider/conversion/StringTypeHandle.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/spider/conversion/IntegerTypeHandle.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/request/StartRequestList.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/spider/render/json/JsonFieldRender.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/DownloaderContext.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/spider/SpiderBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/spider/conversion/BooleanTypeHandle.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/request/HttpGetRequest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/request/AbstractHttpRequest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/proxy/Proxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-762" />
+        <state relative-caret-position="384">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/leave/leave.log">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/resources/mobileUserAgents">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2373" />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sogouwx/Article.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0100][Same Tree]/src/Solution.java">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/ajax/JDad.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/jd/JdPricesFieldRender.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sogouwx/WeiXin.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/dynamic/MyGithub.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/jd/JDPrice.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/jd/AllSortPipeline.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sina/SinaListDynamic.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/dynamic/AllSortJsonPipeline.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding>
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="552">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Lock3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Lock4.java">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/scheduler/FIFOScheduler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="670">
-          <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Lock5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-652">
-          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
-          <folding>
-            <element signature="e#233#1608#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="34" selection-end-column="21" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1344">
-          <caret line="62" column="19" selection-start-line="13" selection-start-column="4" selection-end-line="62" selection-end-column="19" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/[00][simple]/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="63" column="19" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/[00][simple]/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="168">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dnight-base-framework/[00][simple]/src/main/java/com/dnight/SimpleApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/GeccoApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+        <state relative-caret-position="192">
+          <caret line="8" column="5" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sina/SinaList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/HttpClientDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/[00][simple]/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="41" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="787">
+          <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/proxy/FileProxys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/GeccoEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="46" column="39" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/CommonCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/MyGithub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1734,7 +1904,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>dnight-test</last-edited>
+          <last-edited>dnight-gecco</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
