@@ -2,10 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70f7e6f9-c32d-4117-b889-53441f6c6378" name="Default" comment="commit">
+      <change afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/dnight-webmagic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/src/main/java/com/dnight/webmagic/WebMagicApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/src/main/java/com/dnight/webmagic/simple/GithubRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0101][Symmetric Tree]/[0101][Symmetric Tree].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0101][Symmetric Tree]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0101][Symmetric Tree]/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0102][Binary Tree Level Order Traversal]/[0102][Binary Tree Level Order Traversal].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0102][Binary Tree Level Order Traversal]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0102][Binary Tree Level Order Traversal]/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0103][Binary Tree Zigzag Level Order Traversal]/[0103][Binary Tree Zigzag Level Order Traversal].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0103][Binary Tree Zigzag Level Order Traversal]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0103][Binary Tree Zigzag Level Order Traversal]/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0104][Maximum Depth of Binary Tree]/[0104][Maximum Depth of Binary Tree].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0104][Maximum Depth of Binary Tree]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0104][Maximum Depth of Binary Tree]/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0105][Construct Binary Tree from Preorder and Inorder Traversal]/[0105][Construct Binary Tree from Preorder and Inorder Traversal].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0105][Construct Binary Tree from Preorder and Inorder Traversal]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0105][Construct Binary Tree from Preorder and Inorder Traversal]/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0106][Construct Binary Tree from Inorder and Postorder Traversal]/[0106][Construct Binary Tree from Inorder and Postorder Traversal].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0106][Construct Binary Tree from Inorder and Postorder Traversal]/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0106][Construct Binary Tree from Inorder and Postorder Traversal]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0106][Construct Binary Tree from Inorder and Postorder Traversal]/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0107][Binary Tree Level Order Traversal II]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0107][Binary Tree Level Order Traversal II]/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0108][Convert Sorted Array to Binary Search Tree]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0108][Convert Sorted Array to Binary Search Tree]/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree ]/[0109][Convert Sorted List to Binary Search Tree ].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree ]/src/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree ]/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree ]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree ]/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0110][Balanced Binary Tree]/[0110][Balanced Binary Tree].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0110][Balanced Binary Tree]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-leetcode/[0110][Balanced Binary Tree]/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/base/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/dnight-gecco.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/dnight-gecco.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/GeccoEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/GeccoEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnight-base-framework/[00][simple]/[00][simple].iml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/[00][simple]/[00][simple].iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnight-base-framework/[00][simple]/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/[00][simple]/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/DownloadTimeoutException.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/DownloadTimeoutException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/HttpClientDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/HttpClientDownloader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/MonitorDownloaderFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/MonitorDownloaderFactory.java" afterDir="false" />
@@ -14,15 +54,11 @@
       <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/dynamic/GeccoJavaReflectionAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/dynamic/GeccoJavaReflectionAdapter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/listener/SimpleEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/listener/SimpleEventListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/spider/SpiderBeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/spider/SpiderBeanFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/CommonCrawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/CommonCrawler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/MyGithub.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/MyGithub.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/dynamic/AllSortJsonPipeline.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/dynamic/AllSortJsonPipeline.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/images/ImageListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/images/ImageListDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/jd/ProductList.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/jd/ProductList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sina/SinaList.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sina/SinaList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sogouwx/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sogouwx/Article.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sogouwx/SogouWX.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sogouwx/SogouWX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sogouwx/WeiXin.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sogouwx/WeiXin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnight-base-framework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnight-leetcode/dnight-leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-leetcode/dnight-leetcode.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -75,6 +111,7 @@
     <ignored path="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/target/" />
     <ignored path="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/target/" />
     <ignored path="$PROJECT_DIR$/dnight-base-framework/[00][simple]/target/" />
+    <ignored path="$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,99 +155,7 @@
     <favorites_list name="dnight-framework" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/test/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sogouwx/SogouWX.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="113" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/pipeline/ConsolePipeline.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="10" column="28" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="34" />
-              <folding>
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#392#393#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/pipeline/DefaultPipelineFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/pipeline/PipelineFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/pipeline/Pipeline.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/pipeline/JsonPipeline.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/monitor/DownloadMBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/MyGithub.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-122">
-              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="66" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -276,26 +221,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/src/test/java/com/dnight/improve/dao/BookRepositoryTest.java" />
-        <option value="$PROJECT_DIR$/dnight-leetcode/[0096][Unique Binary Search Trees]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/dnight-leetcode/[0096][Unique Binary Search Trees]/src/Main.java" />
-        <option value="$PROJECT_DIR$/dnight-leetcode/[0097][Interleaving String]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/dnight-leetcode/[0097][Interleaving String]/src/Main.java" />
-        <option value="$PROJECT_DIR$/dnight-leetcode/[0098][Validate Binary Search Tree]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/dnight-leetcode/[0098][Validate Binary Search Tree]/src/Main.java" />
-        <option value="$PROJECT_DIR$/dnight-leetcode/[0099][Recover Binary Search Tree]/src/Main.java" />
-        <option value="$PROJECT_DIR$/dnight-leetcode/[0099][Recover Binary Search Tree]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/dnight-leetcode/[0100][Same Tree]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Lock4.java" />
-        <option value="$PROJECT_DIR$/dnight-java8/java8-tutorial/src/main/java/concurrent/Lock5.java" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-base-springboot2/pom.xml" />
-        <option value="$PROJECT_DIR$/dnight-activiti/[01][leave for application]/pom.xml" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/[00][simple]/pom.xml" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/[00][simple]/src/main/java/Application.java" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/[00][simple]/src/main/java/SimpleApplication.java" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/[00][simple]/src/main/java/com/dnight/SimpleApplication.java" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/[00][simple]/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/readme.md" />
         <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/jd/Category.java" />
         <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/jd/AllSort.java" />
@@ -327,6 +252,26 @@
         <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sina/SinaList.java" />
         <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/test/Test.java" />
         <option value="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/MyGithub.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/[00][simple]/pom.xml" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/src/main/java/com/dnight/webmagic/simple/GithubRepo.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/src/main/java/com/dnight/webmagic/WebMagicApplication.java" />
+        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/pom.xml" />
+        <option value="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/base/Test.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0101][Symmetric Tree]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0102][Binary Tree Level Order Traversal]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0103][Binary Tree Zigzag Level Order Traversal]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0104][Maximum Depth of Binary Tree]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0105][Construct Binary Tree from Preorder and Inorder Traversal]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0106][Construct Binary Tree from Inorder and Postorder Traversal]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0106][Construct Binary Tree from Inorder and Postorder Traversal]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0107][Binary Tree Level Order Traversal II]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0108][Convert Sorted Array to Binary Search Tree]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree ]/src/ListNode.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree ]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree ]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0110][Balanced Binary Tree]/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -369,10 +314,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="170" />
-    <option name="y" value="55" />
-    <option name="width" value="1920" />
-    <option name="height" value="1025" />
+    <option name="x" value="378" />
+    <option name="y" value="25" />
+    <option name="width" value="1440" />
+    <option name="height" value="843" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -414,181 +359,7 @@
             <path>
               <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="[00][simple]" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="gecco" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="gecco" type="462c0819:PsiDirectoryNode" />
-              <item name="monitor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="gecco" type="462c0819:PsiDirectoryNode" />
-              <item name="pipeline" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="sogouwx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-base-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-gecco" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.weakref:jmxutils:1.19" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.weakref:jmxutils:1.19" type="70bed36:NamedLibraryElementNode" />
-              <item name="jmxutils-1.19.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.weakref:jmxutils:1.19" type="70bed36:NamedLibraryElementNode" />
-              <item name="jmxutils-1.19.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="jmx" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -608,7 +379,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565861412458" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567577938485" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="com.dnight.improve.BaseTest" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -618,7 +389,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.37471265" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="ImportMappingsDialog.RecentPackages">
@@ -642,17 +413,17 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
+      <recent name="com.dnight.webmagic.simple" />
       <recent name="test" />
       <recent name="com.dnight.activiti" />
       <recent name="com.dnight.base.framework.common.configuration" />
-      <recent name="com.dnight.base.framework.common.interceptor" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/src/main/resources" />
       <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/resources" />
       <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo" />
       <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/resources" />
       <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco" />
-      <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco" />
     </key>
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/Wang-Jun-Chao/spring-all.git" />
@@ -660,139 +431,6 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0089][Gray Code]/[0089][Gray Code].iml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0089][Gray Code]/src/Main.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0089][Gray Code]/src/Solution.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0090][Subsets II]/[0090][Subsets II].iml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0090][Subsets II]/src/Main.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0090][Subsets II]/src/Solution.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0091][Decode Ways]/[0091][Decode Ways].iml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0091][Decode Ways]/src/Main.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0091][Decode Ways]/src/Solution.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0092][Reverse Linked List II]/[0092][Reverse Linked List II].iml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0092][Reverse Linked List II]/src/ListNode.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0092][Reverse Linked List II]/src/Main.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0092][Reverse Linked List II]/src/Solution.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0093][Restore IP Addresses]/[0093][Restore IP Addresses].iml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0093][Restore IP Addresses]/src/Main.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0093][Restore IP Addresses]/src/Solution.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0094][Binary Tree Inorder Traversal]/[0094][Binary Tree Inorder Traversal].iml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0094][Binary Tree Inorder Traversal]/src/Main.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0094][Binary Tree Inorder Traversal]/src/Solution.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0094][Binary Tree Inorder Traversal]/src/TreeNode.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0095][Unique Binary Search Trees II]/[0095][Unique Binary Search Trees II].iml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0095][Unique Binary Search Trees II]/src/Main.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0095][Unique Binary Search Trees II]/src/Solution.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/dnight-leetcode/[0095][Unique Binary Search Trees II]/src/TreeNode.java</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -806,7 +444,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyGithub">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -815,13 +453,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AllSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geccocrawler.gecco.demo.jd.AllSort" />
-      <module name="dnight-gecco" />
+    <configuration name="GithubRepo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dnight.webmagic.simple.GithubRepo" />
+      <module name="dnight-webmagic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geccocrawler.gecco.demo.jd.*" />
+          <option name="PATTERN" value="com.dnight.webmagic.simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -829,55 +467,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DynamicRuleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geccocrawler.gecco.demo.dynamic.DynamicRuleTest" />
-      <module name="dnight-gecco" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="[0109][Convert Sorted List to Binary Search Tree ]" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.geccocrawler.gecco.demo.dynamic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyGithub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geccocrawler.gecco.demo.MyGithub" />
-      <module name="dnight-gecco" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="[0106][Construct Binary Tree from Inorder and Postorder Traversal]" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.geccocrawler.gecco.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SinaList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geccocrawler.gecco.demo.sina.SinaList" />
-      <module name="dnight-gecco" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dnight.base.Test" />
+      <module name="dnight-test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geccocrawler.gecco.demo.sina.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SinaListDynamic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geccocrawler.gecco.demo.sina.SinaListDynamic" />
-      <module name="dnight-gecco" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.geccocrawler.gecco.demo.sina.*" />
+          <option name="PATTERN" value="com.dnight.base.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -925,6 +537,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebMagicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dnight-webmagic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dnight.webmagic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dnight.webmagic.WebMagicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -946,19 +571,19 @@
     <list>
       <item itemvalue="Spring Boot.StandardWebApplication" />
       <item itemvalue="Spring Boot.SpringBootEs" />
-      <item itemvalue="Application.SinaList" />
-      <item itemvalue="Application.SinaListDynamic" />
-      <item itemvalue="Application.AllSort" />
-      <item itemvalue="Application.DynamicRuleTest" />
-      <item itemvalue="Application.MyGithub" />
+      <item itemvalue="Spring Boot.WebMagicApplication" />
+      <item itemvalue="Application.GithubRepo" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyGithub" />
-        <item itemvalue="Application.DynamicRuleTest" />
-        <item itemvalue="Application.AllSort" />
-        <item itemvalue="Application.SinaListDynamic" />
-        <item itemvalue="Application.SinaList" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.GithubRepo" />
+        <item itemvalue="Spring Boot.WebMagicApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -1015,7 +640,11 @@
       <workItem from="1564110873309" duration="81000" />
       <workItem from="1564111123002" duration="3212000" />
       <workItem from="1564121193750" duration="15223000" />
-      <workItem from="1564363938212" duration="95179000" />
+      <workItem from="1564363938212" duration="103417000" />
+      <workItem from="1566197607227" duration="3231000" />
+      <workItem from="1566541188742" duration="597000" />
+      <workItem from="1566882146134" duration="6010000" />
+      <workItem from="1567155222924" duration="14352000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1559705700712</created>
@@ -1164,7 +793,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565856936915</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="commit">
+      <created>1565861481310</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1565861481310</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1200,7 +836,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="505828000" />
+    <option name="totallyTimeSpent" value="538256000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1212,11 +848,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="177" y="55" width="1920" height="1025" extended-state="0" />
-    <editor active="true" />
+    <frame x="378" y="25" width="1440" height="843" extended-state="0" />
     <layout>
       <window_info id="BPMN Editor" order="0" weight="0.32916927" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49667996" visible="true" weight="0.21884984" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49667996" visible="true" weight="0.3025751" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -1227,8 +862,8 @@
       <window_info id="Structure" order="9" sideWeight="0.49839228" weight="0.24797001" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.29046088" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49937966" weight="0.7695606" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.75060827" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49937966" visible="true" weight="0.4966711" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.59807074" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286052" />
@@ -1474,6 +1109,24 @@
           <properties />
           <option name="timeStamp" value="43" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Documents/mvn_data/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/downloader/HttpClientDownloader.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Documents/mvn_data/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/downloader/HttpClientDownloader.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jsse.jar!/sun/security/ssl/Alerts.class</url>
+          <line>202</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1528,347 +1181,330 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/spider/render/json/JsonFieldRender.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/DownloaderContext.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/spider/conversion/BooleanTypeHandle.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/request/HttpGetRequest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/request/AbstractHttpRequest.java">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/proxy/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/resources/mobileUserAgents">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/ajax/JDad.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/jd/JdPricesFieldRender.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/dynamic/MyGithub.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/jd/JDPrice.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/jd/AllSortPipeline.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/[00][simple]/src/main/java/com/dnight/SimpleApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/dnight/gecco/GeccoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="5" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/HttpClientDownloader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/proxy/FileProxys.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/annotation/Ajax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/scheduler/FIFOScheduler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/scheduler/DeriveSchedulerContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/scheduler/NoLoopStartScheduler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="1896">
+          <caret line="79" column="21" selection-start-line="74" selection-start-column="8" selection-end-line="79" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dnight-base-framework/[00][simple]/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="57" selection-end-column="21" />
-        </state>
-      </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-128">
-          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="44" selection-end-column="21" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sogouwx/WeiXin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="689">
+          <caret line="57" column="19" selection-start-line="14" selection-start-column="4" selection-end-line="57" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sogouwx/BeforeArticleDownloader.java">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/[00][simple]/src/main/java/com/dnight/SimpleApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="142">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sogouwx/Article.java">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="48">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" lean-forward="true" selection-start-column="22" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sina/SinaListDynamic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/images/ImageListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/dynamic/AllSortJsonPipeline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/dynamic/DynamicAnnotationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/dynamic/DynamicJD.java">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/src/main/resources/logback-spring.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <caret line="11" column="74" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/dynamic/DynamicRuleTest.java">
+    <entry file="jar://$USER_HOME$/Documents/mvn_data/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/thread/CountableThreadPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        <state relative-caret-position="149">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/GeccoEngine.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jsse.jar!/sun/security/ssl/Alerts.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="120" column="48" lean-forward="true" selection-start-line="120" selection-start-column="48" selection-end-line="120" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2952#2953#0" expanded="true" />
-            <element signature="e#2998#2999#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="144">
+          <caret line="201" column="31" selection-start-line="201" selection-start-column="24" selection-end-line="201" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/spider/SpiderBeanFactory.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jsse.jar!/sun/security/ssl/SSLSocketImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="68" column="45" selection-start-line="68" selection-start-column="45" selection-end-line="68" selection-end-column="45" />
+        <state relative-caret-position="95">
+          <caret line="595" selection-start-line="595" selection-end-line="595" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Documents/mvn_data/org/reflections/reflections/0.9.11/reflections-0.9.11-sources.jar!/org/reflections/util/ConfigurationBuilder.java">
+    <entry file="jar://$USER_HOME$/Documents/mvn_data/org/apache/httpcomponents/httpclient/4.5.9/httpclient-4.5.9-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="74" column="39" selection-start-line="74" selection-start-column="39" selection-end-line="74" selection-end-column="39" />
+        <state relative-caret-position="116">
+          <caret line="184" selection-start-line="184" selection-end-line="184" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/jd/AllSort.java">
+    <entry file="jar://$USER_HOME$/Documents/mvn_data/org/apache/httpcomponents/httpclient/4.5.9/httpclient-4.5.9-sources.jar!/org/apache/http/impl/execchain/RedirectExec.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-112">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="116">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/CommonCrawler.java">
+    <entry file="jar://$USER_HOME$/Documents/mvn_data/org/apache/httpcomponents/httpclient/4.5.9/httpclient-4.5.9-sources.jar!/org/apache/http/impl/execchain/RetryExec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Documents/mvn_data/org/apache/httpcomponents/httpclient/4.5.9/httpclient-4.5.9-sources.jar!/org/apache/http/impl/execchain/ProtocolExec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="185" selection-start-line="185" selection-end-line="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Documents/mvn_data/org/apache/httpcomponents/httpclient/4.5.9/httpclient-4.5.9-sources.jar!/org/apache/http/impl/client/CloseableHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="695">
+          <caret line="78" column="33" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Documents/mvn_data/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/downloader/HttpClientDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="81" column="77" selection-start-line="81" selection-start-column="77" selection-end-line="81" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Documents/mvn_data/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/downloader/HttpUriRequestConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Documents/mvn_data/org/apache/httpcomponents/httpclient/4.5.9/httpclient-4.5.9-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7728">
+          <caret line="392" selection-start-line="392" selection-end-line="392" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Documents/mvn_data/org/apache/httpcomponents/httpclient/4.5.9/httpclient-4.5.9-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7224">
+          <caret line="373" selection-start-line="373" selection-end-line="373" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Documents/mvn_data/org/apache/httpcomponents/httpclient/4.5.9/httpclient-4.5.9-sources.jar!/org/apache/http/impl/conn/DefaultHttpClientConnectionOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Documents/mvn_data/org/apache/httpcomponents/httpclient/4.5.9/httpclient-4.5.9-sources.jar!/org/apache/http/conn/ssl/SSLConnectionSocketFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9024">
+          <caret line="435" selection-start-line="435" selection-end-line="435" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1992">
+          <caret line="83" column="19" selection-start-line="13" selection-start-column="2" selection-end-line="83" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" selection-start-line="27" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Documents/mvn_data/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/Spider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8880">
+          <caret line="403" column="34" selection-start-line="403" selection-start-column="34" selection-end-line="403" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Documents/mvn_data/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/downloader/Downloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/src/main/java/com/dnight/webmagic/WebMagicApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <caret line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sina/SinaList.java">
+    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/src/main/java/com/dnight/webmagic/simple/GithubRepo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="192">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/MyGithub.java">
+    <entry file="file://$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/base/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-122">
-          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="66" />
+        <state relative-caret-position="504">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0101][Symmetric Tree]/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0101][Symmetric Tree]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="45" column="55" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0102][Binary Tree Level Order Traversal]/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0102][Binary Tree Level Order Traversal]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="62" column="18" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0103][Binary Tree Zigzag Level Order Traversal]/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0103][Binary Tree Zigzag Level Order Traversal]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0104][Maximum Depth of Binary Tree]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0104][Maximum Depth of Binary Tree]/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0105][Construct Binary Tree from Preorder and Inorder Traversal]/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0106][Construct Binary Tree from Inorder and Postorder Traversal]/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0105][Construct Binary Tree from Preorder and Inorder Traversal]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0106][Construct Binary Tree from Inorder and Postorder Traversal]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="54" column="41" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0106][Construct Binary Tree from Inorder and Postorder Traversal]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0107][Binary Tree Level Order Traversal II]/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0107][Binary Tree Level Order Traversal II]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/test/Test.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0108][Convert Sorted Array to Binary Search Tree]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        <state relative-caret-position="-22">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree]/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0108][Convert Sorted Array to Binary Search Tree]/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree ]/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree ]/src/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree ]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1371">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/sogouwx/SogouWX.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree ]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="113" />
+        <state relative-caret-position="1440">
+          <caret line="60" column="18" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/spider/SpiderBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0110][Balanced Binary Tree]/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/pipeline/ConsolePipeline.java">
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0110][Balanced Binary Tree]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/pipeline/DefaultPipelineFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/pipeline/PipelineFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/pipeline/Pipeline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/pipeline/JsonPipeline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Documents/mvn_data/org/weakref/jmxutils/1.19/jmxutils-1.19-sources.jar!/org/weakref/jmx/Managed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/monitor/DownloadMBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="12" />
+        <state relative-caret-position="614">
+          <caret line="60" column="53" selection-start-line="60" selection-start-column="53" selection-end-line="60" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -1925,11 +1561,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>dnight-gecco</last-edited>
+          <last-edited>[0110][Balanced Binary Tree]</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.37471265" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

@@ -16,6 +16,7 @@
         <module>dnight-spring-learn</module>
         <module>dnight-gecco</module>
         <module>[00][simple]</module>
+        <module>dnight-webmagic</module>
     </modules>
 
     <name>${project.artifactId}</name>
