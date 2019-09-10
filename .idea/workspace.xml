@@ -15,6 +15,11 @@
       <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/dynamic/AllSortJsonPipeline.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/dynamic/AllSortJsonPipeline.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/images/ImageListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/images/ImageListDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/jd/ProductList.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/jd/ProductList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/spring-boot-es.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/spring-boot-es.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnight-leetcode/[0108][Convert Sorted Array to Binary Search Tree]/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnight-leetcode/[0108][Convert Sorted Array to Binary Search Tree]/src/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnight-leetcode/dnight-leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-leetcode/dnight-leetcode.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -113,10 +118,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0132][Palindrome Partitioning II]/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0140][Word Break II]/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-28">
-              <caret line="15" column="88" lean-forward="true" selection-start-line="15" selection-start-column="88" selection-end-line="15" selection-end-column="88" />
+            <state relative-caret-position="774">
+              <caret line="59" column="5" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="59" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -189,22 +194,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dnight-base-framework/[00][simple]/pom.xml" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/src/main/resources/logback-spring.xml" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/src/main/java/com/dnight/webmagic/simple/GithubRepo.java" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/src/main/java/com/dnight/webmagic/WebMagicApplication.java" />
-        <option value="$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/pom.xml" />
-        <option value="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/base/Test.java" />
-        <option value="$PROJECT_DIR$/dnight-leetcode/[0101][Symmetric Tree]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/dnight-leetcode/[0102][Binary Tree Level Order Traversal]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/dnight-leetcode/[0103][Binary Tree Zigzag Level Order Traversal]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/dnight-leetcode/[0104][Maximum Depth of Binary Tree]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/dnight-leetcode/[0105][Construct Binary Tree from Preorder and Inorder Traversal]/src/Solution.java" />
         <option value="$PROJECT_DIR$/dnight-leetcode/[0106][Construct Binary Tree from Inorder and Postorder Traversal]/src/Solution.java" />
         <option value="$PROJECT_DIR$/dnight-leetcode/[0106][Construct Binary Tree from Inorder and Postorder Traversal]/src/Main.java" />
         <option value="$PROJECT_DIR$/dnight-leetcode/[0107][Binary Tree Level Order Traversal II]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/dnight-leetcode/[0108][Convert Sorted Array to Binary Search Tree]/src/Solution.java" />
         <option value="$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree ]/src/ListNode.java" />
         <option value="$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree ]/src/Solution.java" />
         <option value="$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree ]/src/Main.java" />
@@ -240,6 +232,19 @@
         <option value="$PROJECT_DIR$/dnight-leetcode/[0130][Surrounded Regions]/src/Main.java" />
         <option value="$PROJECT_DIR$/dnight-leetcode/[0131][Palindrome Partitioning]/src/Solution.java" />
         <option value="$PROJECT_DIR$/dnight-leetcode/[0132][Palindrome Partitioning II]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/pom.xml" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0133][Clone Graph]/src/Node.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0133][Clone Graph]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0134][Gas Station]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0108][Convert Sorted Array to Binary Search Tree]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0135][Candy]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0136][Single Number]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0137][Single Number II]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0138][Copy List with Random Pointer]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0138][Copy List with Random Pointer]/src/Node.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0138][Copy List with Random Pointer]/src/Main.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0139][Word Break]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-leetcode/[0140][Word Break II]/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -282,7 +287,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="413" />
+    <option name="x" value="379" />
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="1025" />
@@ -333,7 +338,7 @@
               <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
               <item name="dnight-leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="[0132][Palindrome Partitioning II]" type="462c0819:PsiDirectoryNode" />
+              <item name="[0140][Word Break II]" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -353,7 +358,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568022141515" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568100091103" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="com.dnight.improve.BaseTest" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -393,11 +398,11 @@
       <recent name="com.dnight.base.framework.common.configuration" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dnight-leetcode/[0108][Convert Sorted Array to Binary Search Tree]/src" />
       <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-webmagic/src/main/resources" />
       <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/resources" />
       <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo" />
       <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/resources" />
-      <recent name="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco" />
     </key>
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/Wang-Jun-Chao/spring-all.git" />
@@ -418,7 +423,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -435,9 +440,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="[0119][Pascal's Triangle II]" />
+      <module name="[0138][Copy List with Random Pointer]" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -528,19 +533,19 @@
     <list>
       <item itemvalue="Spring Boot.StandardWebApplication" />
       <item itemvalue="Spring Boot.SpringBootEs" />
-      <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -605,7 +610,7 @@
       <workItem from="1567648504709" duration="20625000" />
       <workItem from="1567992263646" duration="2657000" />
       <workItem from="1567994965258" duration="1492000" />
-      <workItem from="1567996536466" duration="16840000" />
+      <workItem from="1567996536466" duration="29953000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1559705700712</created>
@@ -775,7 +780,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567678301849</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="commit">
+      <created>1568023066380</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1568023066381</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -811,7 +823,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="586678000" />
+    <option name="totallyTimeSpent" value="599791000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -823,10 +835,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="413" y="23" width="1920" height="1025" extended-state="0" />
+    <frame x="836" y="55" width="1920" height="1025" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="BPMN Editor" order="0" weight="0.32916927" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49667996" visible="true" weight="0.21299255" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49667996" weight="0.27635783" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -844,8 +857,8 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3279743" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32934928" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.66871166" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5009798" side_tool="true" weight="0.31751823" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32683486" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5009798" side_tool="true" weight="0.31725615" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32583067" />
       <window_info anchor="bottom" id="Tail" order="11" weight="0.32885087" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49902025" weight="0.27974278" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
@@ -1110,15 +1123,21 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/dnight-leetcode/[0126][Word Ladder II]/src/Solution.java</url>
-          <line>60</line>
+          <line>61</line>
           <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/dnight-leetcode/[0126][Word Ladder II]/src/Solution.java</url>
-          <line>109</line>
+          <line>110</line>
           <properties />
           <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dnight-leetcode/[0138][Copy List with Random Pointer]/src/Solution.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1179,148 +1198,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree]/src/TreeNode.java" />
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree]/src/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0108][Convert Sorted Array to Binary Search Tree]/src/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree ]/src/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree ]/src/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree ]/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1371">
-          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0109][Convert Sorted List to Binary Search Tree ]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="60" column="18" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0110][Balanced Binary Tree]/src/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0110][Balanced Binary Tree]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="614">
-          <caret line="60" column="53" selection-start-line="60" selection-start-column="53" selection-end-line="60" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0111][Minimum Depth of Binary Tree]/src/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0111][Minimum Depth of Binary Tree]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="40" column="5" selection-start-line="28" selection-start-column="7" selection-end-line="40" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0112][Path Sum]/src/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0112][Path Sum]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0113][Path Sum II]/src/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0113][Path Sum II]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="888">
-          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="70" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0114][Flatten Binary Tree to Linked List]/src/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0114][Flatten Binary Tree to Linked List]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0115][Distinct Subsequences]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="53" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0116][Populating Next Right Pointers in Each Node]/src/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0116][Populating Next Right Pointers in Each Node]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="64" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0117][Populating Next Right Pointers in Each Node II]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="87" column="48" selection-start-line="87" selection-start-column="48" selection-end-line="87" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0117][Populating Next Right Pointers in Each Node II]/src/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0118][Pascal's Triangle]/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0118][Pascal's Triangle]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0119][Pascal's Triangle II]/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0119][Pascal's Triangle II]/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="36" column="22" selection-start-line="28" selection-start-column="7" selection-end-line="36" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0120][Triangle]/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
@@ -1490,10 +1367,190 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/src/main/java/com/dnight/SpringBootEs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/src/main/java/com/dnight/repository/BookRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/src/main/java/com/dnight/repository/ConferenceRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/src/main/java/com/dnight/common/EsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-elasticsearch/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es1/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="809">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0132][Palindrome Partitioning II]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28">
-          <caret line="15" column="88" lean-forward="true" selection-start-line="15" selection-start-column="88" selection-end-line="15" selection-end-column="88" />
+        <state relative-caret-position="-161">
+          <caret line="15" column="88" selection-start-line="15" selection-start-column="88" selection-end-line="15" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0133][Clone Graph]/src/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0133][Clone Graph]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0134][Gas Station]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="42" column="33" lean-forward="true" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0107][Binary Tree Level Order Traversal II]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0030][Substring With Concatenation of All Words]/[0030][Substring With Concatenation of All Words].iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0031][Next Permutation]/[0031][Next Permutation].iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0000][common]/src/FileRename.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0108][Convert Sorted Array to Binary Search Tree]/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0108][Convert Sorted Array to Binary Search Tree]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0030][Substring With Concatenation of All Words]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0030][Substring With Concatenation of All Words]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0135][Candy]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0136][Single Number]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0137][Single Number II]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0138][Copy List with Random Pointer]/src/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#216#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0138][Copy List with Random Pointer]/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0138][Copy List with Random Pointer]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0139][Word Break]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="76" column="21" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0140][Word Break II]/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="59" column="5" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="59" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1550,7 +1607,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>[0110][Balanced Binary Tree]</last-edited>
+          <last-edited>[0035][Search Insert Position]</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
