@@ -22,5 +22,8 @@ public class Test {
         Inner i = new Test().new Inner();
         System.out.println(i.flag != null && !i.flag);
         System.out.println(i.flag);
+
+        String str = "abcdefghi";
+        System.out.println(str.substring(0, 2));
     }
 }
