@@ -43,6 +43,7 @@
         <module name="dnight-test" />
         <module name="dnight-webmagic" />
         <module name="hadoop-hdfs-learn" />
+        <module name="java-io" />
         <module name="java8-tutorial" />
         <module name="spring-boot-es" />
         <module name="spring-boot-es1" />
@@ -94,6 +95,7 @@
       <module name="dnight-test" target="1.8" />
       <module name="dnight-webmagic" target="1.8" />
       <module name="hadoop-hdfs-learn" target="1.8" />
+      <module name="java-io" target="1.8" />
       <module name="java8-tutorial" target="1.8" />
       <module name="spring-boot-es" target="1.8" />
       <module name="spring-boot-es1" target="1.8" />
@@ -139,6 +141,7 @@
       <module name="dnight-test" options="-parameters" />
       <module name="dnight-webmagic" options="-parameters" />
       <module name="hadoop-hdfs-learn" options="-parameters" />
+      <module name="java-io" options="-parameters" />
       <module name="java8-tutorial" options="-parameters" />
       <module name="spring-boot-es" options="-parameters" />
       <module name="spring-boot-es1" options="-parameters" />
