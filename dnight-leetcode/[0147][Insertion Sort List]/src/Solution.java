@@ -40,14 +40,50 @@ public class Solution {
      * @return
      */
     public ListNode insertionSortList(ListNode head) {
-        ListNode after = head.next;
-        ListNode originPrev = head;
-        while (after != null) {
-            ListNode prev = originPrev;
-            ListNode current = after;
-            current.next = prev;
-            after = after.next;
+        if (head == null) {
+            return null;
         }
-        return null;
+        return insertionOnNode(head, head);
+    }
+
+    /**
+     * 从链表头部开始遍历，记录当前已完成插入排序的最后一个节点。然后进行以下操作：
+     * - 获得要插入排序的节点 curNode 、其上一个节点 perNode 、其下一个节点 nextNode;
+     * - 判断 curNode 是否应插入在 perNode 之后，若否，将 curNode 从链表中移除准备插入，
+     * 若是，无需进一步操作，此时已排序的最后一个节点为 curNode;
+     * - 在链表头节点前增加一个节点，应对 curNode 插入位置在 头节点之前的情况;
+     * - 从头节点开始遍历，找到curNode 的插入位置，进行插入;
+     * - 此时已排序的最后一个节点仍为 perNode ，重复以上操作直至链表末尾。
+     *
+     * @param head
+     * @param node
+     * @return
+     */
+    private ListNode insertionOnNode(ListNode head, ListNode node) {
+        if (head == null || node == null || node.next == null) {
+            return head;
+        }
+        ListNode perNode = node;
+        ListNode curNode = node.next;
+        ListNode nextNode = curNode.next;
+        if (node.val <= curNode.val) {
+            return insertionOnNode(head, curNode);
+        } else {
+            // 大于最后一个节点
+            node.next = nextNode;
+        }
+
+        ListNode pNode = new ListNode(0);
+        pNode.next = head;
+        head = pNode;
+        while (pNode.next.val <= curNode.val) {
+            pNode = pNode.next;
+        }
+        // 恢复并插入列表
+        ListNode nNode = pNode.next;
+        pNode.next = curNode;
+        curNode.next = nNode;
+        // 此时已排序的最后一个节点仍然为perNode
+        return insertionOnNode(head.next, perNode);
     }
 }
