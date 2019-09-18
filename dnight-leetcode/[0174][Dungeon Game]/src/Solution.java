@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 /**
  * @author ZHONGPENG769
  * @date 2019/9/18
@@ -50,17 +52,20 @@ public class Solution {
         int n = dungeon[0].length;
 
         int[][] health = new int[m][n];
-        // Q的活命
+        // Q的活命，生命值
         health[m - 1][n - 1] = Math.max(1 - dungeon[m - 1][n - 1], 1);
 
+        // 最后一列，倒数第二行，只能往左
         for (int i = m - 2; i >= 0; i--) {
             health[i][n - 1] = Math.max(health[i + 1][n - 1] - dungeon[i][n - 1], 1);
         }
 
+        // 最后一行，倒数第二列，只能往上
         for (int j = n - 2; j >= 0; j--) {
             health[m - 1][j] = Math.max(health[m - 1][j + 1] - dungeon[m - 1][j], 1);
         }
 
+        // 剩余部分
         for (int i = m - 2; i >= 0; i--) {
             for (int j = n - 2; j >= 0; j--) {
                 int down = Math.max(health[i + 1][j] - dungeon[i][j], 1);
@@ -70,5 +75,23 @@ public class Solution {
         }
 
         return health[0][0];
+    }
+
+    public int calculateMinimumHP1(int[][] dungeon) {
+        int m = dungeon.length;
+        int n = dungeon[0].length;
+        int[][] dp = new int[m + 1][n + 1];
+        for (int i = 0; i <= m; i++) {
+            Arrays.fill(dp[i], Integer.MAX_VALUE);
+        }
+        dp[m][n - 1] = 1;
+        dp[m - 1][n] = 1;
+        for (int i = m - 1; i >= 0; i--) {
+            for (int j = n - 1; j >= 0; j--) {
+                int minHp = Math.min(dp[i + 1][j], dp[i][j + 1]) - dungeon[i][j];
+                dp[i][j] = (minHp <= 0) ? 1 : minHp;
+            }
+        }
+        return dp[0][0];
     }
 }
