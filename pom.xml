@@ -31,6 +31,7 @@
         <version>2.1.6.RELEASE</version>
     </parent>
 
+
     <!-- 公共信息配置 -->
     <properties>
         <!-- 項目配置 -->
