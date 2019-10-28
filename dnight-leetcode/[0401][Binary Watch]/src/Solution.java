@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 /**
  * @author ZHONGPENG769
@@ -68,9 +69,9 @@ public class Solution {
     public static void main(String[] args) {
         Solution solution = new Solution();
         List<String> strings = solution.readBinaryWatch(2);
-        for (String str : strings) {
-            System.out.println(str);
-        }
+        String collect = strings.stream().collect(Collectors.joining(",", "{", "}"));
+        System.out.println(collect);
+
 
     }
 }
