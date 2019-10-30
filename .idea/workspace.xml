@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70f7e6f9-c32d-4117-b889-53441f6c6378" name="Default" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/DownloadTimeoutException.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/DownloadTimeoutException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/HttpClientDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/main/java/com/geccocrawler/gecco/downloader/HttpClientDownloader.java" afterDir="false" />
@@ -15,9 +14,6 @@
       <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/dynamic/AllSortJsonPipeline.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/dynamic/AllSortJsonPipeline.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/images/ImageListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/images/ImageListDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/jd/ProductList.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/jd/ProductList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/spring-boot-es.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/spring-boot-es.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/src/test/java/com/dnight/ElasticsearchOperationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/src/test/java/com/dnight/ElasticsearchOperationsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -115,15 +111,12 @@
     <favorites_list name="dnight-framework" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0301][Remove Invalid Parentheses]/src/Solution.java">
+        <entry file="file://$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/base/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="811">
-              <caret line="41" column="38" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="93" column="43" lean-forward="true" selection-start-line="90" selection-start-column="8" selection-end-line="93" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -196,8 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dnight-leetcode/[0345][Reverse Vowels of a String]/src/Solution.java" />
-        <option value="$PROJECT_DIR$/dnight-leetcode/[0346][Moving Average from Data Stream]/src/MovingAverage.java" />
         <option value="$PROJECT_DIR$/dnight-leetcode/[0349][Intersection of Two Arrays]/src/Solution.java" />
         <option value="$PROJECT_DIR$/dnight-leetcode/[0350][Intersection of Two Arrays II ]/src/Solution.java" />
         <option value="$PROJECT_DIR$/dnight-leetcode/[0359][Logger Rate Limiter]/src/Solution.java" />
@@ -247,6 +238,8 @@
         <option value="$PROJECT_DIR$/dnight-leetcode/[0441][Arranging Coins]/src/Solution.java" />
         <option value="$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/src/test/java/com/dnight/ElasticsearchOperationsTest.java" />
         <option value="$PROJECT_DIR$/dnight-leetcode/[0301][Remove Invalid Parentheses]/src/Solution.java" />
+        <option value="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/juc/forkjoin/ForkJoinPoolDemo.java" />
+        <option value="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/base/Main.java" />
       </list>
     </option>
   </component>
@@ -289,8 +282,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="139" />
-    <option name="y" value="34" />
+    <option name="y" value="47" />
     <option name="width" value="1440" />
     <option name="height" value="845" />
   </component>
@@ -331,6 +323,51 @@
               <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dnight" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -349,7 +386,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572343528285" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572445241284" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="com.dnight.improve.BaseTest" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -414,11 +451,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="WIDTH" value="0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForkJoinPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dnight.juc.forkjoin.ForkJoinPoolDemo" />
+      <module name="dnight-test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dnight.juc.forkjoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dnight.base.Main" />
+      <module name="dnight-test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dnight.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -443,28 +508,6 @@
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="[0441][Arranging Coins]" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="[0414][Third Maximum Number]" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dnight.string.TestChar" />
-      <module name="dnight-test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dnight.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -530,19 +573,19 @@
     <list>
       <item itemvalue="Spring Boot.StandardWebApplication" />
       <item itemvalue="Spring Boot.SpringBootEs" />
-      <item itemvalue="Application.TestChar" />
-      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.ForkJoinPoolDemo" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.ForkJoinPoolDemo" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.TestChar" />
       </list>
     </recent_temporary>
   </component>
@@ -615,14 +658,8 @@
       <workItem from="1571621123026" duration="3180000" />
       <workItem from="1571706864969" duration="1725000" />
       <workItem from="1571737202944" duration="592000" />
-      <workItem from="1571800479065" duration="48216000" />
-    </task>
-    <task id="LOCAL-00005" summary="提交">
-      <created>1561952829376</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1561952829376</updated>
+      <workItem from="1571800479065" duration="50591000" />
+      <workItem from="1572439790405" duration="4835000" />
     </task>
     <task id="LOCAL-00006" summary="提交">
       <created>1561975236215</created>
@@ -960,7 +997,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572331651874</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="commit">
+      <created>1572343843358</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1572343843358</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -996,7 +1040,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="868923000" />
+    <option name="totallyTimeSpent" value="876133000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1008,10 +1052,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="139" y="34" width="1440" height="845" extended-state="0" />
+    <frame x="0" y="47" width="1440" height="845" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="BPMN Editor" order="0" weight="0.32916927" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.4948605" visible="true" weight="0.2553648" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4948605" weight="0.25894135" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -1022,7 +1067,7 @@
       <window_info id="Structure" order="9" sideWeight="0.49839228" weight="0.24678111" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.28818062" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49937966" weight="0.41434264" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49937966" visible="true" weight="0.41434264" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27091634" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1420,6 +1465,30 @@
           <properties />
           <option name="timeStamp" value="81" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/base/Main.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/base/Main.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/base/Main.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/base/Main.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1478,27 +1547,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/base/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/base/OperatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0387][First Unique Character in a String]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="394">
           <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1506,10 +1558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
           <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="49" selection-end-column="35" />
-          <folding>
-            <element signature="e#1278#1279#0" expanded="true" />
-            <element signature="e#1350#1351#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1569,10 +1617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="171" column="16" lean-forward="true" selection-start-line="171" selection-start-column="16" selection-end-line="171" selection-end-column="16" />
-          <folding>
-            <element signature="e#6453#6454#0" expanded="true" />
-            <element signature="e#6499#6500#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1580,12 +1624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="832" column="23" selection-start-line="832" selection-start-column="23" selection-end-line="832" selection-end-column="23" />
-          <folding>
-            <element signature="e#6252#6253#0" expanded="true" />
-            <element signature="e#6320#6321#0" expanded="true" />
-            <element signature="e#30684#30685#0" expanded="true" />
-            <element signature="e#30716#30717#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1613,10 +1651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="636" column="32" selection-start-line="636" selection-start-column="31" selection-end-line="636" selection-end-column="32" />
-          <folding>
-            <element signature="e#24298#24299#0" expanded="true" />
-            <element signature="e#24363#24364#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1624,9 +1658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1675,9 +1706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1685,9 +1713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="41" selection-start-line="41" selection-end-line="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1695,9 +1720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
           <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1733,10 +1755,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1758,10 +1776,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-160">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1810,9 +1824,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1874,11 +1885,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0301][Remove Invalid Parentheses]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="811">
-          <caret line="41" column="38" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="38" />
+        <state relative-caret-position="-518">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/juc/forkjoin/ForkJoinPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/base/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="93" column="43" lean-forward="true" selection-start-line="90" selection-start-column="8" selection-end-line="93" selection-end-column="43" />
         </state>
       </provider>
     </entry>
