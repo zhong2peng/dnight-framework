@@ -14,6 +14,7 @@
       <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/dynamic/AllSortJsonPipeline.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/dynamic/AllSortJsonPipeline.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/images/ImageListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/images/ImageListDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/jd/ProductList.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-base-framework/dnight-gecco/src/test/java/com/geccocrawler/gecco/demo/jd/ProductList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/base/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/base/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -115,8 +116,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/base/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="93" column="43" lean-forward="true" selection-start-line="90" selection-start-column="8" selection-end-line="93" selection-end-column="43" />
+            <state relative-caret-position="2040">
+              <caret line="85" column="15" lean-forward="true" selection-start-line="85" selection-start-column="15" selection-end-line="85" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -282,7 +283,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="47" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="845" />
   </component>
@@ -314,59 +315,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dnight-framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dnight-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dnight" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -386,7 +342,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572445241284" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572505750282" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="com.dnight.improve.BaseTest" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -659,14 +615,8 @@
       <workItem from="1571706864969" duration="1725000" />
       <workItem from="1571737202944" duration="592000" />
       <workItem from="1571800479065" duration="50591000" />
-      <workItem from="1572439790405" duration="4835000" />
-    </task>
-    <task id="LOCAL-00006" summary="提交">
-      <created>1561975236215</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1561975236215</updated>
+      <workItem from="1572439790405" duration="5836000" />
+      <workItem from="1572484360715" duration="1552000" />
     </task>
     <task id="LOCAL-00007" summary="提交">
       <created>1562061388627</created>
@@ -1004,7 +954,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572343843358</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="commit">
+      <created>1572445380155</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1572445380157</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1040,7 +997,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="876133000" />
+    <option name="totallyTimeSpent" value="878686000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1052,11 +1009,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="47" width="1440" height="845" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="845" extended-state="1" />
     <layout>
       <window_info id="BPMN Editor" order="0" weight="0.32916927" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4948605" weight="0.25894135" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.4948605" visible="true" weight="0.25894135" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -1067,7 +1023,7 @@
       <window_info id="Structure" order="9" sideWeight="0.49839228" weight="0.24678111" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.28818062" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49937966" visible="true" weight="0.41434264" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49937966" weight="0.41434264" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27091634" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1473,19 +1429,19 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/base/Main.java</url>
-          <line>59</line>
+          <line>57</line>
           <properties />
           <option name="timeStamp" value="86" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/base/Main.java</url>
-          <line>57</line>
+          <line>55</line>
           <properties />
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/base/Main.java</url>
-          <line>71</line>
+          <line>69</line>
           <properties />
           <option name="timeStamp" value="88" />
         </line-breakpoint>
@@ -1638,12 +1594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1278">
           <caret line="3813" column="9" selection-start-line="3811" selection-start-column="29" selection-end-line="3813" selection-end-column="9" />
-          <folding>
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-            <element signature="e#177353#177354#0" expanded="true" />
-            <element signature="e#177410#177411#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1794,10 +1744,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dnight-base-framework/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2269" />
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0306][Additive Number]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1876,12 +1826,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dnight-elasticsearch/spring-boot-es/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="531">
           <caret line="50" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dnight-leetcode/[0301][Remove Invalid Parentheses]/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1894,16 +1844,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1037">
           <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dnight-test/src/main/java/com/dnight/base/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="93" column="43" lean-forward="true" selection-start-line="90" selection-start-column="8" selection-end-line="93" selection-end-column="43" />
+        <state relative-caret-position="2040">
+          <caret line="85" column="15" lean-forward="true" selection-start-line="85" selection-start-column="15" selection-end-line="85" selection-end-column="15" />
         </state>
       </provider>
     </entry>

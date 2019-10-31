@@ -51,9 +51,7 @@ public class Main {
         for (int i = 1, len = input.length(); i < len; i++) {
             if (last == input.charAt(i)) {
                 current++;
-                if (len - 1 == i && current == max && res - last > 0) {
-                    res = input.charAt(i);
-                }
+
             } else {
                 if (max < current) {
                     max = current;
@@ -72,6 +70,9 @@ public class Main {
         if (flag) {
             max = input.length();
         }
+        if (current == max && res - last > 0) {
+            res = input.charAt(input.length() - 1);
+        }
         StringBuilder sb = new StringBuilder();
         while (max > 0) {
             sb.append(res);
@@ -88,11 +89,15 @@ public class Main {
         String input1 = "aaabbbbbccccccccczzzzzzzzz";
         String input2 = "aa";
         String input3 = "xxaabb";
+        String input4 = "xba";
+        String input5 = "xxbbaa";
         System.out.println(output(input01));
         System.out.println(output(input0));
         System.out.println(output(input1));
         System.out.println(output(input2));
         System.out.println(output(input3));
+        System.out.println(output(input4));
+        System.out.println(output(input5));
 
 
     }
