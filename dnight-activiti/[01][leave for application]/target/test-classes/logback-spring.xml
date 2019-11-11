@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration debug="false" scan="true" scanPeriod="30 second">
+    <jmxConfigurator/>
+    <property name="PROJECT" value="leave" />
+    <property name="ROOT" value="logs/${PROJECT}/leave.log" />
+    <property name="FILESIZE" value="50MB" />
+    <property name="MAXHISTORY" value="100" />
+    <timestamp key="DATETIME" datePattern="yyyy-MM-dd HH:mm:ss" />
+
+    <include resource="org/springframework/boot/logging/logback/defaults.xml"/>
+    <include resource="org/springframework/boot/logging/logback/console-appender.xml"/>
+    <!-- 控制台打印 -->
+    <!--<appender name="console" class="ch.qos.logback.core.ConsoleAppender">-->
+        <!--<filter class="ch.qos.logback.classic.filter.ThresholdFilter">-->
+            <!--<level>DEBUG</level>-->
+        <!--</filter>-->
+        <!--<encoder charset="utf-8">-->
+            <!--<pattern>[%-5level] %d{${DATETIME}} [%thread] %logger{36} - %m%n-->
+            <!--</pattern>-->
+        <!--</encoder>-->
+    <!--</appender>-->
+    <!-- 输出到文件 -->
+    <appender name="file" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${ROOT}</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${ROOT}.%d{yyyy-MM-dd}/1.%i.log</fileNamePattern>
+            <!-- 如果按天来回滚，则最大保存时间为30天，30天之前的都将被清理掉 -->
+            <maxHistory>30</maxHistory>
+            <!-- 日志总保存量为10GB -->
+            <totalSizeCap>10 GB</totalSizeCap>
+            <timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+                <!--文件达到 最大128MB时会被压缩和切割 -->
+                <maxFileSize>128 MB</maxFileSize>
+            </timeBasedFileNamingAndTriggeringPolicy>
+        </rollingPolicy>
+        <encoder charset="utf-8">
+            <pattern>[%-5level] %d{${DATETIME}} [%thread] %logger{36} - %m%n
+            </pattern>
+        </encoder>
+    </appender>
+    <root level="debug" name="com.dnight.improve" additivity="false">
+        <appender-ref ref="CONSOLE"/>
+        <appender-ref ref="file"/>
+    </root>
+</configuration>

@@ -10,6 +10,14 @@ import java.util.concurrent.LinkedBlockingQueue;
 public class TestChar {
 
     public static void main(String[] args) {
+
+        int i1 = 10;
+        int i2 = 20;
+        int k = 0;
+        int res = ++k + k++ + k + k++ + ++k;
+        // 1 1 1 1 2
+        System.out.println(res);
+        System.out.println("i1 - i2 = "+i1+i2);
         BlockingQueue<Integer> queue = new LinkedBlockingQueue<>();
 
         for (int i = 0; i < 5; i++) {

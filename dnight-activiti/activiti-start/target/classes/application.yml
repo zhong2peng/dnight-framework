@@ -1,0 +1,5 @@
+spring:
+  activiti:
+    database-schema-update: true
+    check-process-definitions: true
+    history-level: full
