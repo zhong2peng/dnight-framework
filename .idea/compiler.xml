@@ -75,6 +75,7 @@
       <module name="[020][chapter020]" target="1.8" />
       <module name="[021][echo]" target="1.8" />
       <module name="[022][discard]" target="1.8" />
+      <module name="[0447][Number of Boomerangs]" target="1.8" />
       <module name="activiti-start" target="1.8" />
       <module name="dnight-activiti" target="1.8" />
       <module name="dnight-base-framework" target="1.8" />
@@ -128,6 +129,7 @@
       <module name="[020][chapter020]" options="-parameters" />
       <module name="[021][echo]" options="-parameters" />
       <module name="[022][discard]" options="-parameters" />
+      <module name="[0447][Number of Boomerangs]" options="-parameters" />
       <module name="activiti-start" options="-parameters" />
       <module name="dnight-activiti" options="-parameters" />
       <module name="dnight-base-springboot2" options="-parameters" />
