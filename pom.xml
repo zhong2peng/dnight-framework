@@ -54,7 +54,7 @@
         <commons-lang3.version>3.6</commons-lang3.version>
         <commons-configuration.version>1.8</commons-configuration.version>
         <guava.version>22.0</guava.version>
-        <fastjson.version>1.2.29</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <icu4j.version>58.1</icu4j.version>
 
         <!-- spring boot support -->
